@@ -1,0 +1,2 @@
+# Exact v1.1.1 output snapshots intentionally retain rendered text whitespace.
+compat/v1.1.1/*.compile.txt -whitespace
