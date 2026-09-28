@@ -38,19 +38,10 @@ impl AudioClock {
             },
             warning: Some(warning),
         };
-        let Some(music) = doc.meta.music() else {
+        let Some(path) = music_path(doc) else {
             return fallback(
                 "warning: music meta is missing; using monotonic no-audio clock".into(),
             );
-        };
-        let raw = Path::new(music);
-        let path = if raw.is_absolute() {
-            raw.to_path_buf()
-        } else {
-            Path::new(&doc.file)
-                .parent()
-                .unwrap_or_else(|| Path::new(""))
-                .join(raw)
         };
         if !path.exists() {
             return fallback(format!(
@@ -78,6 +69,13 @@ impl AudioClock {
 
     pub fn warning(&self) -> Option<&str> {
         self.warning.as_deref()
+    }
+
+    pub fn mode_name(&self) -> &'static str {
+        match &self.mode {
+            Mode::Fallback { .. } => "fallback",
+            Mode::Playing { .. } => "audio",
+        }
     }
 
     pub fn current_ms(&mut self) -> i64 {
@@ -125,6 +123,18 @@ impl AudioClock {
             player.stop();
         }
     }
+}
+
+pub fn music_path(doc: &Document) -> Option<PathBuf> {
+    let raw = Path::new(doc.meta.music()?);
+    Some(if raw.is_absolute() {
+        raw.to_path_buf()
+    } else {
+        Path::new(&doc.file)
+            .parent()
+            .unwrap_or_else(|| Path::new(""))
+            .join(raw)
+    })
 }
 
 impl Drop for AudioClock {

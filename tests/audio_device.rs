@@ -33,9 +33,15 @@ fn audio_can_finish_before_the_last_script_event() {
         "[meta music=\"silence.wav\"]\n[track x]\n[00:00.000]A\n[00:00.150]B\n[endtrack]\n",
     )
     .unwrap();
+    let report = dir.path().join("sync.tsv");
     let start = Instant::now();
     let output = Command::new(env!("CARGO_BIN_EXE_klip"))
-        .args(["play", script.to_str().unwrap()])
+        .args([
+            "play",
+            "--sync-report",
+            report.to_str().unwrap(),
+            script.to_str().unwrap(),
+        ])
         .output()
         .unwrap();
     assert!(
@@ -48,4 +54,7 @@ fn audio_can_finish_before_the_last_script_event() {
     assert!(output.stdout.contains(&b'B'));
     assert!(start.elapsed() >= Duration::from_millis(100));
     assert!(start.elapsed() < Duration::from_secs(5));
+    let report = fs::read_to_string(report).unwrap();
+    assert!(report.contains("# clock=audio\n"));
+    assert!(report.contains("# timed_events=2\n"));
 }
