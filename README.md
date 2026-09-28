@@ -16,6 +16,8 @@ compiler and terminal output match saved v1.1.1 compatibility fixtures.
 cargo build --release --locked
 ./target/release/klip check examples/netsu-ijou.klip
 ./target/release/klip compile examples/netsu-ijou.klip
+./target/release/klip inspect --at 03:16.197 --window 500ms examples/netsu-ijou.klip
+./target/release/klip render --at 03:16.197 examples/netsu-ijou.klip
 ./target/release/klip play examples/netsu-ijou.klip
 ./target/release/klip play --start-at 01:27.564 examples/netsu-ijou.klip
 ```
@@ -26,6 +28,14 @@ local symbolic link at that path. Local audio files are ignored by Git. If
 music is missing or cannot start, `play` prints a warning and uses a monotonic
 no-audio clock. A terminal at least 160 columns by 40 rows is recommended for
 this example.
+
+`inspect` lists compiled events around a time with source lines, cursors, Z,
+and protection. `render` immediately replays events through the selected time
+without opening audio, leaving the frame visible in the terminal. For timing
+checks, `play --sync-report FILE` writes a TSV with audio-clock dispatch
+measurements and never overwrites an existing file. See
+[`docs/PREVIEW_AND_SYNC.md`](docs/PREVIEW_AND_SYNC.md) for semantics and the
+target-machine acceptance procedure.
 
 ## Checks
 
