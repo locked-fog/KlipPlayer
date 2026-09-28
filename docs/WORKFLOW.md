@@ -1,54 +1,35 @@
-# KLIPlayer Workflow
+# KlipPlayer workflow
 
-## Branching
+`main` is the default Rust implementation. Develop changes on a feature branch;
+keep the Kotlin/JVM v1.1.1 project under `legacy/kotlin/` for compatibility
+reference. Audio supplied by users is ignored by Git and must not be included
+in commits or release archives.
 
-`main` is the stable branch. Development must happen on feature branches such as:
-
-- `feat/initial-core`
-- `feat/audio-renderer-core`
-- `feat/parser-hardening`
-- `docs/spec-sync`
-- `feat/klip-parser`
-- `feat/protection-mask`
-- `fix/audio-sync`
-
-Do not develop directly on `main`. Do not merge into `main` without explicit user approval.
-
-## Required Checks
-
-Before requesting merge approval:
+Before merging a change to the KLIP parser, compiler, Lua API, renderer, or
+audio clock, review the full diff and run:
 
 ```sh
-git status
-git diff main...HEAD
+git diff --check main...HEAD
+cargo fmt --check
+cargo clippy --all-targets --locked -- -D warnings
+cargo test --locked
+cargo build --release --locked
+```
+
+For changes that affect the legacy implementation, also run:
+
+```sh
+cd legacy/kotlin
 ./gradlew cleanTest test
 ./gradlew build
 ```
 
-If the repository does not yet have a `main` branch, report that explicitly and use the available baseline for review.
+The GitHub CI workflow runs Rust checks on Linux, macOS, and Windows and a
+legacy Kotlin build on Linux. Real audio output, terminal appearance, and
+synchronization require target-machine checks; source tests cannot replace
+those checks. Preserve `compat/v1.1.1/` as the released behavior baseline and
+record any intentional difference before changing its fixtures.
 
-## Review
-
-Before merge, an independent sub-agent must review the full diff. The review must check:
-
-- No direct development on `main`.
-- No unrelated file changes.
-- No KTS, TUI, plugin system, dependency injection framework, runtime coroutine semantics, full virtual screen, image output, sixel, or kitty image protocol.
-- KLIP syntax behavior follows `docs/KLIP_SPEC.md`.
-- `track`, `cue`, `emit`, and `loop` are compile-time expanded.
-- `ProtectionMask` blocks lower Z writes without storing a full screen.
-- CJK width handling covers Han characters, Hiragana, Katakana, fullwidth punctuation, and combining marks.
-- Tests and build pass.
-
-The sub-agent reports findings to the user. Only after the user explicitly agrees may the branch be merged.
-
-## Merge
-
-Suggested merge command after approval:
-
-```sh
-git checkout main
-git merge --no-ff <branch-name>
-```
-
-Never force push, rewrite history, delete branches, delete user files, or merge without approval.
+Do not force-push, rewrite published history, delete user files, or merge
+without the user's approval. The original KLIPlayer workflow is preserved in
+`legacy/kotlin/WORKFLOW.md`.

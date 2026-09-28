@@ -3,7 +3,7 @@ use std::path::Path;
 use std::process::Command;
 
 fn repository() -> &'static Path {
-    Path::new(env!("CARGO_MANIFEST_DIR")).parent().unwrap()
+    Path::new(env!("CARGO_MANIFEST_DIR"))
 }
 
 #[test]
@@ -71,14 +71,22 @@ fn fast_play_preserves_released_terminal_output() {
         ("lua-addon", "00:03.000"),
         ("netsu-ijou", "04:00.000"),
     ] {
+        // Run with a private copy so a developer's local audio never changes
+        // the output or makes this fast compatibility test wait for a song.
+        let dir = tempfile::tempdir().unwrap();
+        let script = dir.path().join(format!("{stem}.klip"));
+        fs::copy(repository().join(format!("examples/{stem}.klip")), &script).unwrap();
+        if stem == "lua-addon" {
+            fs::create_dir(dir.path().join("addons")).unwrap();
+            fs::copy(
+                repository().join("examples/addons/textfx.lua"),
+                dir.path().join("addons/textfx.lua"),
+            )
+            .unwrap();
+        }
         let output = Command::new(env!("CARGO_BIN_EXE_klip"))
             .current_dir(repository())
-            .args([
-                "play",
-                "--start-at",
-                start,
-                &format!("examples/{stem}.klip"),
-            ])
+            .args(["play", "--start-at", start, script.to_str().unwrap()])
             .output()
             .unwrap();
         assert!(

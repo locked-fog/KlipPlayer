@@ -1,6 +1,6 @@
 # Lua 编译期 Addon
 
-Lua addon 是 KLIP 的编译期事件生成器。它只在 `check`、`compile`、`play` 启动前的编译阶段运行，返回一组相对事件片段；KLIPlayer 会把这些片段展开成普通 `Event`。播放阶段仍然只执行扁平时间轴，不运行 Lua。
+Lua addon 是 KLIP 的编译期事件生成器。它只在 `check`、`compile`、`play` 启动前的编译阶段运行，返回一组相对事件片段；KlipPlayer 会把这些片段展开成普通 `Event`。播放阶段仍然只执行扁平时间轴，不运行 Lua。
 
 Lua addon 不是运行时脚本系统，不提供运行时控制流、协程、线程特效、变量系统或依赖注入。
 
@@ -209,13 +209,13 @@ KLIP 调用：
 
 调试建议：
 
-- 先运行 `./gradlew run --args="check file.klip"` 验证解析和编译。
-- 再运行 `./gradlew run --args="compile file.klip"` 查看展开后的事件表。
+- 先运行 `cargo run -- check file.klip` 验证解析和编译。
+- 再运行 `cargo run -- compile file.klip` 查看展开后的事件表。
 - Lua 函数尽量小步返回，先返回一个 `{ op = "text" }` 事件，再逐步增加 offset、颜色和样式。
 
 ## 安全模型
 
-KLIPlayer 不使用 `JsePlatform.standardGlobals()`。Addon 环境只加载基础 `table`、`string`、`math` 能力和 KLIPlayer 注入的 `ctx`。
+KlipPlayer 使用受限的 Lua 5.2 `mlua` 环境，只加载基础 `table`、`string`、`math` 能力和应用注入的 `ctx`。旧版 Kotlin/LuaJ 实现保留在 `legacy/kotlin/`。
 
 以下能力不开放给 Lua：
 

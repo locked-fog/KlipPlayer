@@ -80,6 +80,8 @@ tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
 
 tasks.named('test') {
     useJUnitPlatform()
+    // Preserve the v1.1.1 tests' examples/... paths after archiving the module.
+    workingDir = rootProject.projectDir.toPath().resolve('../..').normalize().toFile()
 }
 
 tasks.named('jar') {

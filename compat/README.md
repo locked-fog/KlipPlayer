@@ -1,12 +1,13 @@
 # KLIP v1.1.1 compatibility corpus
 
 The files in `v1.1.1/` are the exact stdout of `compile` from the tagged
-KLIPlayer v1.1.1 runnable JAR. Run each command from the repository root:
+KLIPlayer v1.1.1 runnable JAR. Build the preserved application in
+`legacy/kotlin/`, then run each command from the repository root:
 
 ```sh
-java -jar build/libs/KLIPlayer-1.1.1.jar compile examples/demo.klip
-java -jar build/libs/KLIPlayer-1.1.1.jar compile examples/lua-addon.klip
-java -jar build/libs/KLIPlayer-1.1.1.jar compile examples/netsu-ijou.klip
+java -jar legacy/kotlin/build/libs/KLIPlayer-1.1.1.jar compile examples/demo.klip
+java -jar legacy/kotlin/build/libs/KLIPlayer-1.1.1.jar compile examples/lua-addon.klip
+java -jar legacy/kotlin/build/libs/KLIPlayer-1.1.1.jar compile examples/netsu-ijou.klip
 ```
 
 The fixtures include source line numbers, same-time event order, z, cursor,
