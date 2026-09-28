@@ -1,0 +1,1504 @@
+0ms order=0 z=100 cursor=main protect=false line=1125 source=track:lyrics :: clear | hide
+328ms order=1 z=100 cursor=main protect=false line=1126 source=track:lyrics :: text 死ん
+656ms order=2 z=100 cursor=main protect=false line=1127 source=track:lyrics :: text だ
+984ms order=3 z=100 cursor=main protect=false line=1128 source=track:lyrics :: text 変
+1312ms order=4 z=100 cursor=main protect=false line=1129 source=track:lyrics :: text 数
+1640ms order=5 z=100 cursor=main protect=false line=1130 source=track:lyrics :: text で
+1968ms order=6 z=100 cursor=main protect=false line=1131 source=track:lyrics :: text 繰
+2132ms order=7 z=100 cursor=main protect=false line=1132 source=track:lyrics :: text り
+2296ms order=8 z=100 cursor=main protect=false line=1133 source=track:lyrics :: text か
+2460ms order=9 z=100 cursor=main protect=false line=1134 source=track:lyrics :: mv 1,17 | text 帰
+2624ms order=10 z=100 cursor=main protect=false line=1135 source=track:lyrics :: text す
+2952ms order=11 z=100 cursor=main protect=false line=1137 source=track:lyrics :: mv 2,1 | text Password 1> | space 1 | show
+5739ms order=12 z=100 cursor=main protect=false line=1138 source=track:lyrics :: text か
+5903ms order=13 z=100 cursor=main protect=false line=1139 source=track:lyrics :: mv 2,13 | text 数
+6067ms order=14 z=100 cursor=main protect=false line=1140 source=track:lyrics :: text え
+6231ms order=15 z=100 cursor=main protect=false line=1141 source=track:lyrics :: text ご
+6395ms order=16 z=100 cursor=main protect=false line=1142 source=track:lyrics :: mv 2,17 | text 事
+6559ms order=17 z=100 cursor=main protect=false line=1143 source=track:lyrics :: text が
+6887ms order=18 z=100 cursor=main protect=false line=1144 source=track:lyrics :: text は
+7215ms order=19 z=100 cursor=main protect=false line=1145 source=track:lyrics :: mv 2,21 | text 孕ん
+7543ms order=20 z=100 cursor=main protect=false line=1146 source=track:lyrics :: text だ
+7707ms order=21 z=100 cursor=main protect=false line=1147 source=track:lyrics :: text ね
+7871ms order=22 z=100 cursor=main protect=false line=1148 source=track:lyrics :: mv 2,27 | text 熱
+8035ms order=23 z=100 cursor=main protect=false line=1150 source=track:lyrics :: mv 2,13 | text * | space 1 | hide
+8199ms order=24 z=100 cursor=main protect=false line=1151 source=track:lyrics :: text * | space 1
+8363ms order=25 z=100 cursor=main protect=false line=1152 source=track:lyrics :: text * | space 1
+8527ms order=26 z=100 cursor=main protect=false line=1153 source=track:lyrics :: text * | space 1
+8691ms order=27 z=100 cursor=main protect=false line=1154 source=track:lyrics :: text * | space 1
+8855ms order=28 z=100 cursor=main protect=false line=1155 source=track:lyrics :: text * | space 1
+9019ms order=29 z=100 cursor=main protect=false line=1156 source=track:lyrics :: text * | space 1
+9183ms order=30 z=100 cursor=main protect=false line=1157 source=track:lyrics :: text * | space 1
+9347ms order=31 z=100 cursor=main protect=false line=1158 source=track:lyrics :: mv 2,1 | background 00aa00 | space 9
+9675ms order=32 z=100 cursor=main protect=false line=1159 source=track:lyrics :: space 10
+10003ms order=33 z=100 cursor=main protect=false line=1160 source=track:lyrics :: space 10
+10331ms order=34 z=100 cursor=main protect=false line=1161 source=track:lyrics :: mv 2,5 | background 00aa00 | text Password 1 Checked!
+10659ms order=35 z=100 cursor=main protect=false line=1162 source=track:lyrics :: color default | background default
+10823ms order=36 z=100 cursor=main protect=false line=1164 source=track:lyrics :: mv 3,1 | text ど
+11151ms order=37 z=100 cursor=main protect=false line=1165 source=track:lyrics :: text こ
+11479ms order=38 z=100 cursor=main protect=false line=1166 source=track:lyrics :: text に
+11807ms order=39 z=100 cursor=main protect=false line=1167 source=track:lyrics :: text お
+11971ms order=40 z=100 cursor=main protect=false line=1168 source=track:lyrics :: mv 3,7 | text 送
+12135ms order=41 z=100 cursor=main protect=false line=1169 source=track:lyrics :: text る
+12463ms order=42 z=100 cursor=main protect=false line=1170 source=track:lyrics :: text あ
+12627ms order=43 z=100 cursor=main protect=false line=1171 source=track:lyrics :: text て
+12791ms order=44 z=100 cursor=main protect=false line=1172 source=track:lyrics :: text も
+12955ms order=45 z=100 cursor=main protect=false line=1173 source=track:lyrics :: text な
+13119ms order=46 z=100 cursor=main protect=false line=1174 source=track:lyrics :: text く
+13447ms order=47 z=100 cursor=main protect=false line=1176 source=track:lyrics :: mv 4,1 | text Password 2> | space 1 | show
+15906ms order=48 z=100 cursor=main protect=false line=1177 source=track:lyrics :: text あ
+16070ms order=49 z=100 cursor=main protect=false line=1178 source=track:lyrics :: text わ
+16234ms order=50 z=100 cursor=main protect=false line=1179 source=track:lyrics :: text れ
+16398ms order=51 z=100 cursor=main protect=false line=1180 source=track:lyrics :: text な
+16562ms order=52 z=100 cursor=main protect=false line=1181 source=track:lyrics :: text ひ
+16644ms order=53 z=100 cursor=main protect=false line=1182 source=track:lyrics :: mv 4,21 | text 独
+16726ms order=54 z=100 cursor=main protect=false line=1183 source=track:lyrics :: text り
+16890ms order=55 z=100 cursor=main protect=false line=1184 source=track:lyrics :: text ご
+17054ms order=56 z=100 cursor=main protect=false line=1185 source=track:lyrics :: mv 4,25 | text 言を
+17382ms order=57 z=100 cursor=main protect=false line=1186 source=track:lyrics :: text し
+17546ms order=58 z=100 cursor=main protect=false line=1187 source=track:lyrics :: mv 4,29 | text 記
+17710ms order=59 z=100 cursor=main protect=false line=1188 source=track:lyrics :: text し
+17874ms order=60 z=100 cursor=main protect=false line=1189 source=track:lyrics :: text て
+18038ms order=61 z=100 cursor=main protect=false line=1190 source=track:lyrics :: text い
+18202ms order=62 z=100 cursor=main protect=false line=1191 source=track:lyrics :: text る
+18311ms order=63 z=100 cursor=main protect=false line=1193 source=track:lyrics :: mv 4,13 | text * | space 1 | hide
+18420ms order=64 z=100 cursor=main protect=false line=1194 source=track:lyrics :: text * | space 1
+18529ms order=65 z=100 cursor=main protect=false line=1195 source=track:lyrics :: text * | space 1
+18638ms order=66 z=100 cursor=main protect=false line=1196 source=track:lyrics :: text * | space 1
+18747ms order=67 z=100 cursor=main protect=false line=1197 source=track:lyrics :: text * | space 1
+18856ms order=68 z=100 cursor=main protect=false line=1198 source=track:lyrics :: text * | space 1
+18965ms order=69 z=100 cursor=main protect=false line=1199 source=track:lyrics :: text * | space 1
+19074ms order=70 z=100 cursor=main protect=false line=1200 source=track:lyrics :: text * | space 1
+19183ms order=71 z=100 cursor=main protect=false line=1201 source=track:lyrics :: text * | space 1
+19292ms order=72 z=100 cursor=main protect=false line=1202 source=track:lyrics :: text * | space 1
+19401ms order=73 z=100 cursor=main protect=false line=1203 source=track:lyrics :: text * | space 1
+19510ms order=74 z=100 cursor=main protect=false line=1204 source=track:lyrics :: text * | space 1
+19592ms order=75 z=100 cursor=main protect=false line=1205 source=track:lyrics :: text * | space 1
+19838ms order=76 z=100 cursor=main protect=false line=1206 source=track:lyrics :: mv 4,1 | background 00aa00 | space 13
+20002ms order=77 z=100 cursor=main protect=false line=1207 source=track:lyrics :: space 13
+20166ms order=78 z=100 cursor=main protect=false line=1208 source=track:lyrics :: space 13
+20494ms order=79 z=100 cursor=main protect=false line=1209 source=track:lyrics :: mv 4,9 | text Password 2 Checked!
+20822ms order=80 z=100 cursor=main protect=false line=1211 source=track:lyrics :: color default | background default | mv 5,1 | text Welcome to ███ ! | mv 6,1 | text いよわ＠足立レイ > | show
+20986ms order=81 z=100 cursor=main protect=false line=1212 source=track:lyrics :: text c
+21027ms order=82 z=100 cursor=main protect=false line=1213 source=track:lyrics :: text l
+21068ms order=83 z=100 cursor=main protect=false line=1214 source=track:lyrics :: text e
+21109ms order=84 z=100 cursor=main protect=false line=1215 source=track:lyrics :: text a
+21150ms order=85 z=100 cursor=main protect=false line=1216 source=track:lyrics :: text r
+21191ms order=86 z=100 cursor=main protect=false line=1217 source=track:lyrics :: clear | mv 1,1 | text いよわ＠足立レイ >
+21232ms order=87 z=100 cursor=main protect=false line=1218 source=track:lyrics :: text sudo
+21273ms order=88 z=100 cursor=main protect=false line=1219 source=track:lyrics :: text netsu
+21314ms order=89 z=100 cursor=main protect=false line=1220 source=track:lyrics :: space 1 | text -ijou | hide
+21478ms order=90 z=100 cursor=main protect=false line=1222 source=track:lyrics :: clear | mv 1,1 | text ═══════════════════════════════════════════════
+21478ms order=91 z=100 cursor=main protect=false line=1223 source=track:lyrics :: mv 2,18 | text 熱 | space 3 | text 異 | space 3 | text 常
+21478ms order=92 z=100 cursor=main protect=false line=1224 source=track:lyrics :: mv 3,1 | text ═══════════════════════════════════════════════
+21642ms order=93 z=100 cursor=main protect=false line=1226 source=track:lyrics :: mv 4,1 | text 電撃を見紛うような
+22626ms order=94 z=100 cursor=main protect=false line=1227 source=track:lyrics :: mv 5,1 | text 恐怖が血管の中に混ざる
+24265ms order=95 z=100 cursor=main protect=false line=1228 source=track:lyrics :: mv 6,1 | text 微粒子の濃い煙の向こうに
+25576ms order=96 z=100 cursor=main protect=false line=1229 source=track:lyrics :: mv 7,1 | text 黒い鎖鎌がついてきている
+26724ms order=97 z=100 cursor=main protect=false line=1231 source=track:lyrics :: mv 4,1 | color ff0000 | style strikeline on | text 電撃を見紛うような | color default | style default | mv 4,27 | text 消去しても
+27216ms order=98 z=100 cursor=main protect=false line=1232 source=track:lyrics :: mv 5,1 | color ff0000 | style strikeline on | text 恐怖が血管の中に混ざる | color default | style default | mv 5,27 | text 消去しても
+27708ms order=99 z=100 cursor=main protect=false line=1233 source=track:lyrics :: mv 6,1 | color ff0000 | style strikeline on | text 微粒子の濃い煙の向こうに | color default | style default | mv 6,27 | text 消去しても
+28200ms order=100 z=100 cursor=main protect=false line=1234 source=track:lyrics :: mv 7,1 | color ff0000 | style strikeline on | text 黒い鎖鎌がついてきている | color default | style default | mv 7,27 | text 消去しても
+28692ms order=101 z=100 cursor=main protect=false line=1235 source=track:lyrics :: mv 4,27 | color ff0000 | style strikeline on | text 消去しても
+29184ms order=102 z=100 cursor=main protect=false line=1236 source=track:lyrics :: mv 5,27 | text 消去しても
+29676ms order=103 z=100 cursor=main protect=false line=1237 source=track:lyrics :: mv 6,27 | text 消去しても
+30332ms order=104 z=100 cursor=main protect=false line=1238 source=track:lyrics :: mv 7,27 | text 消去しても
+30824ms order=105 z=100 cursor=main protect=false line=1240 source=track:lyrics :: mv 8,1 | color default | style default | text 無くならないの
+30824ms order=106 z=100 cursor=main protect=false line=1241 source=track:lyrics :: clear | mv 1,1 | text ═══════════════════════════════════════════════
+30824ms order=107 z=100 cursor=main protect=false line=1242 source=track:lyrics :: mv 2,18 | text 熱 | space 3 | text 異 | space 3 | text 常
+30824ms order=108 z=100 cursor=main protect=false line=1243 source=track:lyrics :: mv 3,1 | text ═══════════════════════════════════════════════
+30824ms order=109 z=100 cursor=main protect=false line=1244 source=track:lyrics :: mv 8,1 | text 無くならないの | mv 9,1
+31152ms order=110 z=100 cursor=main protect=false line=1246 source=track:lyrics :: text ─────────────────────────────────────────────── | mv 10,1
+32136ms order=111 z=100 cursor=main protect=false line=1247 source=track:lyrics :: mv 10,1 | text とうに潰れていた喉
+33120ms order=112 z=100 cursor=main protect=false line=1248 source=track:lyrics :: mv 11,1 | text 叫んだ音は既に列を成さないで
+34759ms order=113 z=100 cursor=main protect=false line=1249 source=track:lyrics :: mv 12,1 | text 安楽椅子の上
+35743ms order=114 z=100 cursor=main protect=false line=1250 source=track:lyrics :: mv 13,1 | text 腐りきった三日月が笑っている
+37382ms order=116 z=20 cursor=bit1 protect=false line=1045 source=cue:random1 :: mv 10,1
+37382ms order=115 z=100 cursor=main protect=false line=1251 source=track:lyrics :: mv 14,1 | text もう
+37382ms order=133 z=100 cursor=main protect=false line=1253 source=track:lyrics :: mv 10,34 | text すぐそこまで
+37443ms order=117 z=20 cursor=bit1 protect=false line=1046 source=cue:random1 :: text UH
+37504ms order=118 z=20 cursor=bit1 protect=false line=1047 source=cue:random1 :: text Jv
+37565ms order=119 z=20 cursor=bit1 protect=false line=1048 source=cue:random1 :: text ZH
+37626ms order=120 z=20 cursor=bit1 protect=false line=1049 source=cue:random1 :: text Vj
+37687ms order=121 z=20 cursor=bit1 protect=false line=1050 source=cue:random1 :: text ZW
+37748ms order=122 z=20 cursor=bit1 protect=false line=1051 source=cue:random1 :: text Qg
+37809ms order=123 z=20 cursor=bit1 protect=false line=1052 source=cue:random1 :: text Qn
+37870ms order=124 z=20 cursor=bit1 protect=false line=1053 source=cue:random1 :: text kg
+37874ms order=134 z=100 cursor=main protect=false line=1254 source=track:lyrics :: space 1 | text すぐそこまで
+37931ms order=125 z=20 cursor=bit1 protect=false line=1054 source=cue:random1 :: text SX
+37992ms order=126 z=20 cursor=bit1 protect=false line=1055 source=cue:random1 :: text lv
+38053ms order=127 z=20 cursor=bit1 protect=false line=1056 source=cue:random1 :: text d2
+38114ms order=128 z=20 cursor=bit1 protect=false line=1057 source=cue:random1 :: text E=
+38175ms order=129 z=20 cursor=bit1 protect=false line=1058 source=cue:random1 :: text Ch
+38236ms order=130 z=20 cursor=bit1 protect=false line=1059 source=cue:random1 :: text UI
+38297ms order=131 z=20 cursor=bit1 protect=false line=1060 source=cue:random1 :: text ZH
+38358ms order=132 z=20 cursor=bit1 protect=false line=1061 source=cue:random1 :: text ok
+38366ms order=135 z=20 cursor=bit2 protect=false line=1065 source=cue:random2 :: mv 11,1
+38366ms order=152 z=100 cursor=main protect=false line=1256 source=track:lyrics :: mv 11,34 | text すぐそこまで
+38427ms order=136 z=20 cursor=bit2 protect=false line=1066 source=cue:random2 :: text Vm
+38488ms order=137 z=20 cursor=bit2 protect=false line=1067 source=cue:random2 :: text Vk
+38549ms order=138 z=20 cursor=bit2 protect=false line=1068 source=cue:random2 :: text aW
+38610ms order=139 z=20 cursor=bit2 protect=false line=1069 source=cue:random2 :: text 8g
+38671ms order=140 z=20 cursor=bit2 protect=false line=1070 source=cue:random2 :: text Yn
+38732ms order=141 z=20 cursor=bit2 protect=false line=1071 source=cue:random2 :: text kg
+38793ms order=142 z=20 cursor=bit2 protect=false line=1072 source=cue:random2 :: text TG
+38854ms order=143 z=20 cursor=bit2 protect=false line=1073 source=cue:random2 :: text 9j
+38858ms order=153 z=100 cursor=main protect=false line=1257 source=track:lyrics :: space 1 | text すぐそこまで
+38915ms order=144 z=20 cursor=bit2 protect=false line=1074 source=cue:random2 :: text a2
+38976ms order=145 z=20 cursor=bit2 protect=false line=1075 source=cue:random2 :: text Vk
+39037ms order=146 z=20 cursor=bit2 protect=false line=1076 source=cue:random2 :: text X0
+39098ms order=147 z=20 cursor=bit2 protect=false line=1077 source=cue:random2 :: text Zv
+39159ms order=148 z=20 cursor=bit2 protect=false line=1078 source=cue:random2 :: text Zw
+39220ms order=149 z=20 cursor=bit2 protect=false line=1079 source=cue:random2 :: text ==
+39281ms order=150 z=20 cursor=bit2 protect=false line=1080 source=cue:random2 :: text b2
+39342ms order=151 z=20 cursor=bit2 protect=false line=1081 source=cue:random2 :: text c=
+39350ms order=154 z=20 cursor=bit3 protect=false line=1085 source=cue:random3 :: mv 12,1
+39350ms order=171 z=100 cursor=main protect=false line=1259 source=track:lyrics :: mv 12,34 | text すぐそこまで
+39411ms order=155 z=20 cursor=bit3 protect=false line=1086 source=cue:random3 :: text Vm
+39472ms order=156 z=20 cursor=bit3 protect=false line=1087 source=cue:random3 :: text 9j
+39533ms order=157 z=20 cursor=bit3 protect=false line=1088 source=cue:random3 :: text YW
+39594ms order=158 z=20 cursor=bit3 protect=false line=1089 source=cue:random3 :: text wg
+39655ms order=159 z=20 cursor=bit3 protect=false line=1090 source=cue:random3 :: text Yn
+39716ms order=160 z=20 cursor=bit3 protect=false line=1091 source=cue:random3 :: text kg
+39777ms order=161 z=20 cursor=bit3 protect=false line=1092 source=cue:random3 :: text 6L
+39838ms order=162 z=20 cursor=bit3 protect=false line=1093 source=cue:random3 :: text az
+39842ms order=172 z=100 cursor=main protect=false line=1260 source=track:lyrics :: space 1 | text すぐそこまで
+39899ms order=163 z=20 cursor=bit3 protect=false line=1094 source=cue:random3 :: text 56
+39960ms order=164 z=20 cursor=bit3 protect=false line=1095 source=cue:random3 :: text uL
+40021ms order=165 z=20 cursor=bit3 protect=false line=1096 source=cue:random3 :: text 44
+40082ms order=166 z=20 cursor=bit3 protect=false line=1097 source=cue:random3 :: text Os
+40143ms order=167 z=20 cursor=bit3 protect=false line=1098 source=cue:random3 :: text 44
+40204ms order=168 z=20 cursor=bit3 protect=false line=1099 source=cue:random3 :: text Kk
+40265ms order=169 z=20 cursor=bit3 protect=false line=1100 source=cue:random3 :: text um
+40326ms order=170 z=20 cursor=bit3 protect=false line=1101 source=cue:random3 :: text ==
+40334ms order=173 z=20 cursor=bit4 protect=false line=1105 source=cue:random4 :: mv 13,1
+40334ms order=190 z=100 cursor=main protect=false line=1262 source=track:lyrics :: mv 13,34 | text すぐそこまで
+40395ms order=174 z=20 cursor=bit4 protect=false line=1106 source=cue:random4 :: text 44
+40456ms order=175 z=20 cursor=bit4 protect=false line=1107 source=cue:random4 :: text Oc
+40517ms order=176 z=20 cursor=bit4 protect=false line=1108 source=cue:random4 :: text 44
+40578ms order=177 z=20 cursor=bit4 protect=false line=1109 source=cue:random4 :: text Kr
+40639ms order=178 z=20 cursor=bit4 protect=false line=1110 source=cue:random4 :: text 44
+40700ms order=179 z=20 cursor=bit4 protect=false line=1111 source=cue:random4 :: text Kz
+40761ms order=180 z=20 cursor=bit4 protect=false line=1112 source=cue:random4 :: text 44
+40822ms order=181 z=20 cursor=bit4 protect=false line=1113 source=cue:random4 :: text Os
+40826ms order=191 z=100 cursor=main protect=false line=1263 source=track:lyrics :: space 1 | text すぐそこまで
+40883ms order=182 z=20 cursor=bit4 protect=false line=1114 source=cue:random4 :: text Mj
+40944ms order=183 z=20 cursor=bit4 protect=false line=1115 source=cue:random4 :: text Ay
+41005ms order=184 z=20 cursor=bit4 protect=false line=1116 source=cue:random4 :: text Mu
+41066ms order=185 z=20 cursor=bit4 protect=false line=1117 source=cue:random4 :: text en
+41127ms order=186 z=20 cursor=bit4 protect=false line=1118 source=cue:random4 :: text iw
+41188ms order=187 z=20 cursor=bit4 protect=false line=1119 source=cue:random4 :: text ==
+41249ms order=188 z=20 cursor=bit4 protect=false line=1120 source=cue:random4 :: text 67
+41310ms order=189 z=20 cursor=bit4 protect=false line=1121 source=cue:random4 :: text 34
+41318ms order=192 z=100 cursor=main protect=false line=1264 source=track:lyrics :: mv 14,1 | text なにかが来ている
+41974ms order=193 z=100 cursor=main protect=false line=1266 source=track:lyrics :: mv 15,1 | text ─────────────────────────────────────────────── | mv 16,1
+43941ms order=194 z=100 cursor=main protect=false line=1267 source=track:lyrics :: text 大声で泣いた後
+44925ms order=195 z=100 cursor=main protect=false line=1268 source=track:lyrics :: mv 17,1 | text 救いの旗に火を放つ人々と
+46564ms order=196 z=100 cursor=main protect=false line=1269 source=track:lyrics :: mv 18,1 | text コレクションにキスをして
+47548ms order=197 z=100 cursor=main protect=false line=1270 source=track:lyrics :: mv 19,1 | text 甘んじて棺桶に籠る骸骨が
+49023ms order=198 z=100 cursor=main protect=false line=1271 source=track:lyrics :: mv 20,1 | text また
+49187ms order=199 z=100 cursor=main protect=false line=1272 source=track:lyrics :: mv 10,34 | color 9999bb | text //どうかしてる | space 20
+49679ms order=200 z=100 cursor=main protect=false line=1273 source=track:lyrics :: mv 11,34 | text //どうかしてる | space 20
+50171ms order=201 z=100 cursor=main protect=false line=1274 source=track:lyrics :: mv 12,34 | text //どうかしてる | space 20
+50663ms order=202 z=100 cursor=main protect=false line=1275 source=track:lyrics :: mv 13,34 | text //どうかしてる | space 20
+51155ms order=203 z=100 cursor=main protect=false line=1276 source=track:lyrics :: mv 16,34 | text //どうかしてる
+51647ms order=204 z=100 cursor=main protect=false line=1277 source=track:lyrics :: mv 17,34 | text //どうかしてる
+52139ms order=205 z=100 cursor=main protect=false line=1278 source=track:lyrics :: mv 18,34 | text //どうかしてる
+52631ms order=206 z=100 cursor=main protect=false line=1279 source=track:lyrics :: mv 19,34 | text //どうかしてる
+53123ms order=207 z=100 cursor=main protect=false line=1280 source=track:lyrics :: mv 20,1 | color default | text そう囁いた
+53451ms order=208 z=100 cursor=main protect=false line=1282 source=track:lyrics :: mv 21,1 | text ─────────────────────────────────────────────── | mv 22,1
+54435ms order=209 z=100 cursor=main protect=false line=1283 source=track:lyrics :: text 未来永劫誰もが
+55419ms order=210 z=100 cursor=main protect=false line=1284 source=track:lyrics :: mv 23,1 | text 救われる理想郷があったなら
+57058ms order=211 z=100 cursor=main protect=false line=1285 source=track:lyrics :: mv 24,1 | text そう口を揃えた大人たちが
+58042ms order=212 z=100 cursor=main protect=false line=1286 source=track:lyrics :: mv 25,1 | text 乗りこんだ舟は爆ぜた
+59681ms order=213 z=100 cursor=main protect=false line=1288 source=track:lyrics :: mv 4,1 | background 000000 | space 47 | mv 5,1 | space 47 | mv 6,1 | space 47 | mv 7,1 | space 47 | mv 8,1 | space 47
+60173ms order=214 z=100 cursor=main protect=false line=1289 source=track:lyrics :: mv 10,1 | space 47 | mv 11,1 | space 47 | mv 12,1 | space 47 | mv 13,1 | space 47 | mv 14,1 | space 47
+60665ms order=215 z=100 cursor=main protect=false line=1290 source=track:lyrics :: mv 16,1 | space 47 | mv 17,1 | space 47 | mv 18,1 | space 47 | mv 19,1 | space 47 | mv 20,1 | space 47
+61157ms order=216 z=100 cursor=main protect=false line=1291 source=track:lyrics :: mv 22,1 | space 47 | mv 23,1 | space 47 | mv 24,1 | space 47 | mv 25,1 | space 47 | mv 26,1 | space 47
+61649ms order=217 z=100 cursor=main protect=false line=1292 source=track:lyrics :: mv 6,21 | text 黒い星が
+62141ms order=218 z=100 cursor=main protect=false line=1293 source=track:lyrics :: mv 12,21 | text 黒い星が
+62633ms order=219 z=100 cursor=main protect=false line=1294 source=track:lyrics :: mv 18,21 | text 黒い星が
+63125ms order=220 z=100 cursor=main protect=false line=1295 source=track:lyrics :: mv 24,21 | text 黒い星が
+63617ms order=221 z=100 cursor=main protect=false line=1296 source=track:lyrics :: mv 27,17 | background default | text 彼らを見ている
+64928ms order=222 z=100 cursor=main protect=false line=1299 source=track:lyrics :: mv 28,1 | text ^C | background ffffff | color 000000 | text % | show
+65010ms order=223 z=100 cursor=main protect=false line=1300 source=track:lyrics :: mv 29,1 | color default | background default | text いよわ＠足立レイ >
+65092ms order=224 z=100 cursor=main protect=false line=1301 source=track:lyrics :: text cl
+65174ms order=225 z=100 cursor=main protect=false line=1302 source=track:lyrics :: text ea
+65256ms order=226 z=100 cursor=main protect=false line=1303 source=track:lyrics :: text r
+65420ms order=227 z=100 cursor=main protect=false line=1304 source=track:lyrics :: clear | mv 1,1 | text いよわ＠足立レイ >
+65584ms order=228 z=100 cursor=main protect=false line=1305 source=track:lyrics :: text atachi
+65666ms order=229 z=100 cursor=main protect=false line=1306 source=track:lyrics :: text -rei
+65748ms order=230 z=100 cursor=main protect=false line=1307 source=track:lyrics :: text  report
+65830ms order=231 z=100 cursor=main protect=false line=1308 source=track:lyrics :: text  "NETSU
+65912ms order=232 z=100 cursor=main protect=false line=1309 source=track:lyrics :: text  IJOU"
+65994ms order=233 z=100 cursor=main protect=false line=1310 source=track:lyrics :: text  --iyowa
+66158ms order=234 z=100 cursor=main protect=false line=1311 source=track:lyrics :: clear
+66568ms order=326 z=10 cursor=fx protect=false line=787 source=cue:fx1 :: mv 1,1 | text [NETSU-IJOU]:
+66568ms order=235 z=90 cursor=lyric protect=true line=692 source=cue:lyric1 :: mv 1,81 | color fa5400 | text 哭い
+66668ms order=327 z=10 cursor=fx protect=false line=788 source=cue:fx1 :: text ATA
+66768ms order=328 z=10 cursor=fx protect=false line=789 source=cue:fx1 :: text CHI
+66868ms order=329 z=10 cursor=fx protect=false line=790 source=cue:fx1 :: text -REI
+66896ms order=236 z=90 cursor=lyric protect=true line=693 source=cue:lyric1 :: text た
+67224ms order=237 z=90 cursor=lyric protect=true line=694 source=cue:lyric1 :: text 閃
+67368ms order=330 z=10 cursor=fx protect=false line=791 source=cue:fx1 :: mv 2,1 | text Password: | space 1
+67552ms order=238 z=90 cursor=lyric protect=true line=695 source=cue:lyric1 :: text 光
+67880ms order=239 z=90 cursor=lyric protect=true line=696 source=cue:lyric1 :: text が
+68208ms order=240 z=90 cursor=lyric protect=true line=697 source=cue:lyric1 :: text 目
+68368ms order=331 z=10 cursor=fx protect=false line=792 source=cue:fx1 :: text *
+68372ms order=241 z=90 cursor=lyric protect=true line=698 source=cue:lyric1 :: text に
+68418ms order=332 z=10 cursor=fx protect=false line=793 source=cue:fx1 :: text *
+68468ms order=333 z=10 cursor=fx protect=false line=794 source=cue:fx1 :: text *
+68518ms order=334 z=10 cursor=fx protect=false line=795 source=cue:fx1 :: text *
+68536ms order=242 z=90 cursor=lyric protect=true line=699 source=cue:lyric1 :: text 刺
+68568ms order=335 z=10 cursor=fx protect=false line=796 source=cue:fx1 :: text *
+68618ms order=336 z=10 cursor=fx protect=false line=797 source=cue:fx1 :: text *
+68668ms order=337 z=10 cursor=fx protect=false line=798 source=cue:fx1 :: text *
+68700ms order=243 z=90 cursor=lyric protect=true line=700 source=cue:lyric1 :: text さ
+68718ms order=338 z=10 cursor=fx protect=false line=799 source=cue:fx1 :: text *
+68768ms order=339 z=10 cursor=fx protect=false line=800 source=cue:fx1 :: text *
+68818ms order=340 z=10 cursor=fx protect=false line=801 source=cue:fx1 :: text *
+68864ms order=244 z=90 cursor=lyric protect=true line=701 source=cue:lyric1 :: text る
+68868ms order=341 z=10 cursor=fx protect=false line=802 source=cue:fx1 :: text *
+68918ms order=342 z=10 cursor=fx protect=false line=803 source=cue:fx1 :: text *
+69018ms order=343 z=10 cursor=fx protect=false line=804 source=cue:fx1 :: mv 2,1 | space 40
+69068ms order=344 z=10 cursor=fx protect=false line=806 source=cue:fx1/loop :: mv 2,1 | text ⠋
+69118ms order=345 z=10 cursor=fx protect=false line=807 source=cue:fx1/loop :: mv 2,1 | text ⠙
+69168ms order=346 z=10 cursor=fx protect=false line=808 source=cue:fx1/loop :: mv 2,1 | text ⠹
+69218ms order=347 z=10 cursor=fx protect=false line=809 source=cue:fx1/loop :: mv 2,1 | text ⠸
+69268ms order=348 z=10 cursor=fx protect=false line=810 source=cue:fx1/loop :: mv 2,1 | text ⠼
+69318ms order=349 z=10 cursor=fx protect=false line=811 source=cue:fx1/loop :: mv 2,1 | text ⠴
+69356ms order=245 z=90 cursor=lyric protect=true line=702 source=cue:lyric1 :: mv 3,81 | text お
+69368ms order=350 z=10 cursor=fx protect=false line=812 source=cue:fx1/loop :: mv 2,1 | text ⠦
+69418ms order=351 z=10 cursor=fx protect=false line=813 source=cue:fx1/loop :: mv 2,1 | text ⠧
+69468ms order=352 z=10 cursor=fx protect=false line=814 source=cue:fx1/loop :: mv 2,1 | text ⠇
+69518ms order=353 z=10 cursor=fx protect=false line=815 source=cue:fx1/loop :: mv 2,1 | text ⠏
+69520ms order=246 z=90 cursor=lyric protect=true line=703 source=cue:lyric1 :: text 別
+69568ms order=354 z=10 cursor=fx protect=false line=806 source=cue:fx1/loop :: mv 2,1 | text ⠋
+69618ms order=355 z=10 cursor=fx protect=false line=807 source=cue:fx1/loop :: mv 2,1 | text ⠙
+69668ms order=356 z=10 cursor=fx protect=false line=808 source=cue:fx1/loop :: mv 2,1 | text ⠹
+69718ms order=357 z=10 cursor=fx protect=false line=809 source=cue:fx1/loop :: mv 2,1 | text ⠸
+69768ms order=358 z=10 cursor=fx protect=false line=810 source=cue:fx1/loop :: mv 2,1 | text ⠼
+69818ms order=359 z=10 cursor=fx protect=false line=811 source=cue:fx1/loop :: mv 2,1 | text ⠴
+69848ms order=247 z=90 cursor=lyric protect=true line=704 source=cue:lyric1 :: text か
+69868ms order=360 z=10 cursor=fx protect=false line=812 source=cue:fx1/loop :: mv 2,1 | text ⠦
+69918ms order=361 z=10 cursor=fx protect=false line=813 source=cue:fx1/loop :: mv 2,1 | text ⠧
+69968ms order=362 z=10 cursor=fx protect=false line=814 source=cue:fx1/loop :: mv 2,1 | text ⠇
+70012ms order=248 z=90 cursor=lyric protect=true line=705 source=cue:lyric1 :: text れ
+70018ms order=363 z=10 cursor=fx protect=false line=815 source=cue:fx1/loop :: mv 2,1 | text ⠏
+70068ms order=364 z=10 cursor=fx protect=false line=806 source=cue:fx1/loop :: mv 2,1 | text ⠋
+70118ms order=365 z=10 cursor=fx protect=false line=807 source=cue:fx1/loop :: mv 2,1 | text ⠙
+70168ms order=366 z=10 cursor=fx protect=false line=808 source=cue:fx1/loop :: mv 2,1 | text ⠹
+70176ms order=249 z=90 cursor=lyric protect=true line=706 source=cue:lyric1 :: text の
+70218ms order=367 z=10 cursor=fx protect=false line=809 source=cue:fx1/loop :: mv 2,1 | text ⠸
+70268ms order=368 z=10 cursor=fx protect=false line=810 source=cue:fx1/loop :: mv 2,1 | text ⠼
+70318ms order=369 z=10 cursor=fx protect=false line=811 source=cue:fx1/loop :: mv 2,1 | text ⠴
+70368ms order=370 z=10 cursor=fx protect=false line=812 source=cue:fx1/loop :: mv 2,1 | text ⠦
+70418ms order=371 z=10 cursor=fx protect=false line=813 source=cue:fx1/loop :: mv 2,1 | text ⠧
+70468ms order=372 z=10 cursor=fx protect=false line=814 source=cue:fx1/loop :: mv 2,1 | text ⠇
+70504ms order=250 z=90 cursor=lyric protect=true line=707 source=cue:lyric1 :: text か
+70518ms order=373 z=10 cursor=fx protect=false line=815 source=cue:fx1/loop :: mv 2,1 | text ⠏
+70568ms order=374 z=10 cursor=fx protect=false line=817 source=cue:fx1 :: mv 2,1 | text Wellcome to NETSU-IJOU, ATACHI-REI.
+70668ms order=375 z=10 cursor=fx protect=false line=818 source=cue:fx1 :: mv 3,1 | color aa6666 | text Warn: 108 Kernel Panic(s) Detected.
+70718ms order=376 z=10 cursor=fx protect=false line=819 source=cue:fx1 :: mv 4,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+70832ms order=251 z=90 cursor=lyric protect=true line=708 source=cue:lyric1 :: mv 3,91 | text 鐘
+70918ms order=377 z=10 cursor=fx protect=false line=820 source=cue:fx1 :: text sudo
+70968ms order=378 z=10 cursor=fx protect=false line=821 source=cue:fx1 :: text  sysm
+71018ms order=379 z=10 cursor=fx protect=false line=822 source=cue:fx1 :: text grd
+71068ms order=380 z=10 cursor=fx protect=false line=823 source=cue:fx1 :: text  upda
+71118ms order=381 z=10 cursor=fx protect=false line=824 source=cue:fx1 :: text te
+71160ms order=252 z=90 cursor=lyric protect=true line=709 source=cue:lyric1 :: text が
+71168ms order=382 z=10 cursor=fx protect=false line=825 source=cue:fx1 :: text  &&
+71218ms order=383 z=10 cursor=fx protect=false line=826 source=cue:fx1 :: text  sysm
+71268ms order=384 z=10 cursor=fx protect=false line=827 source=cue:fx1 :: text grd
+71318ms order=385 z=10 cursor=fx protect=false line=828 source=cue:fx1 :: text  upgr
+71324ms order=253 z=90 cursor=lyric protect=true line=710 source=cue:lyric1 :: text 鳴
+71368ms order=386 z=10 cursor=fx protect=false line=829 source=cue:fx1 :: text ade
+71418ms order=387 z=10 cursor=fx protect=false line=830 source=cue:fx1 :: mv 5,1 | text Connecting[=> | space 48 | text ]
+71488ms order=254 z=90 cursor=lyric protect=true line=711 source=cue:lyric1 :: text る
+71618ms order=388 z=10 cursor=fx protect=false line=831 source=cue:fx1 :: mv 5,1 | text Connecting[======> | space 43 | text ]
+71816ms order=255 z=90 cursor=lyric protect=true line=712 source=cue:lyric1 :: mv 5,81 | text か
+72018ms order=389 z=10 cursor=fx protect=false line=832 source=cue:fx1 :: mv 5,1 | text Connecting[================> | space 33 | text ]
+72144ms order=256 z=90 cursor=lyric protect=true line=713 source=cue:lyric1 :: mv 5,81 | text 神
+72472ms order=257 z=90 cursor=lyric protect=true line=714 source=cue:lyric1 :: text が
+72518ms order=390 z=10 cursor=fx protect=false line=833 source=cue:fx1 :: mv 5,1 | text Connecting[====================> | color ff0000 | text  | color default | space 28 | text ]
+72618ms order=391 z=10 cursor=fx protect=false line=834 source=cue:fx1 :: mv 6,1 | background aa0000 | text netflow: connection aborted — received undefined data frame
+72618ms order=392 z=10 cursor=fx protect=false line=835 source=cue:fx1 :: mv 7,1 | text hint: remote endpoint returned corrupted or unexpected data
+72618ms order=393 z=10 cursor=fx protect=false line=836 source=cue:fx1 :: mv 8,1 | background default
+72636ms order=258 z=90 cursor=lyric protect=true line=715 source=cue:lyric1 :: text 成
+72800ms order=259 z=90 cursor=lyric protect=true line=716 source=cue:lyric1 :: text し
+72818ms order=394 z=10 cursor=fx protect=false line=837 source=cue:fx1 :: text ATACHI-REI@NETSU-IJOU # | space 1
+72868ms order=395 z=10 cursor=fx protect=false line=838 source=cue:fx1 :: text sudo
+72918ms order=396 z=10 cursor=fx protect=false line=839 source=cue:fx1 :: text  watc
+72968ms order=397 z=10 cursor=fx protect=false line=840 source=cue:fx1 :: text hdog | space 1
+73018ms order=398 z=10 cursor=fx protect=false line=841 source=cue:fx1 :: text log -
+73068ms order=399 z=10 cursor=fx protect=false line=842 source=cue:fx1 :: text -tail
+73118ms order=400 z=10 cursor=fx protect=false line=843 source=cue:fx1 :: space 1 | text 10 --
+73128ms order=260 z=90 cursor=lyric protect=true line=717 source=cue:lyric1 :: text た
+73168ms order=401 z=10 cursor=fx protect=false line=844 source=cue:fx1 :: text level
+73218ms order=402 z=10 cursor=fx protect=false line=845 source=cue:fx1 :: text  w...e
+73268ms order=403 z=10 cursor=fx protect=false line=846 source=cue:fx1 :: mv 9,1 | text watchdog (v22.10.12), iyowa
+73292ms order=261 z=90 cursor=lyric protect=true line=718 source=cue:lyric1 :: text れ
+73368ms order=404 z=10 cursor=fx protect=false line=847 source=cue:fx1 :: mv 10,1 | background 000000 | space 10 | background default
+73368ms order=405 z=10 cursor=fx protect=false line=848 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | BLACK STAR  | space 7 | text |
+73418ms order=406 z=10 cursor=fx protect=false line=849 source=cue:fx1 :: mv 11,1 | background 000000 | space 10 | background default
+73418ms order=407 z=10 cursor=fx protect=false line=850 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | IS | space 16 | text |
+73456ms order=262 z=90 cursor=lyric protect=true line=719 source=cue:lyric1 :: text き
+73468ms order=408 z=10 cursor=fx protect=false line=851 source=cue:fx1 :: mv 12,1 | background 000000 | space 10 | background default
+73468ms order=409 z=10 cursor=fx protect=false line=852 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | WATCHING | space 10 | text |
+73518ms order=410 z=10 cursor=fx protect=false line=853 source=cue:fx1 :: mv 13,1 | background 000000 | space 10 | background default
+73518ms order=411 z=10 cursor=fx protect=false line=854 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | CONNECTION LOST   |
+73568ms order=412 z=10 cursor=fx protect=false line=855 source=cue:fx1 :: mv 14,1 | background 000000 | space 10 | background default
+73568ms order=413 z=10 cursor=fx protect=false line=856 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | CONNECTION LOST   |
+73618ms order=414 z=10 cursor=fx protect=false line=857 source=cue:fx1 :: mv 15,1 | background 000000 | space 10 | background default
+73618ms order=415 z=10 cursor=fx protect=false line=858 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | CONNECTION LOST   |
+73620ms order=263 z=90 cursor=lyric protect=true line=720 source=cue:lyric1 :: mv 5,91 | text 歴史
+73668ms order=416 z=10 cursor=fx protect=false line=859 source=cue:fx1 :: mv 16,1 | background 000000 | space 10 | background default
+73668ms order=417 z=10 cursor=fx protect=false line=860 source=cue:fx1 :: text | | space 1 | color ff0000 | text FATAL | color default | text  | CONNECTION LOST   |
+73718ms order=418 z=10 cursor=fx protect=false line=861 source=cue:fx1 :: mv 17,1 | background 000000 | space 10 | background default
+73718ms order=419 z=10 cursor=fx protect=false line=862 source=cue:fx1 :: text | | space 1 | color aa6666 | text ERROR | color default | text  | UNABLE TO CONNECT |
+73768ms order=420 z=10 cursor=fx protect=false line=863 source=cue:fx1 :: mv 18,1 | background 000000 | space 10 | background default
+73768ms order=421 z=10 cursor=fx protect=false line=864 source=cue:fx1 :: text | | space 1 | color aa6666 | text ERROR | color default | text  | UNABLE TO CONNECT |
+73784ms order=264 z=90 cursor=lyric protect=true line=721 source=cue:lyric1 :: text の
+73818ms order=422 z=10 cursor=fx protect=false line=865 source=cue:fx1 :: mv 19,1 | background 000000 | space 10 | background default
+73818ms order=423 z=10 cursor=fx protect=false line=866 source=cue:fx1 :: text | | space 1 | color aa6666 | text ERROR | color default | text  | UNABLE TO CONNECT |
+74018ms order=424 z=10 cursor=fx protect=false line=867 source=cue:fx1 :: mv 20,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+74118ms order=425 z=10 cursor=fx protect=false line=868 source=cue:fx1 :: text send "
+74168ms order=426 z=10 cursor=fx protect=false line=869 source=cue:fx1 :: text tasuk
+74218ms order=427 z=10 cursor=fx protect=false line=870 source=cue:fx1 :: text ete" | space 1
+74268ms order=428 z=10 cursor=fx protect=false line=871 source=cue:fx1 :: text -> $S
+74318ms order=429 z=10 cursor=fx protect=false line=872 source=cue:fx1 :: text HIP &
+74368ms order=430 z=10 cursor=fx protect=false line=873 source=cue:fx1 :: text & awa
+74418ms order=431 z=10 cursor=fx protect=false line=874 source=cue:fx1 :: text it $S
+74440ms order=265 z=90 cursor=lyric protect=true line=722 source=cue:lyric1 :: mv 7,81 | text む
+74468ms order=432 z=10 cursor=fx protect=false line=875 source=cue:fx1 :: text HIP -
+74518ms order=433 z=10 cursor=fx protect=false line=876 source=cue:fx1 :: text -time
+74568ms order=434 z=10 cursor=fx protect=false line=877 source=cue:fx1 :: text out 1
+74604ms order=266 z=90 cursor=lyric protect=true line=723 source=cue:lyric1 :: mv 7,81 | text 結
+74618ms order=435 z=10 cursor=fx protect=false line=878 source=cue:fx1 :: text 000
+74668ms order=436 z=10 cursor=fx protect=false line=879 source=cue:fx1 :: mv 21,1 | text [ | space 2 | color 00ff00 | text O K | color default | space 2 | text ]message dispatched to $SHIP
+74718ms order=437 z=10 cursor=fx protect=false line=880 source=cue:fx1 :: mv 22,1 | text [ | space 2 | text ... | space 2 | text ] awaiting response frame within 1000 ms.
+74768ms order=267 z=90 cursor=lyric protect=true line=724 source=cue:lyric1 :: text ぶ
+74918ms order=438 z=10 cursor=fx protect=false line=881 source=cue:fx1 :: text .
+74932ms order=268 z=90 cursor=lyric protect=true line=725 source=cue:lyric1 :: text こ
+75096ms order=269 z=90 cursor=lyric protect=true line=726 source=cue:lyric1 :: mv 7,85 | text 答
+75118ms order=439 z=10 cursor=fx protect=false line=882 source=cue:fx1 :: text .
+75260ms order=270 z=90 cursor=lyric protect=true line=727 source=cue:lyric1 :: text え
+75318ms order=440 z=10 cursor=fx protect=false line=883 source=cue:fx1 :: text .
+75424ms order=271 z=90 cursor=lyric protect=true line=728 source=cue:lyric1 :: text は
+75518ms order=441 z=10 cursor=fx protect=false line=884 source=cue:fx1 :: text .
+75588ms order=272 z=90 cursor=lyric protect=true line=729 source=cue:lyric1 :: text す
+75718ms order=442 z=10 cursor=fx protect=false line=885 source=cue:fx1 :: text . | color ff0000 | text FAILED
+75718ms order=443 z=10 cursor=fx protect=false line=886 source=cue:fx1 :: mv 23,1 | color default | text [ | space 1 | color ff0000 | text FAILD | color default | space 1 | text ] timeout: no reply received before deadline
+75752ms order=273 z=90 cursor=lyric protect=true line=730 source=cue:lyric1 :: mv 7,91 | text 砂
+75818ms order=444 z=10 cursor=fx protect=false line=887 source=cue:fx1 :: mv 24,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+75916ms order=274 z=90 cursor=lyric protect=true line=731 source=cue:lyric1 :: text の
+76080ms order=275 z=90 cursor=lyric protect=true line=732 source=cue:lyric1 :: text あ
+76118ms order=445 z=10 cursor=fx protect=false line=888 source=cue:fx1 :: text fuck!
+76168ms order=446 z=10 cursor=fx protect=false line=889 source=cue:fx1 :: text !!!
+76218ms order=447 z=10 cursor=fx protect=false line=890 source=cue:fx1 :: mv 25,1 | text NETSU-IJOU : command not found :  | color ff0000 | text fuck!!!
+76218ms order=448 z=10 cursor=fx protect=false line=891 source=cue:fx1 :: mv 26,34 | color ff0000 | text ^~~~~~~ | color default
+76244ms order=276 z=90 cursor=lyric protect=true line=733 source=cue:lyric1 :: mv 7,95 | text 味
+76318ms order=449 z=10 cursor=fx protect=false line=892 source=cue:fx1 :: mv 27,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+76408ms order=277 z=90 cursor=lyric protect=true line=734 source=cue:lyric1 :: text が
+76572ms order=278 z=90 cursor=lyric protect=true line=735 source=cue:lyric1 :: text す
+76618ms order=450 z=10 cursor=fx protect=false line=893 source=cue:fx1 :: text clear
+76718ms order=451 z=10 cursor=fx protect=false line=894 source=cue:fx1 :: clear
+76736ms order=452 z=10 cursor=fx protect=false line=896 source=cue:fx1 :: mv 1,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+76736ms order=279 z=90 cursor=lyric protect=true line=736 source=cue:lyric1 :: text る
+77064ms order=453 z=10 cursor=fx protect=false line=897 source=cue:fx1 :: text echo $(
+77064ms order=280 z=90 cursor=lyric protect=true line=738 source=cue:lyric1 :: mv 1,81 | color ff9440 | text 死ん
+77134ms order=454 z=10 cursor=fx protect=false line=898 source=cue:fx1 :: text $ENV_VA
+77204ms order=455 z=10 cursor=fx protect=false line=899 source=cue:fx1 :: text RS) | g
+77274ms order=456 z=10 cursor=fx protect=false line=900 source=cue:fx1 :: text rep -Ei
+77344ms order=457 z=10 cursor=fx protect=false line=901 source=cue:fx1 :: text  "(dead
+77392ms order=281 z=90 cursor=lyric protect=true line=739 source=cue:lyric1 :: text だ
+77414ms order=458 z=10 cursor=fx protect=false line=902 source=cue:fx1 :: text |death|
+77484ms order=459 z=10 cursor=fx protect=false line=903 source=cue:fx1 :: text null|lo
+77554ms order=460 z=10 cursor=fx protect=false line=904 source=cue:fx1 :: mv 2,25 | text op|repe
+77624ms order=461 z=10 cursor=fx protect=false line=905 source=cue:fx1 :: text at|coun
+77694ms order=462 z=10 cursor=fx protect=false line=906 source=cue:fx1 :: text t|heat)"
+77720ms order=282 z=90 cursor=lyric protect=true line=740 source=cue:lyric1 :: text 変
+77764ms order=463 z=10 cursor=fx protect=false line=907 source=cue:fx1 :: mv 3,1
+78048ms order=283 z=90 cursor=lyric protect=true line=741 source=cue:lyric1 :: text 数
+78264ms order=464 z=10 cursor=fx protect=false line=908 source=cue:fx1 :: mv 3,1 | color 44aa44 | text DEAD | color 8a8f98 | text _VAR[00]    = "hensuu:: | color 44aa44 | text null | color 8a8f98 | text "
+78364ms order=465 z=10 cursor=fx protect=false line=909 source=cue:fx1 :: mv 4,1 | color 44aa44 | text LOOP | color b63a48 | text _STACK      = " | color 44aa44 | text repeat | color b63a48 | text { | color 44aa44 | text death | color b63a48 | text }"
+78376ms order=284 z=90 cursor=lyric protect=true line=742 source=cue:lyric1 :: text で
+78464ms order=466 z=10 cursor=fx protect=false line=910 source=cue:fx1 :: mv 5,1 | color 44aa44 | text COUNT | color ff6b35 | text _ | color 44aa44 | text HEAT | color ff6b35 | text       = "39.8 -> 183bpm"
+78564ms order=467 z=10 cursor=fx protect=false line=911 source=cue:fx1 :: color 86d7ff | mv 6,1 | text STAR_QUERY      = "clear-eye:pending: | color 44aa44 | text loop | color 86d7ff | text "
+78664ms order=468 z=10 cursor=fx protect=false line=913 source=cue:fx1 :: mv 7,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+78704ms order=285 z=90 cursor=lyric protect=true line=743 source=cue:lyric1 :: text 繰
+78868ms order=286 z=90 cursor=lyric protect=true line=744 source=cue:lyric1 :: text り
+78964ms order=469 z=10 cursor=fx protect=false line=914 source=cue:fx1 :: text cat /dev
+79014ms order=470 z=10 cursor=fx protect=false line=915 source=cue:fx1 :: text /netsu/t
+79032ms order=287 z=90 cursor=lyric protect=true line=745 source=cue:lyric1 :: text か
+79064ms order=471 z=10 cursor=fx protect=false line=916 source=cue:fx1 :: text herm0 &&
+79114ms order=472 z=10 cursor=fx protect=false line=917 source=cue:fx1 :: text  readsta
+79164ms order=473 z=10 cursor=fx protect=false line=918 source=cue:fx1 :: text t /dev/n
+79196ms order=288 z=90 cursor=lyric protect=true line=746 source=cue:lyric1 :: mv 1,97 | text 返
+79214ms order=474 z=10 cursor=fx protect=false line=919 source=cue:fx1 :: text etsu/cou
+79264ms order=475 z=10 cursor=fx protect=false line=920 source=cue:fx1 :: mv 8,25 | text nt0 --fi
+79314ms order=476 z=10 cursor=fx protect=false line=921 source=cue:fx1 :: text elds=cou
+79360ms order=289 z=90 cursor=lyric protect=true line=747 source=cue:lyric1 :: space 10 | mv 1,99 | text す
+79364ms order=477 z=10 cursor=fx protect=false line=922 source=cue:fx1 :: text nt,delta
+79414ms order=478 z=10 cursor=fx protect=false line=923 source=cue:fx1 :: text ,seed,heat
+79614ms order=479 z=10 cursor=fx protect=false line=924 source=cue:fx1 :: mv 9,1 | color ff6b35 | text therm0.temp | color default | text       = 39.800C
+79814ms order=480 z=10 cursor=fx protect=false line=925 source=cue:fx1 :: mv 10,1 | color f6d365 | text count0.count | color default | text      = 0000183
+79852ms order=290 z=90 cursor=lyric protect=true line=748 source=cue:lyric1 :: mv 3,81 | text か
+80014ms order=481 z=10 cursor=fx protect=false line=926 source=cue:fx1 :: mv 11,1 | color 8a8f98 | text count0.delta | color default | text      = +0.3279s/cycle
+80016ms order=291 z=90 cursor=lyric protect=true line=749 source=cue:lyric1 :: mv 3,81 | text 数
+80180ms order=292 z=90 cursor=lyric protect=true line=750 source=cue:lyric1 :: text え
+80214ms order=482 z=10 cursor=fx protect=false line=927 source=cue:fx1 :: mv 12,1 | color c9a7ff | text count0.seed | color default | text       = "kazoe-goto"
+80344ms order=293 z=90 cursor=lyric protect=true line=751 source=cue:lyric1 :: text ご
+80414ms order=483 z=10 cursor=fx protect=false line=928 source=cue:fx1 :: mv 13,1 | color e84a5f | text count0.heat | color default | text       = "pregnant"
+80508ms order=294 z=90 cursor=lyric protect=true line=752 source=cue:lyric1 :: mv 3,85 | text 事
+80514ms order=484 z=10 cursor=fx protect=false line=929 source=cue:fx1 :: mv 14,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+80672ms order=295 z=90 cursor=lyric protect=true line=753 source=cue:lyric1 :: text が
+80814ms order=485 z=10 cursor=fx protect=false line=930 source=cue:fx1 :: text why?
+81000ms order=296 z=90 cursor=lyric protect=true line=754 source=cue:lyric1 :: text は
+81114ms order=486 z=10 cursor=fx protect=false line=931 source=cue:fx1 :: mv 15,1 | text NETSU-IJOU : command not found :  | color ff0000 | text why?
+81114ms order=487 z=10 cursor=fx protect=false line=932 source=cue:fx1 :: mv 16,34 | color ff0000 | text ^~~~ | color default
+81114ms order=488 z=10 cursor=fx protect=false line=933 source=cue:fx1 :: mv 17,1 | text Do you mean:  | color 44ff44 | text whttp(1) | color default | text ?
+81214ms order=489 z=10 cursor=fx protect=false line=934 source=cue:fx1 :: mv 18,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+81314ms order=490 z=10 cursor=fx protect=false line=935 source=cue:fx1 :: text scan /d
+81328ms order=297 z=90 cursor=lyric protect=true line=755 source=cue:lyric1 :: mv 3,89 | text 孕ん
+81364ms order=491 z=10 cursor=fx protect=false line=936 source=cue:fx1 :: text ev/hito
+81414ms order=492 z=10 cursor=fx protect=false line=937 source=cue:fx1 :: text mi/clea
+81464ms order=493 z=10 cursor=fx protect=false line=938 source=cue:fx1 :: text r0 --sa
+81514ms order=494 z=10 cursor=fx protect=false line=939 source=cue:fx1 :: text mple=ir
+81564ms order=495 z=10 cursor=fx protect=false line=940 source=cue:fx1 :: text is,sigh
+81614ms order=496 z=10 cursor=fx protect=false line=941 source=cue:fx1 :: text t,clar | mv 19,25 | text i
+81656ms order=298 z=90 cursor=lyric protect=true line=756 source=cue:lyric1 :: text だ
+81664ms order=497 z=10 cursor=fx protect=false line=942 source=cue:fx1 :: text ty --em
+81714ms order=498 z=10 cursor=fx protect=false line=943 source=cue:fx1 :: text it-spectrum
+81714ms order=499 z=10 cursor=fx protect=false line=944 source=cue:fx1 :: mv 20,1 | text ⠋
+81744ms order=500 z=10 cursor=fx protect=false line=945 source=cue:fx1 :: mv 20,1 | text ⠙
+81774ms order=501 z=10 cursor=fx protect=false line=946 source=cue:fx1 :: mv 20,1 | text ⠹
+81804ms order=502 z=10 cursor=fx protect=false line=947 source=cue:fx1 :: mv 20,1 | text ⠸
+81820ms order=299 z=90 cursor=lyric protect=true line=757 source=cue:lyric1 :: text ね
+81834ms order=503 z=10 cursor=fx protect=false line=948 source=cue:fx1 :: mv 20,1 | text ⠼
+81864ms order=504 z=10 cursor=fx protect=false line=949 source=cue:fx1 :: mv 20,1 | text ⠴
+81894ms order=505 z=10 cursor=fx protect=false line=950 source=cue:fx1 :: mv 20,1 | text ⠦
+81924ms order=506 z=10 cursor=fx protect=false line=951 source=cue:fx1 :: mv 20,1 | text ⠧
+81954ms order=507 z=10 cursor=fx protect=false line=952 source=cue:fx1 :: mv 20,1 | text ⠇
+81984ms order=508 z=10 cursor=fx protect=false line=953 source=cue:fx1 :: mv 20,1 | text ⠏
+81984ms order=300 z=90 cursor=lyric protect=true line=758 source=cue:lyric1 :: mv 3,95 | space 10 | mv 3,95 | text 熱
+82014ms order=509 z=10 cursor=fx protect=false line=954 source=cue:fx1 :: mv 20,1 | text iris.color =  | color 86d7ff | text #86D7FF | color default
+82014ms order=510 z=10 cursor=fx protect=false line=955 source=cue:fx1 :: mv 21,1 | text ⠋
+82044ms order=511 z=10 cursor=fx protect=false line=956 source=cue:fx1 :: mv 21,1 | text ⠙
+82074ms order=512 z=10 cursor=fx protect=false line=957 source=cue:fx1 :: mv 21,1 | text ⠹
+82104ms order=513 z=10 cursor=fx protect=false line=958 source=cue:fx1 :: mv 21,1 | text ⠸
+82134ms order=514 z=10 cursor=fx protect=false line=959 source=cue:fx1 :: mv 21,1 | text ⠼
+82164ms order=515 z=10 cursor=fx protect=false line=960 source=cue:fx1 :: mv 21,1 | text ⠴
+82194ms order=516 z=10 cursor=fx protect=false line=961 source=cue:fx1 :: mv 21,1 | text ⠦
+82224ms order=517 z=10 cursor=fx protect=false line=962 source=cue:fx1 :: mv 21,1 | text ⠧
+82254ms order=518 z=10 cursor=fx protect=false line=963 source=cue:fx1 :: mv 21,1 | text ⠇
+82284ms order=519 z=10 cursor=fx protect=false line=964 source=cue:fx1 :: mv 21,1 | text ⠏
+82312ms order=301 z=90 cursor=lyric protect=true line=759 source=cue:lyric1 :: mv 5,81 | text だ
+82314ms order=520 z=10 cursor=fx protect=false line=965 source=cue:fx1 :: mv 21,1 | text sight.vector =  | color ddebff | text "toward:outer-star" | color default
+82314ms order=521 z=10 cursor=fx protect=false line=966 source=cue:fx1 :: mv 22,1 | text ⠋
+82344ms order=522 z=10 cursor=fx protect=false line=967 source=cue:fx1 :: mv 22,1 | text ⠙
+82374ms order=523 z=10 cursor=fx protect=false line=968 source=cue:fx1 :: mv 22,1 | text ⠹
+82404ms order=524 z=10 cursor=fx protect=false line=969 source=cue:fx1 :: mv 22,1 | text ⠸
+82434ms order=525 z=10 cursor=fx protect=false line=970 source=cue:fx1 :: mv 22,1 | text ⠼
+82464ms order=526 z=10 cursor=fx protect=false line=971 source=cue:fx1 :: mv 22,1 | text ⠴
+82494ms order=527 z=10 cursor=fx protect=false line=972 source=cue:fx1 :: mv 22,1 | text ⠦
+82524ms order=528 z=10 cursor=fx protect=false line=973 source=cue:fx1 :: mv 22,1 | text ⠧
+82554ms order=529 z=10 cursor=fx protect=false line=974 source=cue:fx1 :: mv 22,1 | text ⠇
+82584ms order=530 z=10 cursor=fx protect=false line=975 source=cue:fx1 :: mv 22,1 | text ⠏
+82614ms order=531 z=10 cursor=fx protect=false line=976 source=cue:fx1 :: mv 22,1 | text clarity.index =  | color bfffea | text 0.991 | color default
+82614ms order=532 z=10 cursor=fx protect=false line=977 source=cue:fx1 :: mv 23,1 | text ⠋
+82640ms order=302 z=90 cursor=lyric protect=true line=760 source=cue:lyric1 :: mv 5,81 | text 誰
+82644ms order=533 z=10 cursor=fx protect=false line=978 source=cue:fx1 :: mv 23,1 | text ⠙
+82674ms order=534 z=10 cursor=fx protect=false line=979 source=cue:fx1 :: mv 23,1 | text ⠹
+82704ms order=535 z=10 cursor=fx protect=false line=980 source=cue:fx1 :: mv 23,1 | text ⠸
+82734ms order=536 z=10 cursor=fx protect=false line=981 source=cue:fx1 :: mv 23,1 | text ⠼
+82764ms order=537 z=10 cursor=fx protect=false line=982 source=cue:fx1 :: mv 23,1 | text ⠴
+82794ms order=538 z=10 cursor=fx protect=false line=983 source=cue:fx1 :: mv 23,1 | text ⠦
+82824ms order=539 z=10 cursor=fx protect=false line=984 source=cue:fx1 :: mv 23,1 | text ⠧
+82854ms order=540 z=10 cursor=fx protect=false line=985 source=cue:fx1 :: mv 23,1 | text ⠇
+82884ms order=541 z=10 cursor=fx protect=false line=986 source=cue:fx1 :: mv 23,1 | text ⠏
+82914ms order=542 z=10 cursor=fx protect=false line=987 source=cue:fx1 :: mv 23,1 | text reflection.src =  | color c7b6ff | text "someone" | color default
+82914ms order=543 z=10 cursor=fx protect=false line=988 source=cue:fx1 :: mv 24,1 | text ⠋
+82944ms order=544 z=10 cursor=fx protect=false line=989 source=cue:fx1 :: mv 24,1 | text ⠙
+82968ms order=303 z=90 cursor=lyric protect=true line=761 source=cue:lyric1 :: text か
+82974ms order=545 z=10 cursor=fx protect=false line=990 source=cue:fx1 :: mv 24,1 | text ⠹
+83004ms order=546 z=10 cursor=fx protect=false line=991 source=cue:fx1 :: mv 24,1 | text ⠸
+83034ms order=547 z=10 cursor=fx protect=false line=992 source=cue:fx1 :: mv 24,1 | text ⠼
+83064ms order=548 z=10 cursor=fx protect=false line=993 source=cue:fx1 :: mv 24,1 | text ⠴
+83094ms order=549 z=10 cursor=fx protect=false line=994 source=cue:fx1 :: mv 24,1 | text ⠦
+83124ms order=550 z=10 cursor=fx protect=false line=995 source=cue:fx1 :: mv 24,1 | text ⠧
+83132ms order=304 z=90 cursor=lyric protect=true line=762 source=cue:lyric1 :: text の
+83154ms order=551 z=10 cursor=fx protect=false line=996 source=cue:fx1 :: mv 24,1 | text ⠇
+83184ms order=552 z=10 cursor=fx protect=false line=997 source=cue:fx1 :: mv 24,1 | text ⠏
+83214ms order=553 z=10 cursor=fx protect=false line=998 source=cue:fx1 :: mv 24,1 | text spectrum.lock =  | color f6d365 | text "ready:star-query" | color default
+83296ms order=305 z=90 cursor=lyric protect=true line=763 source=cue:lyric1 :: text 澄ん
+83314ms order=554 z=10 cursor=fx protect=false line=999 source=cue:fx1 :: mv 25,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+83514ms order=555 z=10 cursor=fx protect=false line=1000 source=cue:fx1 :: text ask /
+83564ms order=556 z=10 cursor=fx protect=false line=1001 source=cue:fx1 :: text dev/h
+83614ms order=557 z=10 cursor=fx protect=false line=1002 source=cue:fx1 :: text oshi/
+83624ms order=306 z=90 cursor=lyric protect=true line=764 source=cue:lyric1 :: text だ
+83664ms order=558 z=10 cursor=fx protect=false line=1003 source=cue:fx1 :: text clear
+83714ms order=559 z=10 cursor=fx protect=false line=1004 source=cue:fx1 :: text 0 --c
+83764ms order=560 z=10 cursor=fx protect=false line=1005 source=cue:fx1 :: text olor=
+83788ms order=307 z=90 cursor=lyric protect=true line=765 source=cue:lyric1 :: text ひ
+83814ms order=561 z=10 cursor=fx protect=false line=1006 source=cue:fx1 :: text "$(ca
+83864ms order=562 z=10 cursor=fx protect=false line=1007 source=cue:fx1 :: text t /tm
+83914ms order=563 z=10 cursor=fx protect=false line=1008 source=cue:fx1 :: text p/sta
+83952ms order=308 z=90 cursor=lyric protect=true line=766 source=cue:lyric1 :: text と
+83964ms order=564 z=10 cursor=fx protect=false line=1009 source=cue:fx1 :: text r.c | mv 26,25 | text ol
+84014ms order=565 z=10 cursor=fx protect=false line=1010 source=cue:fx1 :: text or)" | space 1
+84064ms order=566 z=10 cursor=fx protect=false line=1011 source=cue:fx1 :: text --que
+84114ms order=567 z=10 cursor=fx protect=false line=1012 source=cue:fx1 :: text stion
+84116ms order=309 z=90 cursor=lyric protect=true line=767 source=cue:lyric1 :: mv 5,93 | text 瞳
+84164ms order=568 z=10 cursor=fx protect=false line=1013 source=cue:fx1 :: text ="where_
+84214ms order=569 z=10 cursor=fx protect=false line=1014 source=cue:fx1 :: text _is_th
+84264ms order=570 z=10 cursor=fx protect=false line=1015 source=cue:fx1 :: text e_end?
+84280ms order=310 z=90 cursor=lyric protect=true line=768 source=cue:lyric1 :: space 20 | mv 5,95 | text の
+84314ms order=571 z=10 cursor=fx protect=false line=1016 source=cue:fx1 :: text " --t
+84364ms order=572 z=10 cursor=fx protect=false line=1017 source=cue:fx1 :: text imeou
+84414ms order=573 z=10 cursor=fx protect=false line=1018 source=cue:fx1 :: text t | mv 27,25 | text =1000
+84464ms order=574 z=10 cursor=fx protect=false line=1019 source=cue:fx1 :: mv 28,1
+84514ms order=575 z=10 cursor=fx protect=false line=1021 source=cue:fx1/loop :: mv 28,1 | text ⠋
+84564ms order=576 z=10 cursor=fx protect=false line=1022 source=cue:fx1/loop :: mv 28,1 | text ⠙
+84614ms order=577 z=10 cursor=fx protect=false line=1023 source=cue:fx1/loop :: mv 28,1 | text ⠹
+84664ms order=578 z=10 cursor=fx protect=false line=1024 source=cue:fx1/loop :: mv 28,1 | text ⠸
+84714ms order=579 z=10 cursor=fx protect=false line=1025 source=cue:fx1/loop :: mv 28,1 | text ⠼
+84764ms order=580 z=10 cursor=fx protect=false line=1026 source=cue:fx1/loop :: mv 28,1 | text ⠴
+84772ms order=311 z=90 cursor=lyric protect=true line=769 source=cue:lyric1 :: mv 7,81 | text い
+84814ms order=581 z=10 cursor=fx protect=false line=1027 source=cue:fx1/loop :: mv 28,1 | text ⠦
+84864ms order=582 z=10 cursor=fx protect=false line=1028 source=cue:fx1/loop :: mv 28,1 | text ⠧
+84914ms order=583 z=10 cursor=fx protect=false line=1029 source=cue:fx1/loop :: mv 28,1 | text ⠇
+84936ms order=312 z=90 cursor=lyric protect=true line=770 source=cue:lyric1 :: mv 7,81 | text 色
+84964ms order=584 z=10 cursor=fx protect=false line=1030 source=cue:fx1/loop :: mv 28,1 | text ⠏
+85014ms order=585 z=10 cursor=fx protect=false line=1021 source=cue:fx1/loop :: mv 28,1 | text ⠋
+85064ms order=586 z=10 cursor=fx protect=false line=1022 source=cue:fx1/loop :: mv 28,1 | text ⠙
+85100ms order=313 z=90 cursor=lyric protect=true line=771 source=cue:lyric1 :: text を
+85114ms order=587 z=10 cursor=fx protect=false line=1023 source=cue:fx1/loop :: mv 28,1 | text ⠹
+85164ms order=588 z=10 cursor=fx protect=false line=1024 source=cue:fx1/loop :: mv 28,1 | text ⠸
+85214ms order=589 z=10 cursor=fx protect=false line=1025 source=cue:fx1/loop :: mv 28,1 | text ⠼
+85264ms order=590 z=10 cursor=fx protect=false line=1026 source=cue:fx1/loop :: mv 28,1 | text ⠴
+85264ms order=314 z=90 cursor=lyric protect=true line=772 source=cue:lyric1 :: text し
+85314ms order=591 z=10 cursor=fx protect=false line=1027 source=cue:fx1/loop :: mv 28,1 | text ⠦
+85364ms order=592 z=10 cursor=fx protect=false line=1028 source=cue:fx1/loop :: mv 28,1 | text ⠧
+85414ms order=593 z=10 cursor=fx protect=false line=1029 source=cue:fx1/loop :: mv 28,1 | text ⠇
+85428ms order=315 z=90 cursor=lyric protect=true line=773 source=cue:lyric1 :: text た
+85464ms order=594 z=10 cursor=fx protect=false line=1030 source=cue:fx1/loop :: mv 28,1 | text ⠏
+85514ms order=595 z=10 cursor=fx protect=false line=1021 source=cue:fx1/loop :: mv 28,1 | text ⠋
+85564ms order=596 z=10 cursor=fx protect=false line=1022 source=cue:fx1/loop :: mv 28,1 | text ⠙
+85592ms order=316 z=90 cursor=lyric protect=true line=774 source=cue:lyric1 :: text ほ
+85614ms order=597 z=10 cursor=fx protect=false line=1023 source=cue:fx1/loop :: mv 28,1 | text ⠹
+85664ms order=598 z=10 cursor=fx protect=false line=1024 source=cue:fx1/loop :: mv 28,1 | text ⠸
+85714ms order=599 z=10 cursor=fx protect=false line=1025 source=cue:fx1/loop :: mv 28,1 | text ⠼
+85756ms order=317 z=90 cursor=lyric protect=true line=775 source=cue:lyric1 :: mv 7,89 | text 星
+85764ms order=600 z=10 cursor=fx protect=false line=1026 source=cue:fx1/loop :: mv 28,1 | text ⠴
+85814ms order=601 z=10 cursor=fx protect=false line=1027 source=cue:fx1/loop :: mv 28,1 | text ⠦
+85864ms order=602 z=10 cursor=fx protect=false line=1028 source=cue:fx1/loop :: mv 28,1 | text ⠧
+85914ms order=603 z=10 cursor=fx protect=false line=1029 source=cue:fx1/loop :: mv 28,1 | text ⠇
+85920ms order=318 z=90 cursor=lyric protect=true line=776 source=cue:lyric1 :: text に
+85964ms order=604 z=10 cursor=fx protect=false line=1030 source=cue:fx1/loop :: mv 28,1 | text ⠏
+85964ms order=605 z=10 cursor=fx protect=false line=1032 source=cue:fx1 :: mv 28,1 | text hoshi0.color =  | color 86d7ff | text #86D7FF | color default
+85964ms order=606 z=10 cursor=fx protect=false line=1033 source=cue:fx1 :: mv 29,1 | text query.payload =  | color ddebff | text "where_is_the_end?" | color default
+85964ms order=607 z=10 cursor=fx protect=false line=1034 source=cue:fx1 :: mv 30,1 | text query.status =  | color f6d365 | text "sent:0000183" | color default
+85964ms order=608 z=10 cursor=fx protect=false line=1035 source=cue:fx1 :: mv 31,1 | text answer.status =  | color 8a8f98 | text "listening..." | color default
+86084ms order=319 z=90 cursor=lyric protect=true line=777 source=cue:lyric1 :: text 問
+86248ms order=320 z=90 cursor=lyric protect=true line=778 source=cue:lyric1 :: text い
+86412ms order=321 z=90 cursor=lyric protect=true line=779 source=cue:lyric1 :: text か
+86576ms order=322 z=90 cursor=lyric protect=true line=780 source=cue:lyric1 :: text け
+86740ms order=323 z=90 cursor=lyric protect=true line=781 source=cue:lyric1 :: text て
+86904ms order=324 z=90 cursor=lyric protect=true line=782 source=cue:lyric1 :: text い
+86964ms order=609 z=10 cursor=fx protect=false line=1036 source=cue:fx1 :: mv 32,1 | text answer.frame =  | color c7b6ff | text "unexpected silence" | color default
+87068ms order=325 z=90 cursor=lyric protect=true line=783 source=cue:lyric1 :: text る
+87264ms order=610 z=10 cursor=fx protect=false line=1037 source=cue:fx1 :: mv 33,1 | text ^C | color 000000 | background ffffff | text % | color default | background default
+87364ms order=611 z=10 cursor=fx protect=false line=1038 source=cue:fx1 :: mv 34,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+87464ms order=612 z=10 cursor=fx protect=false line=1039 source=cue:fx1 :: text reboot
+87564ms order=613 z=10 cursor=fx protect=false line=1040 source=cue:fx1 :: clear
+87564ms order=616 z=20 cursor=fx2 protect=false line=614 source=cue:fx2 :: hide
+87564ms order=615 z=100 cursor=main protect=false line=1315 source=track:lyrics :: clear
+87664ms order=614 z=10 cursor=fx protect=false line=1041 source=cue:fx1 :: mv 36,1 | space 1
+88220ms order=617 z=20 cursor=fx2 protect=false line=615 source=cue:fx2 :: color ffd49a | mv 1,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣶⣶⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+88876ms order=618 z=20 cursor=fx2 protect=false line=616 source=cue:fx2 :: color edb283 | mv 2,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣠⣤⣤⣤⣤⣤⣤⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+89532ms order=619 z=20 cursor=fx2 protect=false line=617 source=cue:fx2 :: color e4a177 | mv 3,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⢀⣀⣤⣶⣾⣿⣿⣿⣟⣛⣫⣻⣿⣛⣛⢿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+90188ms order=620 z=20 cursor=fx2 protect=false line=618 source=cue:fx2 :: color db906c | mv 4,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭⣛⣫⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀
+90844ms order=621 z=20 cursor=fx2 protect=false line=619 source=cue:fx2 :: color d27f60 | mv 5,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀
+91500ms order=622 z=20 cursor=fx2 protect=false line=620 source=cue:fx2 :: color c96f55 | mv 6,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀
+92156ms order=623 z=20 cursor=fx2 protect=false line=621 source=cue:fx2 :: color c05e49 | mv 7,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀
+92812ms order=624 z=20 cursor=fx2 protect=false line=622 source=cue:fx2 :: color b74d3e | mv 8,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+93468ms order=625 z=20 cursor=fx2 protect=false line=623 source=cue:fx2 :: color ae3c32 | mv 9,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+94124ms order=626 z=20 cursor=fx2 protect=false line=624 source=cue:fx2 :: color a52b27 | mv 10,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  ⠀⠀⠀⠀⠀⠀
+94780ms order=627 z=20 cursor=fx2 protect=false line=625 source=cue:fx2 :: color 9c1f20 | mv 11,1 | text ⠀⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇ ⠀⠀⠀⠀⠀⠀⠀
+95436ms order=628 z=20 cursor=fx2 protect=false line=626 source=cue:fx2 :: color 92191c | mv 12,1 | text ⠀⠀⠀⠀⠀⠀ ⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋ ⠀⠀⠀⠀⠀⠀⠀⠀
+96092ms order=629 z=20 cursor=fx2 protect=false line=627 source=cue:fx2 :: color 881419 | mv 13,1 | text ⠀⠀⠀⠀⠀⠀ ⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉ ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+96748ms order=630 z=20 cursor=fx2 protect=false line=628 source=cue:fx2 :: color 7e0f16 | mv 14,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+97404ms order=631 z=20 cursor=fx2 protect=false line=629 source=cue:fx2 :: color 740a13 | mv 15,1 | text ⠀⠀⠀⠀⠀⠀⠀ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+98060ms order=632 z=20 cursor=fx2 protect=false line=630 source=cue:fx2 :: color 6a0611 | mv 16,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+98716ms order=633 z=20 cursor=fx2 protect=false line=631 source=cue:fx2 :: color 62030f | mv 17,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡏⠉⠉⠉⠛⠛⠛⠛⠛⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+99372ms order=634 z=20 cursor=fx2 protect=false line=632 source=cue:fx2 :: color 5b010d | mv 18,1 | text ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⠿⠇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+102651ms order=635 z=20 cursor=fx2 protect=false line=633 source=cue:fx2 :: color default | clear | mv 1,1 | text [NETSU-IJOU]: | show
+102751ms order=636 z=20 cursor=fx2 protect=false line=634 source=cue:fx2 :: text ATA
+102851ms order=637 z=20 cursor=fx2 protect=false line=635 source=cue:fx2 :: text CHI
+102951ms order=638 z=20 cursor=fx2 protect=false line=636 source=cue:fx2 :: text -REI
+103451ms order=639 z=20 cursor=fx2 protect=false line=637 source=cue:fx2 :: mv 2,1 | text Password: | space 1
+104451ms order=640 z=20 cursor=fx2 protect=false line=638 source=cue:fx2 :: text *
+104501ms order=641 z=20 cursor=fx2 protect=false line=639 source=cue:fx2 :: text *
+104551ms order=642 z=20 cursor=fx2 protect=false line=640 source=cue:fx2 :: text *
+104601ms order=643 z=20 cursor=fx2 protect=false line=641 source=cue:fx2 :: text *
+104651ms order=644 z=20 cursor=fx2 protect=false line=642 source=cue:fx2 :: text *
+104701ms order=645 z=20 cursor=fx2 protect=false line=643 source=cue:fx2 :: text *
+104751ms order=646 z=20 cursor=fx2 protect=false line=644 source=cue:fx2 :: text *
+104801ms order=647 z=20 cursor=fx2 protect=false line=645 source=cue:fx2 :: text *
+104851ms order=648 z=20 cursor=fx2 protect=false line=646 source=cue:fx2 :: text *
+104901ms order=649 z=20 cursor=fx2 protect=false line=647 source=cue:fx2 :: text *
+104951ms order=650 z=20 cursor=fx2 protect=false line=648 source=cue:fx2 :: text *
+105001ms order=651 z=20 cursor=fx2 protect=false line=649 source=cue:fx2 :: text *
+105101ms order=652 z=20 cursor=fx2 protect=false line=650 source=cue:fx2 :: mv 2,1 | space 40
+105151ms order=653 z=20 cursor=fx2 protect=false line=652 source=cue:fx2/loop :: mv 2,1 | text ⠋
+105201ms order=654 z=20 cursor=fx2 protect=false line=653 source=cue:fx2/loop :: mv 2,1 | text ⠙
+105251ms order=655 z=20 cursor=fx2 protect=false line=654 source=cue:fx2/loop :: mv 2,1 | text ⠹
+105301ms order=656 z=20 cursor=fx2 protect=false line=655 source=cue:fx2/loop :: mv 2,1 | text ⠸
+105351ms order=657 z=20 cursor=fx2 protect=false line=656 source=cue:fx2/loop :: mv 2,1 | text ⠼
+105401ms order=658 z=20 cursor=fx2 protect=false line=657 source=cue:fx2/loop :: mv 2,1 | text ⠴
+105451ms order=659 z=20 cursor=fx2 protect=false line=658 source=cue:fx2/loop :: mv 2,1 | text ⠦
+105501ms order=660 z=20 cursor=fx2 protect=false line=659 source=cue:fx2/loop :: mv 2,1 | text ⠧
+105551ms order=661 z=20 cursor=fx2 protect=false line=660 source=cue:fx2/loop :: mv 2,1 | text ⠇
+105601ms order=662 z=20 cursor=fx2 protect=false line=661 source=cue:fx2/loop :: mv 2,1 | text ⠏
+105651ms order=663 z=20 cursor=fx2 protect=false line=652 source=cue:fx2/loop :: mv 2,1 | text ⠋
+105701ms order=664 z=20 cursor=fx2 protect=false line=653 source=cue:fx2/loop :: mv 2,1 | text ⠙
+105751ms order=665 z=20 cursor=fx2 protect=false line=654 source=cue:fx2/loop :: mv 2,1 | text ⠹
+105801ms order=666 z=20 cursor=fx2 protect=false line=655 source=cue:fx2/loop :: mv 2,1 | text ⠸
+105851ms order=667 z=20 cursor=fx2 protect=false line=656 source=cue:fx2/loop :: mv 2,1 | text ⠼
+105901ms order=668 z=20 cursor=fx2 protect=false line=657 source=cue:fx2/loop :: mv 2,1 | text ⠴
+105951ms order=669 z=20 cursor=fx2 protect=false line=658 source=cue:fx2/loop :: mv 2,1 | text ⠦
+106001ms order=670 z=20 cursor=fx2 protect=false line=659 source=cue:fx2/loop :: mv 2,1 | text ⠧
+106051ms order=671 z=20 cursor=fx2 protect=false line=660 source=cue:fx2/loop :: mv 2,1 | text ⠇
+106101ms order=672 z=20 cursor=fx2 protect=false line=661 source=cue:fx2/loop :: mv 2,1 | text ⠏
+106151ms order=673 z=20 cursor=fx2 protect=false line=652 source=cue:fx2/loop :: mv 2,1 | text ⠋
+106201ms order=674 z=20 cursor=fx2 protect=false line=653 source=cue:fx2/loop :: mv 2,1 | text ⠙
+106251ms order=675 z=20 cursor=fx2 protect=false line=654 source=cue:fx2/loop :: mv 2,1 | text ⠹
+106301ms order=676 z=20 cursor=fx2 protect=false line=655 source=cue:fx2/loop :: mv 2,1 | text ⠸
+106351ms order=677 z=20 cursor=fx2 protect=false line=656 source=cue:fx2/loop :: mv 2,1 | text ⠼
+106401ms order=678 z=20 cursor=fx2 protect=false line=657 source=cue:fx2/loop :: mv 2,1 | text ⠴
+106451ms order=679 z=20 cursor=fx2 protect=false line=658 source=cue:fx2/loop :: mv 2,1 | text ⠦
+106501ms order=680 z=20 cursor=fx2 protect=false line=659 source=cue:fx2/loop :: mv 2,1 | text ⠧
+106551ms order=681 z=20 cursor=fx2 protect=false line=660 source=cue:fx2/loop :: mv 2,1 | text ⠇
+106601ms order=682 z=20 cursor=fx2 protect=false line=661 source=cue:fx2/loop :: mv 2,1 | text ⠏
+106651ms order=683 z=20 cursor=fx2 protect=false line=663 source=cue:fx2 :: mv 2,1 | text Wellcome to NETSU-IJOU, ATACHI-REI.
+106751ms order=684 z=20 cursor=fx2 protect=false line=664 source=cue:fx2 :: mv 3,1 | color aa6666 | text Warn: 183 Kernel Panic(s) Detected.
+106801ms order=685 z=20 cursor=fx2 protect=false line=665 source=cue:fx2 :: mv 4,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+106901ms order=686 z=20 cursor=fx2 protect=false line=666 source=cue:fx2 :: text syshe
+107001ms order=687 z=20 cursor=fx2 protect=false line=667 source=cue:fx2 :: text alth s
+107101ms order=688 z=20 cursor=fx2 protect=false line=668 source=cue:fx2 :: text elf-ch
+107201ms order=689 z=20 cursor=fx2 protect=false line=669 source=cue:fx2 :: text eck --
+107301ms order=690 z=20 cursor=fx2 protect=false line=670 source=cue:fx2 :: text now
+107351ms order=691 z=20 cursor=fx2 protect=false line=672 source=cue:fx2/loop :: mv 5,1 | text ⠋
+107401ms order=692 z=20 cursor=fx2 protect=false line=673 source=cue:fx2/loop :: mv 5,1 | text ⠙
+107451ms order=693 z=20 cursor=fx2 protect=false line=674 source=cue:fx2/loop :: mv 5,1 | text ⠹
+107501ms order=694 z=20 cursor=fx2 protect=false line=675 source=cue:fx2/loop :: mv 5,1 | text ⠸
+107551ms order=695 z=20 cursor=fx2 protect=false line=676 source=cue:fx2/loop :: mv 5,1 | text ⠼
+107601ms order=696 z=20 cursor=fx2 protect=false line=677 source=cue:fx2/loop :: mv 5,1 | text ⠴
+107651ms order=697 z=20 cursor=fx2 protect=false line=678 source=cue:fx2/loop :: mv 5,1 | text ⠦
+107701ms order=698 z=20 cursor=fx2 protect=false line=679 source=cue:fx2/loop :: mv 5,1 | text ⠧
+107751ms order=699 z=20 cursor=fx2 protect=false line=680 source=cue:fx2/loop :: mv 5,1 | text ⠇
+107801ms order=700 z=20 cursor=fx2 protect=false line=681 source=cue:fx2/loop :: mv 5,1 | text ⠏
+107851ms order=701 z=20 cursor=fx2 protect=false line=672 source=cue:fx2/loop :: mv 5,1 | text ⠋
+107901ms order=702 z=20 cursor=fx2 protect=false line=673 source=cue:fx2/loop :: mv 5,1 | text ⠙
+107951ms order=703 z=20 cursor=fx2 protect=false line=674 source=cue:fx2/loop :: mv 5,1 | text ⠹
+108001ms order=704 z=20 cursor=fx2 protect=false line=675 source=cue:fx2/loop :: mv 5,1 | text ⠸
+108051ms order=705 z=20 cursor=fx2 protect=false line=676 source=cue:fx2/loop :: mv 5,1 | text ⠼
+108101ms order=706 z=20 cursor=fx2 protect=false line=677 source=cue:fx2/loop :: mv 5,1 | text ⠴
+108151ms order=707 z=20 cursor=fx2 protect=false line=678 source=cue:fx2/loop :: mv 5,1 | text ⠦
+108201ms order=708 z=20 cursor=fx2 protect=false line=679 source=cue:fx2/loop :: mv 5,1 | text ⠧
+108251ms order=709 z=20 cursor=fx2 protect=false line=680 source=cue:fx2/loop :: mv 5,1 | text ⠇
+108301ms order=710 z=20 cursor=fx2 protect=false line=681 source=cue:fx2/loop :: mv 5,1 | text ⠏
+108351ms order=711 z=20 cursor=fx2 protect=false line=672 source=cue:fx2/loop :: mv 5,1 | text ⠋
+108401ms order=712 z=20 cursor=fx2 protect=false line=673 source=cue:fx2/loop :: mv 5,1 | text ⠙
+108451ms order=713 z=20 cursor=fx2 protect=false line=674 source=cue:fx2/loop :: mv 5,1 | text ⠹
+108501ms order=714 z=20 cursor=fx2 protect=false line=675 source=cue:fx2/loop :: mv 5,1 | text ⠸
+108551ms order=715 z=20 cursor=fx2 protect=false line=676 source=cue:fx2/loop :: mv 5,1 | text ⠼
+108601ms order=716 z=20 cursor=fx2 protect=false line=677 source=cue:fx2/loop :: mv 5,1 | text ⠴
+108651ms order=717 z=20 cursor=fx2 protect=false line=678 source=cue:fx2/loop :: mv 5,1 | text ⠦
+108701ms order=718 z=20 cursor=fx2 protect=false line=679 source=cue:fx2/loop :: mv 5,1 | text ⠧
+108751ms order=719 z=20 cursor=fx2 protect=false line=680 source=cue:fx2/loop :: mv 5,1 | text ⠇
+108801ms order=720 z=20 cursor=fx2 protect=false line=681 source=cue:fx2/loop :: mv 5,1 | text ⠏
+108811ms order=721 z=20 cursor=fx2 protect=false line=683 source=cue:fx2 :: mv 5,1 | color 00ff00 | text  | color default | text System healthy!
+108821ms order=722 z=20 cursor=fx2 protect=false line=684 source=cue:fx2 :: mv 6,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+109221ms order=723 z=20 cursor=fx2 protect=false line=685 source=cue:fx2 :: text sudo | space 1
+109321ms order=724 z=20 cursor=fx2 protect=false line=686 source=cue:fx2 :: text netsu-
+109421ms order=725 z=20 cursor=fx2 protect=false line=687 source=cue:fx2 :: text ijou
+110130ms order=726 z=100 cursor=main protect=false line=1318 source=track:lyrics :: clear | hide
+110130ms order=727 z=100 cursor=main protect=false line=1319 source=track:lyrics :: mv 1,1 | text ═══════════════════════════════════════════════
+110130ms order=728 z=100 cursor=main protect=false line=1320 source=track:lyrics :: mv 2,18 | text 熱 | space 3 | text 異 | space 3 | text 常
+110130ms order=729 z=100 cursor=main protect=false line=1321 source=track:lyrics :: mv 3,1 | text ═══════════════════════════════════════════════
+110130ms order=730 z=100 cursor=main protect=false line=1322 source=track:lyrics :: mv 4,1 | text 拾いきれなくなる悲しみは
+111441ms order=731 z=100 cursor=main protect=false line=1323 source=track:lyrics :: mv 5,1 | text やがて流れ落ち塩になる
+112916ms order=732 z=100 cursor=main protect=false line=1324 source=track:lyrics :: mv 6,1 | text 祈り　苦しみ　同情　憐れみにさえ
+114883ms order=733 z=100 cursor=main protect=false line=1325 source=track:lyrics :: mv 7,1 | text じきに値がつく
+115703ms order=734 z=100 cursor=main protect=false line=1326 source=track:lyrics :: mv 8,1 | text 今
+115703ms order=735 z=100 cursor=main protect=false line=1327 source=track:lyrics :: mv 4,1 | background 000000 | color 555577 | text 拾いきれなくなる悲しみは | space 8 | background default | color default | text 背を向けても
+116195ms order=736 z=100 cursor=main protect=false line=1328 source=track:lyrics :: mv 5,1 | background 000000 | color 555577 | text やがて流れ落ち塩になる | space 10 | background default | color default | text 背を向けても
+116687ms order=737 z=100 cursor=main protect=false line=1329 source=track:lyrics :: mv 6,1 | background 000000 | color 555577 | text 祈り　苦しみ　同情　憐れみにさえ | background default | color default | text 背を向けても
+117179ms order=738 z=100 cursor=main protect=false line=1330 source=track:lyrics :: mv 7,1 | background 000000 | color 555577 | text じきに値がつく | space 18 | background default | color default | text 背を向けても
+117671ms order=739 z=100 cursor=main protect=false line=1331 source=track:lyrics :: mv 4,1 | background 000000 | color 555577 | text 背を向けても | space 20
+118163ms order=740 z=100 cursor=main protect=false line=1332 source=track:lyrics :: mv 5,1 | text 背を向けても | space 20
+118655ms order=741 z=100 cursor=main protect=false line=1333 source=track:lyrics :: mv 6,1 | text 背を向けても | space 20
+119147ms order=742 z=100 cursor=main protect=false line=1334 source=track:lyrics :: mv 7,1 | text 背を向けても | space 20
+119639ms order=743 z=100 cursor=main protect=false line=1335 source=track:lyrics :: color default | background default | mv 8,1 | text 鮮明に聞こえる悲鳴が
+119967ms order=744 z=100 cursor=main protect=false line=1337 source=track:lyrics :: mv 9,1 | text ─────────────────────────────────────────────── | mv 10,1
+120951ms order=745 z=100 cursor=main protect=false line=1338 source=track:lyrics :: text 幸福を手放す事こそ
+121935ms order=746 z=100 cursor=main protect=false line=1339 source=track:lyrics :: mv 11,1 | text 美学であると諭す魚が
+123574ms order=747 z=100 cursor=main protect=false line=1340 source=track:lyrics :: mv 12,1 | text 自意識の海を泳ぐ
+124558ms order=748 z=100 cursor=main protect=false line=1341 source=track:lyrics :: mv 13,1 | text 垂れ流した血の匂いが立ちこめる
+126197ms order=749 z=100 cursor=main protect=false line=1342 source=track:lyrics :: mv 14,1 | background 000000 | text 黒い星が
+126689ms order=750 z=100 cursor=main protect=false line=1343 source=track:lyrics :: text 黒い星が
+127181ms order=751 z=100 cursor=main protect=false line=1344 source=track:lyrics :: text 黒い星が
+127673ms order=752 z=100 cursor=main protect=false line=1345 source=track:lyrics :: mv 15,1 | text 黒い星が黒い星が黒い星が
+128165ms order=753 z=100 cursor=main protect=false line=1346 source=track:lyrics :: mv 16,1 | text 黒い星が黒い星が黒い星が
+128657ms order=754 z=100 cursor=main protect=false line=1347 source=track:lyrics :: mv 14,1 | background default | space 24
+129149ms order=755 z=100 cursor=main protect=false line=1348 source=track:lyrics :: mv 15,1 | space 24
+129477ms order=756 z=100 cursor=main protect=false line=1349 source=track:lyrics :: mv 16,1 | space 8
+129805ms order=757 z=100 cursor=main protect=false line=1350 source=track:lyrics :: mv 16,17 | space 8
+130133ms order=758 z=100 cursor=main protect=false line=1351 source=track:lyrics :: mv 16,7 | text 私を見ている
+132100ms order=759 z=100 cursor=main protect=false line=1352 source=track:lyrics :: mv 1,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+133411ms order=760 z=100 cursor=main protect=false line=1353 source=track:lyrics :: mv 2,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+134722ms order=761 z=100 cursor=main protect=false line=1354 source=track:lyrics :: mv 3,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+136033ms order=762 z=100 cursor=main protect=false line=1355 source=track:lyrics :: mv 4,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+137344ms order=763 z=100 cursor=main protect=false line=1356 source=track:lyrics :: mv 5,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+138655ms order=764 z=100 cursor=main protect=false line=1357 source=track:lyrics :: mv 6,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+139966ms order=765 z=100 cursor=main protect=false line=1358 source=track:lyrics :: mv 7,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+141277ms order=766 z=100 cursor=main protect=false line=1359 source=track:lyrics :: mv 8,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+142588ms order=767 z=100 cursor=main protect=false line=1360 source=track:lyrics :: mv 9,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+142916ms order=768 z=100 cursor=main protect=false line=1361 source=track:lyrics :: clear
+142917ms order=769 z=20 cursor=fx3 protect=false line=487 source=cue:fx3 :: color default | clear | mv 1,1 | text [NETSU-IJOU]: | show
+143017ms order=770 z=20 cursor=fx3 protect=false line=488 source=cue:fx3 :: text ATA
+143117ms order=771 z=20 cursor=fx3 protect=false line=489 source=cue:fx3 :: text CHI
+143217ms order=772 z=20 cursor=fx3 protect=false line=490 source=cue:fx3 :: text -REI
+143717ms order=773 z=20 cursor=fx3 protect=false line=491 source=cue:fx3 :: mv 2,1 | text Password: | space 1
+143817ms order=774 z=20 cursor=fx3 protect=false line=492 source=cue:fx3 :: text *
+143867ms order=775 z=20 cursor=fx3 protect=false line=493 source=cue:fx3 :: text *
+143917ms order=776 z=20 cursor=fx3 protect=false line=494 source=cue:fx3 :: text *
+143967ms order=777 z=20 cursor=fx3 protect=false line=495 source=cue:fx3 :: text *
+144017ms order=778 z=20 cursor=fx3 protect=false line=496 source=cue:fx3 :: text *
+144067ms order=779 z=20 cursor=fx3 protect=false line=497 source=cue:fx3 :: text *
+144117ms order=780 z=20 cursor=fx3 protect=false line=498 source=cue:fx3 :: text *
+144167ms order=781 z=20 cursor=fx3 protect=false line=499 source=cue:fx3 :: text *
+144217ms order=782 z=20 cursor=fx3 protect=false line=500 source=cue:fx3 :: text *
+144267ms order=783 z=20 cursor=fx3 protect=false line=501 source=cue:fx3 :: text *
+144317ms order=784 z=20 cursor=fx3 protect=false line=502 source=cue:fx3 :: text *
+144367ms order=785 z=20 cursor=fx3 protect=false line=503 source=cue:fx3 :: text *
+144467ms order=786 z=20 cursor=fx3 protect=false line=504 source=cue:fx3 :: mv 2,1 | space 40
+144517ms order=787 z=20 cursor=fx3 protect=false line=506 source=cue:fx3/loop :: mv 2,1 | text ⠋
+144567ms order=788 z=20 cursor=fx3 protect=false line=507 source=cue:fx3/loop :: mv 2,1 | text ⠙
+144617ms order=789 z=20 cursor=fx3 protect=false line=508 source=cue:fx3/loop :: mv 2,1 | text ⠹
+144667ms order=790 z=20 cursor=fx3 protect=false line=509 source=cue:fx3/loop :: mv 2,1 | text ⠸
+144717ms order=791 z=20 cursor=fx3 protect=false line=510 source=cue:fx3/loop :: mv 2,1 | text ⠼
+144767ms order=792 z=20 cursor=fx3 protect=false line=511 source=cue:fx3/loop :: mv 2,1 | text ⠴
+144817ms order=793 z=20 cursor=fx3 protect=false line=512 source=cue:fx3/loop :: mv 2,1 | text ⠦
+144867ms order=794 z=20 cursor=fx3 protect=false line=513 source=cue:fx3/loop :: mv 2,1 | text ⠧
+144917ms order=795 z=20 cursor=fx3 protect=false line=514 source=cue:fx3/loop :: mv 2,1 | text ⠇
+144967ms order=796 z=20 cursor=fx3 protect=false line=515 source=cue:fx3/loop :: mv 2,1 | text ⠏
+145017ms order=797 z=20 cursor=fx3 protect=false line=506 source=cue:fx3/loop :: mv 2,1 | text ⠋
+145067ms order=798 z=20 cursor=fx3 protect=false line=507 source=cue:fx3/loop :: mv 2,1 | text ⠙
+145117ms order=799 z=20 cursor=fx3 protect=false line=508 source=cue:fx3/loop :: mv 2,1 | text ⠹
+145167ms order=800 z=20 cursor=fx3 protect=false line=509 source=cue:fx3/loop :: mv 2,1 | text ⠸
+145217ms order=801 z=20 cursor=fx3 protect=false line=510 source=cue:fx3/loop :: mv 2,1 | text ⠼
+145267ms order=802 z=20 cursor=fx3 protect=false line=511 source=cue:fx3/loop :: mv 2,1 | text ⠴
+145317ms order=803 z=20 cursor=fx3 protect=false line=512 source=cue:fx3/loop :: mv 2,1 | text ⠦
+145367ms order=804 z=20 cursor=fx3 protect=false line=513 source=cue:fx3/loop :: mv 2,1 | text ⠧
+145417ms order=805 z=20 cursor=fx3 protect=false line=514 source=cue:fx3/loop :: mv 2,1 | text ⠇
+145467ms order=806 z=20 cursor=fx3 protect=false line=515 source=cue:fx3/loop :: mv 2,1 | text ⠏
+145517ms order=807 z=20 cursor=fx3 protect=false line=506 source=cue:fx3/loop :: mv 2,1 | text ⠋
+145567ms order=808 z=20 cursor=fx3 protect=false line=507 source=cue:fx3/loop :: mv 2,1 | text ⠙
+145617ms order=809 z=20 cursor=fx3 protect=false line=508 source=cue:fx3/loop :: mv 2,1 | text ⠹
+145667ms order=810 z=20 cursor=fx3 protect=false line=509 source=cue:fx3/loop :: mv 2,1 | text ⠸
+145717ms order=811 z=20 cursor=fx3 protect=false line=510 source=cue:fx3/loop :: mv 2,1 | text ⠼
+145767ms order=812 z=20 cursor=fx3 protect=false line=511 source=cue:fx3/loop :: mv 2,1 | text ⠴
+145817ms order=813 z=20 cursor=fx3 protect=false line=512 source=cue:fx3/loop :: mv 2,1 | text ⠦
+145867ms order=814 z=20 cursor=fx3 protect=false line=513 source=cue:fx3/loop :: mv 2,1 | text ⠧
+145917ms order=815 z=20 cursor=fx3 protect=false line=514 source=cue:fx3/loop :: mv 2,1 | text ⠇
+145967ms order=816 z=20 cursor=fx3 protect=false line=515 source=cue:fx3/loop :: mv 2,1 | text ⠏
+146017ms order=817 z=20 cursor=fx3 protect=false line=517 source=cue:fx3 :: mv 2,1 | text Wellcome to NETSU-IJOU, ATACHI-REI.
+146117ms order=818 z=20 cursor=fx3 protect=false line=518 source=cue:fx3 :: mv 3,1 | color aa6666 | text Warn: 225 Kernel Panic(s) Detected.
+146167ms order=819 z=20 cursor=fx3 protect=false line=519 source=cue:fx3 :: mv 4,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+146287ms order=820 z=20 cursor=fx3 protect=false line=520 source=cue:fx3 :: text sudo syshe
+146367ms order=821 z=20 cursor=fx3 protect=false line=521 source=cue:fx3 :: text alth s
+146447ms order=822 z=20 cursor=fx3 protect=false line=522 source=cue:fx3 :: text elf-ch
+146523ms order=947 z=100 cursor=main protect=false line=1363 source=track:lyrics :: mv 1,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+146527ms order=823 z=20 cursor=fx3 protect=false line=523 source=cue:fx3 :: text eck --
+146607ms order=824 z=20 cursor=fx3 protect=false line=524 source=cue:fx3 :: text now
+146707ms order=825 z=20 cursor=fx3 protect=false line=525 source=cue:fx3 :: space 1
+146757ms order=826 z=20 cursor=fx3 protect=false line=527 source=cue:fx3/loop :: mv 5,1 | text ⠋
+146807ms order=827 z=20 cursor=fx3 protect=false line=528 source=cue:fx3/loop :: mv 5,1 | text ⠙
+146857ms order=828 z=20 cursor=fx3 protect=false line=529 source=cue:fx3/loop :: mv 5,1 | text ⠹
+146907ms order=829 z=20 cursor=fx3 protect=false line=530 source=cue:fx3/loop :: mv 5,1 | text ⠸
+146957ms order=830 z=20 cursor=fx3 protect=false line=531 source=cue:fx3/loop :: mv 5,1 | text ⠼
+147007ms order=831 z=20 cursor=fx3 protect=false line=532 source=cue:fx3/loop :: mv 5,1 | text ⠴
+147057ms order=832 z=20 cursor=fx3 protect=false line=533 source=cue:fx3/loop :: mv 5,1 | text ⠦
+147107ms order=833 z=20 cursor=fx3 protect=false line=534 source=cue:fx3/loop :: mv 5,1 | text ⠧
+147157ms order=834 z=20 cursor=fx3 protect=false line=535 source=cue:fx3/loop :: mv 5,1 | text ⠇
+147207ms order=835 z=20 cursor=fx3 protect=false line=536 source=cue:fx3/loop :: mv 5,1 | text ⠏
+147257ms order=836 z=20 cursor=fx3 protect=false line=527 source=cue:fx3/loop :: mv 5,1 | text ⠋
+147307ms order=837 z=20 cursor=fx3 protect=false line=528 source=cue:fx3/loop :: mv 5,1 | text ⠙
+147357ms order=838 z=20 cursor=fx3 protect=false line=529 source=cue:fx3/loop :: mv 5,1 | text ⠹
+147407ms order=839 z=20 cursor=fx3 protect=false line=530 source=cue:fx3/loop :: mv 5,1 | text ⠸
+147457ms order=840 z=20 cursor=fx3 protect=false line=531 source=cue:fx3/loop :: mv 5,1 | text ⠼
+147507ms order=841 z=20 cursor=fx3 protect=false line=532 source=cue:fx3/loop :: mv 5,1 | text ⠴
+147557ms order=842 z=20 cursor=fx3 protect=false line=533 source=cue:fx3/loop :: mv 5,1 | text ⠦
+147607ms order=843 z=20 cursor=fx3 protect=false line=534 source=cue:fx3/loop :: mv 5,1 | text ⠧
+147657ms order=844 z=20 cursor=fx3 protect=false line=535 source=cue:fx3/loop :: mv 5,1 | text ⠇
+147707ms order=845 z=20 cursor=fx3 protect=false line=536 source=cue:fx3/loop :: mv 5,1 | text ⠏
+147757ms order=846 z=20 cursor=fx3 protect=false line=527 source=cue:fx3/loop :: mv 5,1 | text ⠋
+147807ms order=847 z=20 cursor=fx3 protect=false line=528 source=cue:fx3/loop :: mv 5,1 | text ⠙
+147834ms order=948 z=100 cursor=main protect=false line=1364 source=track:lyrics :: mv 2,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+147857ms order=848 z=20 cursor=fx3 protect=false line=529 source=cue:fx3/loop :: mv 5,1 | text ⠹
+147907ms order=849 z=20 cursor=fx3 protect=false line=530 source=cue:fx3/loop :: mv 5,1 | text ⠸
+147957ms order=850 z=20 cursor=fx3 protect=false line=531 source=cue:fx3/loop :: mv 5,1 | text ⠼
+148007ms order=851 z=20 cursor=fx3 protect=false line=532 source=cue:fx3/loop :: mv 5,1 | text ⠴
+148057ms order=852 z=20 cursor=fx3 protect=false line=533 source=cue:fx3/loop :: mv 5,1 | text ⠦
+148107ms order=853 z=20 cursor=fx3 protect=false line=534 source=cue:fx3/loop :: mv 5,1 | text ⠧
+148157ms order=854 z=20 cursor=fx3 protect=false line=535 source=cue:fx3/loop :: mv 5,1 | text ⠇
+148207ms order=855 z=20 cursor=fx3 protect=false line=536 source=cue:fx3/loop :: mv 5,1 | text ⠏
+148227ms order=856 z=20 cursor=fx3 protect=false line=538 source=cue:fx3 :: mv 5,1 | color ff0000 | text FATAL: ABNORMAL HEAT
+148247ms order=857 z=20 cursor=fx3 protect=false line=539 source=cue:fx3 :: mv 6,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+149047ms order=858 z=20 cursor=fx3 protect=false line=540 source=cue:fx3 :: text sudo | space 1
+149145ms order=949 z=100 cursor=main protect=false line=1365 source=track:lyrics :: mv 3,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+149147ms order=859 z=20 cursor=fx3 protect=false line=541 source=cue:fx3 :: text therm
+149247ms order=860 z=20 cursor=fx3 protect=false line=542 source=cue:fx3 :: text d rea
+149347ms order=861 z=20 cursor=fx3 protect=false line=543 source=cue:fx3 :: text d /de
+149447ms order=862 z=20 cursor=fx3 protect=false line=544 source=cue:fx3 :: text v/net
+149547ms order=863 z=20 cursor=fx3 protect=false line=545 source=cue:fx3 :: text su/th
+149647ms order=864 z=20 cursor=fx3 protect=false line=546 source=cue:fx3 :: text erm0
+149847ms order=865 z=20 cursor=fx3 protect=false line=547 source=cue:fx3 :: mv 7,1 | space 1
+150247ms order=866 z=20 cursor=fx3 protect=false line=548 source=cue:fx3 :: mv 7,1 | text core.temp =  | color aa0000 | text 91.830C | color default
+150247ms order=867 z=20 cursor=fx3 protect=false line=549 source=cue:fx3 :: mv 8,1 | color ff0000 | text WARN | color default | text : heat source is not physical
+150297ms order=868 z=20 cursor=fx3 protect=false line=550 source=cue:fx3 :: mv 9,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+150456ms order=950 z=100 cursor=main protect=false line=1366 source=track:lyrics :: mv 4,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+150897ms order=869 z=20 cursor=fx3 protect=false line=551 source=cue:fx3 :: text sudo c
+150997ms order=870 z=20 cursor=fx3 protect=false line=552 source=cue:fx3 :: text oolctl
+151097ms order=871 z=20 cursor=fx3 protect=false line=553 source=cue:fx3 :: text  purge
+151197ms order=872 z=20 cursor=fx3 protect=false line=554 source=cue:fx3 :: text  --force
+151297ms order=873 z=20 cursor=fx3 protect=false line=555 source=cue:fx3 :: mv 10,1 | space 1
+151497ms order=874 z=20 cursor=fx3 protect=false line=556 source=cue:fx3 :: mv 10,1 | text cooler[0] = online
+151767ms order=951 z=100 cursor=main protect=false line=1367 source=track:lyrics :: mv 5,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+151897ms order=875 z=20 cursor=fx3 protect=false line=557 source=cue:fx3 :: mv 11,1 | text thermal.drop = -0.000C
+151977ms order=876 z=20 cursor=fx3 protect=false line=559 source=cue:fx3/loop :: mv 12,1 | text ⠋
+152057ms order=877 z=20 cursor=fx3 protect=false line=560 source=cue:fx3/loop :: mv 12,1 | text ⠙
+152137ms order=878 z=20 cursor=fx3 protect=false line=561 source=cue:fx3/loop :: mv 12,1 | text ⠹
+152217ms order=879 z=20 cursor=fx3 protect=false line=562 source=cue:fx3/loop :: mv 12,1 | text ⠸
+152297ms order=880 z=20 cursor=fx3 protect=false line=563 source=cue:fx3/loop :: mv 12,1 | text ⠼
+152377ms order=881 z=20 cursor=fx3 protect=false line=564 source=cue:fx3/loop :: mv 12,1 | text ⠴
+152457ms order=882 z=20 cursor=fx3 protect=false line=565 source=cue:fx3/loop :: mv 12,1 | text ⠦
+152537ms order=883 z=20 cursor=fx3 protect=false line=566 source=cue:fx3/loop :: mv 12,1 | text ⠧
+152617ms order=884 z=20 cursor=fx3 protect=false line=567 source=cue:fx3/loop :: mv 12,1 | text ⠇
+152697ms order=885 z=20 cursor=fx3 protect=false line=568 source=cue:fx3/loop :: mv 12,1 | text ⠏
+152777ms order=886 z=20 cursor=fx3 protect=false line=559 source=cue:fx3/loop :: mv 12,1 | text ⠋
+152857ms order=887 z=20 cursor=fx3 protect=false line=560 source=cue:fx3/loop :: mv 12,1 | text ⠙
+152937ms order=888 z=20 cursor=fx3 protect=false line=561 source=cue:fx3/loop :: mv 12,1 | text ⠹
+153017ms order=889 z=20 cursor=fx3 protect=false line=562 source=cue:fx3/loop :: mv 12,1 | text ⠸
+153078ms order=952 z=100 cursor=main protect=false line=1368 source=track:lyrics :: mv 6,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+153097ms order=890 z=20 cursor=fx3 protect=false line=563 source=cue:fx3/loop :: mv 12,1 | text ⠼
+153177ms order=891 z=20 cursor=fx3 protect=false line=564 source=cue:fx3/loop :: mv 12,1 | text ⠴
+153257ms order=892 z=20 cursor=fx3 protect=false line=565 source=cue:fx3/loop :: mv 12,1 | text ⠦
+153337ms order=893 z=20 cursor=fx3 protect=false line=566 source=cue:fx3/loop :: mv 12,1 | text ⠧
+153417ms order=894 z=20 cursor=fx3 protect=false line=567 source=cue:fx3/loop :: mv 12,1 | text ⠇
+153497ms order=895 z=20 cursor=fx3 protect=false line=568 source=cue:fx3/loop :: mv 12,1 | text ⠏
+153577ms order=896 z=20 cursor=fx3 protect=false line=559 source=cue:fx3/loop :: mv 12,1 | text ⠋
+153657ms order=897 z=20 cursor=fx3 protect=false line=560 source=cue:fx3/loop :: mv 12,1 | text ⠙
+153737ms order=898 z=20 cursor=fx3 protect=false line=561 source=cue:fx3/loop :: mv 12,1 | text ⠹
+153817ms order=899 z=20 cursor=fx3 protect=false line=562 source=cue:fx3/loop :: mv 12,1 | text ⠸
+153897ms order=900 z=20 cursor=fx3 protect=false line=563 source=cue:fx3/loop :: mv 12,1 | text ⠼
+153977ms order=901 z=20 cursor=fx3 protect=false line=564 source=cue:fx3/loop :: mv 12,1 | text ⠴
+154057ms order=902 z=20 cursor=fx3 protect=false line=565 source=cue:fx3/loop :: mv 12,1 | text ⠦
+154137ms order=903 z=20 cursor=fx3 protect=false line=566 source=cue:fx3/loop :: mv 12,1 | text ⠧
+154217ms order=904 z=20 cursor=fx3 protect=false line=567 source=cue:fx3/loop :: mv 12,1 | text ⠇
+154297ms order=905 z=20 cursor=fx3 protect=false line=568 source=cue:fx3/loop :: mv 12,1 | text ⠏
+154297ms order=906 z=20 cursor=fx3 protect=false line=570 source=cue:fx3 :: mv 12,1 | text ERROR: unable to affect non-physical heat
+154389ms order=953 z=100 cursor=main protect=false line=1369 source=track:lyrics :: mv 7,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+154397ms order=907 z=20 cursor=fx3 protect=false line=571 source=cue:fx3 :: mv 13,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+155197ms order=908 z=20 cursor=fx3 protect=false line=572 source=cue:fx3 :: text sudo
+155297ms order=909 z=20 cursor=fx3 protect=false line=573 source=cue:fx3 :: text  psh
+155397ms order=910 z=20 cursor=fx3 protect=false line=574 source=cue:fx3 :: text eat
+155597ms order=911 z=20 cursor=fx3 protect=false line=575 source=cue:fx3 :: mv 14,1 | text PID      NAME              HEAT      STATE
+155700ms order=954 z=100 cursor=main protect=false line=1370 source=track:lyrics :: mv 8,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+155797ms order=912 z=20 cursor=fx3 protect=false line=576 source=cue:fx3 :: mv 15,1 | text 000183   kazoe-loop        91.830C   repeating
+155997ms order=913 z=20 cursor=fx3 protect=false line=577 source=cue:fx3 :: mv 16,1 | text 000000   dead-variable     0.800C    unresolved
+156197ms order=914 z=20 cursor=fx3 protect=false line=578 source=cue:fx3 :: mv 17,1 | text ------   someone-eye       ----      watching
+156197ms order=915 z=20 cursor=fx3 protect=false line=579 source=cue:fx3 :: mv 18,1 | color ff0000 | text FATAL: process table contains undefined data | color default
+156297ms order=916 z=20 cursor=fx3 protect=false line=580 source=cue:fx3 :: mv 19,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+156697ms order=917 z=20 cursor=fx3 protect=false line=581 source=cue:fx3 :: text s
+156747ms order=918 z=20 cursor=fx3 protect=false line=582 source=cue:fx3 :: text u
+156797ms order=919 z=20 cursor=fx3 protect=false line=583 source=cue:fx3 :: text d
+156847ms order=920 z=20 cursor=fx3 protect=false line=584 source=cue:fx3 :: text o
+156897ms order=921 z=20 cursor=fx3 protect=false line=585 source=cue:fx3 :: text  k
+156947ms order=922 z=20 cursor=fx3 protect=false line=586 source=cue:fx3 :: text i
+156997ms order=923 z=20 cursor=fx3 protect=false line=587 source=cue:fx3 :: text l
+157011ms order=955 z=100 cursor=main protect=false line=1371 source=track:lyrics :: mv 9,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+157047ms order=924 z=20 cursor=fx3 protect=false line=588 source=cue:fx3 :: text l
+157097ms order=925 z=20 cursor=fx3 protect=false line=589 source=cue:fx3 :: text  -
+157147ms order=926 z=20 cursor=fx3 protect=false line=590 source=cue:fx3 :: text 9
+157197ms order=927 z=20 cursor=fx3 protect=false line=591 source=cue:fx3 :: text  1
+157247ms order=928 z=20 cursor=fx3 protect=false line=592 source=cue:fx3 :: text 8
+157297ms order=929 z=20 cursor=fx3 protect=false line=593 source=cue:fx3 :: text 3
+157347ms order=930 z=20 cursor=fx3 protect=false line=594 source=cue:fx3 :: mv 20,1 | space 1
+157847ms order=931 z=20 cursor=fx3 protect=false line=595 source=cue:fx3 :: mv 20,1 | text kill: kill 183 failed: No such a process.
+157947ms order=932 z=20 cursor=fx3 protect=false line=596 source=cue:fx3 :: mv 21,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+158322ms order=956 z=100 cursor=main protect=false line=1372 source=track:lyrics :: mv 10,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+158747ms order=933 z=20 cursor=fx3 protect=false line=597 source=cue:fx3 :: text sudo v
+158847ms order=934 z=20 cursor=fx3 protect=false line=598 source=cue:fx3 :: text arfix
+158947ms order=935 z=20 cursor=fx3 protect=false line=599 source=cue:fx3 :: text  --sc
+159047ms order=936 z=20 cursor=fx3 protect=false line=600 source=cue:fx3 :: text an /p
+159147ms order=937 z=20 cursor=fx3 protect=false line=601 source=cue:fx3 :: text roc/d
+159247ms order=938 z=20 cursor=fx3 protect=false line=602 source=cue:fx3 :: text ead -
+159347ms order=939 z=20 cursor=fx3 protect=false line=603 source=cue:fx3 :: text -repair
+159447ms order=940 z=20 cursor=fx3 protect=false line=604 source=cue:fx3 :: mv 22,1 | text scan[0000] = null
+159633ms order=957 z=100 cursor=main protect=false line=1373 source=track:lyrics :: mv 11,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+159747ms order=941 z=20 cursor=fx3 protect=false line=605 source=cue:fx3 :: mv 23,1 | text scan[0183] = repeating
+160047ms order=942 z=20 cursor=fx3 protect=false line=606 source=cue:fx3 :: mv 24,1 | text repair.mode = overwrite
+160347ms order=943 z=20 cursor=fx3 protect=false line=607 source=cue:fx3 :: mv 25,1 | background ff0000 | text ERROR: repaired variable returned corrupted data | background default
+160944ms order=958 z=100 cursor=main protect=false line=1374 source=track:lyrics :: mv 12,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+161347ms order=944 z=20 cursor=fx3 protect=false line=608 source=cue:fx3 :: text ^C | background ffffff | color 000000 | text % | color default | background default
+162255ms order=959 z=100 cursor=main protect=false line=1375 source=track:lyrics :: mv 13,1 | background dd5522 | text SYSTEM KERNEL PANIC | background default
+162347ms order=945 z=20 cursor=fx3 protect=false line=609 source=cue:fx3 :: mv 26,1 | color default | text ATACHI-REI@NETSU-IJOU # | space 1
+162447ms order=946 z=20 cursor=fx3 protect=false line=610 source=cue:fx3 :: text reboot
+163566ms order=960 z=100 cursor=main protect=false line=1376 source=track:lyrics :: mv 14,1 | background ff0000 | text SYSTEM KERNEL PANIC | background default
+164222ms order=961 z=90 cursor=panic protect=false line=459 source=cue:panic :: hide | mv 1,1 | background aa0000 | space 72
+164232ms order=962 z=90 cursor=panic protect=false line=460 source=cue:panic :: mv 2,4 | space 1 | mv 2,19 | space 1 | mv 2,34 | space 1 | mv 2,49 | space 1 | mv 2,64 | space 1
+164242ms order=963 z=90 cursor=panic protect=false line=461 source=cue:panic :: mv 3,5 | space 1 | mv 3,20 | space 1 | mv 3,35 | space 1 | mv 3,50 | space 1 | mv 3,65 | space 1
+164252ms order=964 z=90 cursor=panic protect=false line=462 source=cue:panic :: mv 4,4 | space 1 | mv 4,19 | space 1 | mv 4,34 | space 1 | mv 4,49 | space 1 | mv 4,64 | space 1
+164262ms order=965 z=90 cursor=panic protect=false line=463 source=cue:panic :: mv 5,1 | space 72
+164272ms order=966 z=90 cursor=panic protect=false line=464 source=cue:panic :: mv 6,11 | space 1 | mv 6,26 | space 1 | mv 6,41 | space 1 | mv 6,56 | space 1 | mv 6,71 | space 1
+164282ms order=967 z=90 cursor=panic protect=false line=465 source=cue:panic :: mv 7,10 | space 1 | mv 7,25 | space 1 | mv 7,40 | space 1 | mv 7,55 | space 1 | mv 7,70 | space 1
+164292ms order=968 z=90 cursor=panic protect=false line=466 source=cue:panic :: mv 8,11 | space 1 | mv 8,26 | space 1 | mv 8,41 | space 1 | mv 8,56 | space 1 | mv 8,71 | space 1
+164302ms order=969 z=90 cursor=panic protect=false line=467 source=cue:panic :: mv 9,1 | space 72
+164312ms order=970 z=90 cursor=panic protect=false line=468 source=cue:panic :: mv 10,4 | space 1 | mv 10,19 | space 1 | mv 10,34 | space 1 | mv 10,49 | space 1 | mv 10,64 | space 1
+164322ms order=971 z=90 cursor=panic protect=false line=469 source=cue:panic :: mv 11,3 | space 1 | mv 11,18 | space 1 | mv 11,33 | space 1 | mv 11,48 | space 1 | mv 11,63 | space 1
+164332ms order=972 z=90 cursor=panic protect=false line=470 source=cue:panic :: mv 12,4 | space 1 | mv 12,19 | space 1 | mv 12,34 | space 1 | mv 12,49 | space 1 | mv 12,64 | space 1
+164342ms order=973 z=90 cursor=panic protect=false line=471 source=cue:panic :: mv 13,1 | space 72
+164352ms order=974 z=90 cursor=panic protect=false line=472 source=cue:panic :: mv 14,11 | space 1 | mv 14,26 | space 1 | mv 14,41 | space 1 | mv 14,56 | space 1 | mv 14,71 | space 1
+164362ms order=975 z=90 cursor=panic protect=false line=473 source=cue:panic :: mv 15,12 | space 1 | mv 15,28 | space 1 | mv 15,42 | space 1 | mv 15,58 | space 1 | mv 15,72 | space 1
+164372ms order=976 z=90 cursor=panic protect=false line=474 source=cue:panic :: mv 16,11 | space 1 | mv 16,26 | space 1 | mv 16,41 | space 1 | mv 16,56 | space 1 | mv 16,71 | space 1
+164382ms order=977 z=90 cursor=panic protect=false line=475 source=cue:panic :: mv 17,1 | space 72
+164392ms order=978 z=90 cursor=panic protect=false line=476 source=cue:panic :: mv 18,5 | space 1 | mv 18,20 | space 1 | mv 18,35 | space 1 | mv 18,50 | space 1 | mv 18,65 | space 1
+164402ms order=979 z=90 cursor=panic protect=false line=477 source=cue:panic :: mv 19,4 | space 1 | mv 19,19 | space 1 | mv 19,34 | space 1 | mv 19,49 | space 1 | mv 19,64 | space 1
+164412ms order=980 z=90 cursor=panic protect=false line=478 source=cue:panic :: mv 20,4 | space 1 | mv 20,19 | space 1 | mv 20,34 | space 1 | mv 20,49 | space 1 | mv 20,64 | space 1
+164422ms order=981 z=90 cursor=panic protect=false line=479 source=cue:panic :: mv 21,1 | space 72
+164432ms order=982 z=90 cursor=panic protect=false line=480 source=cue:panic :: mv 22,11 | space 1 | mv 22,26 | space 1 | mv 22,41 | space 1 | mv 22,56 | space 1 | mv 22,71 | space 1
+164442ms order=983 z=90 cursor=panic protect=false line=481 source=cue:panic :: mv 23,11 | space 1 | mv 23,26 | space 1 | mv 23,41 | space 1 | mv 23,56 | space 1 | mv 23,71 | space 1
+164452ms order=984 z=90 cursor=panic protect=false line=482 source=cue:panic :: mv 24,11 | space 1 | mv 24,26 | space 1 | mv 24,41 | space 1 | mv 24,56 | space 1 | mv 24,71 | space 1
+164462ms order=985 z=90 cursor=panic protect=false line=483 source=cue:panic :: mv 25,1 | space 72 | show
+164878ms order=986 z=100 cursor=main protect=false line=1378 source=track:lyrics :: clear | hide
+165534ms order=987 z=100 cursor=main protect=false line=1379 source=track:lyrics :: mv 1,1 | text 死ん
+165862ms order=988 z=100 cursor=main protect=false line=1380 source=track:lyrics :: text だ
+166190ms order=989 z=100 cursor=main protect=false line=1381 source=track:lyrics :: text 変
+166518ms order=990 z=100 cursor=main protect=false line=1382 source=track:lyrics :: text 数
+166846ms order=991 z=100 cursor=main protect=false line=1383 source=track:lyrics :: text で
+167174ms order=992 z=100 cursor=main protect=false line=1384 source=track:lyrics :: text 繰
+167338ms order=993 z=100 cursor=main protect=false line=1385 source=track:lyrics :: text り
+167502ms order=994 z=100 cursor=main protect=false line=1386 source=track:lyrics :: text か
+167666ms order=995 z=100 cursor=main protect=false line=1387 source=track:lyrics :: mv 1,17 | text 帰
+167830ms order=996 z=100 cursor=main protect=false line=1388 source=track:lyrics :: text す
+168158ms order=997 z=100 cursor=main protect=false line=1390 source=track:lyrics :: mv 2,1 | text Password 1> | space 1 | show
+170945ms order=998 z=100 cursor=main protect=false line=1391 source=track:lyrics :: text か
+171109ms order=999 z=100 cursor=main protect=false line=1392 source=track:lyrics :: mv 2,13 | text 数
+171273ms order=1000 z=100 cursor=main protect=false line=1393 source=track:lyrics :: text え
+171437ms order=1001 z=100 cursor=main protect=false line=1394 source=track:lyrics :: text ご
+171601ms order=1002 z=100 cursor=main protect=false line=1395 source=track:lyrics :: mv 2,17 | text 事
+171765ms order=1003 z=100 cursor=main protect=false line=1396 source=track:lyrics :: text が
+172093ms order=1004 z=100 cursor=main protect=false line=1397 source=track:lyrics :: text は
+172421ms order=1005 z=100 cursor=main protect=false line=1398 source=track:lyrics :: mv 2,21 | text 孕ん
+172749ms order=1006 z=100 cursor=main protect=false line=1399 source=track:lyrics :: text だ
+172913ms order=1007 z=100 cursor=main protect=false line=1400 source=track:lyrics :: text ね
+173077ms order=1008 z=100 cursor=main protect=false line=1401 source=track:lyrics :: mv 2,27 | text 熱
+173241ms order=1009 z=100 cursor=main protect=false line=1403 source=track:lyrics :: mv 2,13 | text * | space 1 | hide
+173405ms order=1010 z=100 cursor=main protect=false line=1404 source=track:lyrics :: text * | space 1
+173569ms order=1011 z=100 cursor=main protect=false line=1405 source=track:lyrics :: text * | space 1
+173733ms order=1012 z=100 cursor=main protect=false line=1406 source=track:lyrics :: text * | space 1
+173897ms order=1013 z=100 cursor=main protect=false line=1407 source=track:lyrics :: text * | space 1
+174061ms order=1014 z=100 cursor=main protect=false line=1408 source=track:lyrics :: text * | space 1
+174225ms order=1015 z=100 cursor=main protect=false line=1409 source=track:lyrics :: text * | space 1
+174389ms order=1016 z=100 cursor=main protect=false line=1410 source=track:lyrics :: text * | space 1
+174553ms order=1017 z=100 cursor=main protect=false line=1411 source=track:lyrics :: mv 2,1 | background aa0000 | space 9
+174881ms order=1018 z=100 cursor=main protect=false line=1412 source=track:lyrics :: space 10
+175209ms order=1019 z=100 cursor=main protect=false line=1413 source=track:lyrics :: space 10
+175537ms order=1020 z=100 cursor=main protect=false line=1414 source=track:lyrics :: mv 2,5 | background aa0000 | text Password 1 Checked!
+175865ms order=1021 z=100 cursor=main protect=false line=1415 source=track:lyrics :: color default | background default
+176029ms order=1022 z=100 cursor=main protect=false line=1417 source=track:lyrics :: mv 3,1 | text ど
+176357ms order=1023 z=100 cursor=main protect=false line=1418 source=track:lyrics :: text こ
+176685ms order=1024 z=100 cursor=main protect=false line=1419 source=track:lyrics :: text に
+177013ms order=1025 z=100 cursor=main protect=false line=1420 source=track:lyrics :: text お
+177177ms order=1026 z=100 cursor=main protect=false line=1421 source=track:lyrics :: mv 3,7 | text 送
+177341ms order=1027 z=100 cursor=main protect=false line=1422 source=track:lyrics :: text る
+177669ms order=1028 z=100 cursor=main protect=false line=1423 source=track:lyrics :: text あ
+177833ms order=1029 z=100 cursor=main protect=false line=1424 source=track:lyrics :: text て
+177997ms order=1030 z=100 cursor=main protect=false line=1425 source=track:lyrics :: text も
+178161ms order=1031 z=100 cursor=main protect=false line=1426 source=track:lyrics :: text な
+178325ms order=1032 z=100 cursor=main protect=false line=1427 source=track:lyrics :: text く
+178653ms order=1033 z=100 cursor=main protect=false line=1429 source=track:lyrics :: mv 4,1 | text Password 2> | space 1 | show
+181112ms order=1034 z=100 cursor=main protect=false line=1430 source=track:lyrics :: text あ
+181276ms order=1035 z=100 cursor=main protect=false line=1431 source=track:lyrics :: text わ
+181440ms order=1036 z=100 cursor=main protect=false line=1432 source=track:lyrics :: text れ
+181604ms order=1037 z=100 cursor=main protect=false line=1433 source=track:lyrics :: text な
+181768ms order=1038 z=100 cursor=main protect=false line=1434 source=track:lyrics :: text ひ
+181850ms order=1039 z=100 cursor=main protect=false line=1435 source=track:lyrics :: mv 4,21 | text 独
+181932ms order=1040 z=100 cursor=main protect=false line=1436 source=track:lyrics :: text り
+182096ms order=1041 z=100 cursor=main protect=false line=1437 source=track:lyrics :: text ご
+182260ms order=1042 z=100 cursor=main protect=false line=1438 source=track:lyrics :: mv 4,25 | text 言を
+182588ms order=1043 z=100 cursor=main protect=false line=1439 source=track:lyrics :: text し
+182752ms order=1044 z=100 cursor=main protect=false line=1440 source=track:lyrics :: mv 4,29 | text 記
+182916ms order=1045 z=100 cursor=main protect=false line=1441 source=track:lyrics :: text し
+183080ms order=1046 z=100 cursor=main protect=false line=1442 source=track:lyrics :: text て
+183244ms order=1047 z=100 cursor=main protect=false line=1443 source=track:lyrics :: text い
+183408ms order=1048 z=100 cursor=main protect=false line=1444 source=track:lyrics :: text る
+183517ms order=1049 z=100 cursor=main protect=false line=1446 source=track:lyrics :: mv 4,13 | text * | space 1 | hide
+183626ms order=1050 z=100 cursor=main protect=false line=1447 source=track:lyrics :: text * | space 1
+183735ms order=1051 z=100 cursor=main protect=false line=1448 source=track:lyrics :: text * | space 1
+183844ms order=1052 z=100 cursor=main protect=false line=1449 source=track:lyrics :: text * | space 1
+183953ms order=1053 z=100 cursor=main protect=false line=1450 source=track:lyrics :: text * | space 1
+184062ms order=1054 z=100 cursor=main protect=false line=1451 source=track:lyrics :: text * | space 1
+184171ms order=1055 z=100 cursor=main protect=false line=1452 source=track:lyrics :: text * | space 1
+184280ms order=1056 z=100 cursor=main protect=false line=1453 source=track:lyrics :: text * | space 1
+184389ms order=1057 z=100 cursor=main protect=false line=1454 source=track:lyrics :: text * | space 1
+184498ms order=1058 z=100 cursor=main protect=false line=1455 source=track:lyrics :: text * | space 1
+184607ms order=1059 z=100 cursor=main protect=false line=1456 source=track:lyrics :: text * | space 1
+184716ms order=1060 z=100 cursor=main protect=false line=1457 source=track:lyrics :: text * | space 1
+184798ms order=1061 z=100 cursor=main protect=false line=1458 source=track:lyrics :: text * | space 1
+185044ms order=1062 z=100 cursor=main protect=false line=1459 source=track:lyrics :: mv 4,1 | background aa0000 | space 13
+185208ms order=1063 z=100 cursor=main protect=false line=1460 source=track:lyrics :: space 13
+185372ms order=1064 z=100 cursor=main protect=false line=1461 source=track:lyrics :: space 13
+185700ms order=1065 z=100 cursor=main protect=false line=1462 source=track:lyrics :: mv 4,9 | text Password 2 Checked!
+186356ms order=1066 z=100 cursor=main protect=false line=1463 source=track:lyrics :: clear | show
+186357ms order=1160 z=20 cursor=fx4 protect=false line=183 source=cue:fx4 :: mv 1,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+186357ms order=1067 z=90 cursor=lyric2 protect=true line=356 source=cue:lyric2 :: mv 1,81 | color fa5400 | text 泣い
+186457ms order=1161 z=20 cursor=fx4 protect=false line=184 source=cue:fx4 :: text cel
+186557ms order=1162 z=20 cursor=fx4 protect=false line=185 source=cue:fx4 :: text lct
+186657ms order=1163 z=20 cursor=fx4 protect=false line=186 source=cue:fx4 :: text l d
+186685ms order=1068 z=90 cursor=lyric2 protect=true line=357 source=cue:lyric2 :: text た
+186757ms order=1164 z=20 cursor=fx4 protect=false line=187 source=cue:fx4 :: text rai
+186857ms order=1165 z=20 cursor=fx4 protect=false line=188 source=cue:fx4 :: text n -
+186957ms order=1166 z=20 cursor=fx4 protect=false line=189 source=cue:fx4 :: text -cr
+187013ms order=1069 z=90 cursor=lyric2 protect=true line=358 source=cue:lyric2 :: text 細
+187057ms order=1167 z=20 cursor=fx4 protect=false line=190 source=cue:fx4 :: text yin
+187157ms order=1168 z=20 cursor=fx4 protect=false line=191 source=cue:fx4 :: text g -
+187257ms order=1169 z=20 cursor=fx4 protect=false line=192 source=cue:fx4 :: text -to
+187341ms order=1070 z=90 cursor=lyric2 protect=true line=359 source=cue:lyric2 :: text 胞
+187357ms order=1170 z=20 cursor=fx4 protect=false line=193 source=cue:fx4 :: text  /d
+187457ms order=1171 z=20 cursor=fx4 protect=false line=194 source=cue:fx4 :: text ev/
+187557ms order=1172 z=20 cursor=fx4 protect=false line=195 source=cue:fx4 :: text umi0
+187657ms order=1173 z=20 cursor=fx4 protect=false line=196 source=cue:fx4 :: mv 2,1 | space 1
+187669ms order=1071 z=90 cursor=lyric2 protect=true line=360 source=cue:lyric2 :: text が
+187833ms order=1072 z=90 cursor=lyric2 protect=true line=361 source=cue:lyric2 :: text う
+187997ms order=1073 z=90 cursor=lyric2 protect=true line=362 source=cue:lyric2 :: mv 1,93 | text 海
+188057ms order=1174 z=20 cursor=fx4 protect=false line=197 source=cue:fx4 :: mv 3,1 | text cell[0000] = tear
+188157ms order=1175 z=20 cursor=fx4 protect=false line=198 source=cue:fx4 :: mv 4,1 | text cell[0183] = tear
+188161ms order=1074 z=90 cursor=lyric2 protect=true line=363 source=cue:lyric2 :: text に
+188257ms order=1176 z=20 cursor=fx4 protect=false line=199 source=cue:fx4 :: mv 5,1 | text cell[----] = dissolved
+188325ms order=1075 z=90 cursor=lyric2 protect=true line=364 source=cue:lyric2 :: text も
+188357ms order=1177 z=20 cursor=fx4 protect=false line=200 source=cue:fx4 :: mv 6,1 | text umi0.level   = rising
+188457ms order=1178 z=20 cursor=fx4 protect=false line=201 source=cue:fx4 :: mv 7,1 | text screen.grid  = losing shape
+188489ms order=1076 z=90 cursor=lyric2 protect=true line=365 source=cue:lyric2 :: mv 1,97 | text 戻
+188557ms order=1179 z=20 cursor=fx4 protect=false line=202 source=cue:fx4 :: mv 8,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+188653ms order=1077 z=90 cursor=lyric2 protect=true line=366 source=cue:lyric2 :: text る
+188657ms order=1180 z=20 cursor=fx4 protect=false line=203 source=cue:fx4 :: text log
+188757ms order=1181 z=20 cursor=fx4 protect=false line=204 source=cue:fx4 :: text cat
+188857ms order=1182 z=20 cursor=fx4 protect=false line=205 source=cue:fx4 :: text  --
+188957ms order=1183 z=20 cursor=fx4 protect=false line=206 source=cue:fx4 :: text pur
+189057ms order=1184 z=20 cursor=fx4 protect=false line=207 source=cue:fx4 :: text ge
+189145ms order=1078 z=90 cursor=lyric2 protect=true line=368 source=cue:lyric2 :: mv 3,81 | text よ
+189157ms order=1185 z=20 cursor=fx4 protect=false line=208 source=cue:fx4 :: text  /va
+189257ms order=1186 z=20 cursor=fx4 protect=false line=209 source=cue:fx4 :: text r/lo
+189309ms order=1079 z=90 cursor=lyric2 protect=true line=369 source=cue:lyric2 :: text ま
+189357ms order=1187 z=20 cursor=fx4 protect=false line=210 source=cue:fx4 :: text g/yo
+189457ms order=1188 z=20 cursor=fx4 protect=false line=211 source=cue:fx4 :: text maig
+189473ms order=1080 z=90 cursor=lyric2 protect=true line=370 source=cue:lyric2 :: text い
+189557ms order=1189 z=20 cursor=fx4 protect=false line=212 source=cue:fx4 :: text oto
+189637ms order=1081 z=90 cursor=lyric2 protect=true line=371 source=cue:lyric2 :: text ご
+189657ms order=1190 z=20 cursor=fx4 protect=false line=213 source=cue:fx4 :: text  --f
+189757ms order=1191 z=20 cursor=fx4 protect=false line=214 source=cue:fx4 :: text orce
+189801ms order=1082 z=90 cursor=lyric2 protect=true line=372 source=cue:lyric2 :: mv 3,81 | text 世迷言
+189857ms order=1192 z=20 cursor=fx4 protect=false line=215 source=cue:fx4 :: mv 9,1 | text logcat v22.10.12, IYOWA
+189907ms order=1193 z=20 cursor=fx4 protect=false line=216 source=cue:fx4 :: mv 10,1 | text V0
+189907ms order=1391 z=20 cursor=base1 protect=false line=160 source=cue:base1 :: mv 11,1 | text Vk
+189907ms order=1411 z=20 cursor=base2 protect=false line=131 source=cue:base2 :: mv 12,1 | text SE
+189907ms order=1437 z=20 cursor=base3 protect=false line=102 source=cue:base3 :: mv 13,1 | text SE
+189907ms order=1463 z=20 cursor=base4 protect=false line=75 source=cue:base4 :: mv 14,1 | text QU
+189957ms order=1194 z=20 cursor=fx4 protect=false line=217 source=cue:fx4 :: text hF
+189957ms order=1392 z=20 cursor=base1 protect=false line=161 source=cue:base1 :: text FO
+189957ms order=1412 z=20 cursor=base2 protect=false line=132 source=cue:base2 :: text 9X
+189957ms order=1438 z=20 cursor=base3 protect=false line=103 source=cue:base3 :: text NJ
+189957ms order=1464 z=20 cursor=base4 protect=false line=76 source=cue:base4 :: text xM
+189965ms order=1083 z=90 cursor=lyric2 protect=true line=373 source=cue:lyric2 :: text が
+190007ms order=1195 z=20 cursor=fx4 protect=false line=218 source=cue:fx4 :: text Uk
+190007ms order=1393 z=20 cursor=base1 protect=false line=162 source=cue:base1 :: text SV
+190007ms order=1413 z=20 cursor=base2 protect=false line=133 source=cue:base2 :: text Q0
+190007ms order=1439 z=20 cursor=base3 protect=false line=104 source=cue:base3 :: text M1
+190007ms order=1465 z=20 cursor=base4 protect=false line=77 source=cue:base4 :: text TU
+190057ms order=1196 z=20 cursor=fx4 protect=false line=219 source=cue:fx4 :: text VB
+190057ms order=1394 z=20 cursor=base1 protect=false line=163 source=cue:base1 :: text RB
+190057ms order=1414 z=20 cursor=base2 protect=false line=134 source=cue:base2 :: text FO
+190057ms order=1440 z=20 cursor=base3 protect=false line=105 source=cue:base3 :: text Aw
+190057ms order=1466 z=20 cursor=base4 protect=false line=78 source=cue:base4 :: text 9E
+190107ms order=1197 z=20 cursor=fx4 protect=false line=220 source=cue:fx4 :: text Uk
+190107ms order=1395 z=20 cursor=base1 protect=false line=164 source=cue:base1 :: text U1
+190107ms order=1415 z=20 cursor=base2 protect=false line=135 source=cue:base2 :: text WU
+190107ms order=1441 z=20 cursor=base3 protect=false line=106 source=cue:base3 :: text Qk
+190107ms order=1467 z=20 cursor=base4 protect=false line=79 source=cue:base4 :: text RU
+190157ms order=1198 z=20 cursor=fx4 protect=false line=221 source=cue:fx4 :: text VZ
+190157ms order=1396 z=20 cursor=base1 protect=false line=165 source=cue:base1 :: text ZB
+190157ms order=1416 z=20 cursor=base2 protect=false line=136 source=cue:base2 :: text 9V
+190157ms order=1442 z=20 cursor=base3 protect=false line=107 source=cue:base3 :: text 9E
+190157ms order=1468 z=20 cursor=base4 protect=false line=80 source=cue:base4 :: text xT
+190207ms order=1199 z=20 cursor=fx4 protect=false line=222 source=cue:fx4 :: text T1
+190207ms order=1397 z=20 cursor=base1 protect=false line=166 source=cue:base1 :: text Tk
+190207ms order=1417 z=20 cursor=base2 protect=false line=137 source=cue:base2 :: text SE
+190207ms order=1443 z=20 cursor=base3 protect=false line=108 source=cue:base3 :: text WV
+190207ms order=1469 z=20 cursor=base4 protect=false line=81 source=cue:base4 :: text QV
+190257ms order=1200 z=20 cursor=fx4 protect=false line=223 source=cue:fx4 :: text VH
+190257ms order=1398 z=20 cursor=base1 protect=false line=167 source=cue:base1 :: text lU
+190257ms order=1418 z=20 cursor=base2 protect=false line=138 source=cue:base2 :: text VB
+190257ms order=1444 z=20 cursor=base3 protect=false line=109 source=cue:base3 :: text VO
+190257ms order=1470 z=20 cursor=base4 protect=false line=82 source=cue:base4 :: text JF
+190293ms order=1084 z=90 cursor=lyric2 protect=true line=374 source=cue:lyric2 :: text へ
+190307ms order=1201 z=20 cursor=fx4 protect=false line=224 source=cue:fx4 :: text T0
+190307ms order=1399 z=20 cursor=base1 protect=false line=168 source=cue:base1 :: text QV
+190307ms order=1419 z=20 cursor=base2 protect=false line=139 source=cue:base2 :: text Uk
+190307ms order=1445 z=20 cursor=base3 protect=false line=110 source=cue:base3 :: text RE
+190307ms order=1471 z=20 cursor=base4 protect=false line=83 source=cue:base4 :: text V1
+190357ms order=1202 z=20 cursor=fx4 protect=false line=225 source=cue:fx4 :: text lO
+190357ms order=1400 z=20 cursor=base1 protect=false line=169 source=cue:base1 :: text RV
+190357ms order=1420 z=20 cursor=base2 protect=false line=140 source=cue:base2 :: text 1Z
+190357ms order=1446 z=20 cursor=base3 protect=false line=111 source=cue:base3 :: text VS
+190357ms order=1472 z=20 cursor=base4 protect=false line=84 source=cue:base4 :: text JP
+190407ms order=1203 z=20 cursor=fx4 protect=false line=226 source=cue:fx4 :: text R1
+190407ms order=1401 z=20 cursor=base1 protect=false line=170 source=cue:base1 :: text TU
+190407ms order=1421 z=20 cursor=base2 protect=false line=141 source=cue:base2 :: text V0
+190407ms order=1447 z=20 cursor=base3 protect=false line=112 source=cue:base3 :: text RE
+190407ms order=1473 z=20 cursor=base4 protect=false line=85 source=cue:base4 :: text Tk
+190457ms order=1204 z=20 cursor=fx4 protect=false line=227 source=cue:fx4 :: text dI
+190457ms order=1402 z=20 cursor=base1 protect=false line=171 source=cue:base1 :: text VU
+190457ms order=1422 z=20 cursor=base2 protect=false line=142 source=cue:base2 :: text 9S
+190457ms order=1448 z=20 cursor=base3 protect=false line=113 source=cue:base3 :: text VW
+190457ms order=1474 z=20 cursor=base4 protect=false line=86 source=cue:base4 :: text dT
+190507ms order=1205 z=20 cursor=fx4 protect=false line=228 source=cue:fx4 :: text QV
+190507ms order=1403 z=20 cursor=base1 protect=false line=172 source=cue:base1 :: text T0
+190507ms order=1423 z=20 cursor=base2 protect=false line=143 source=cue:base2 :: text RF
+190507ms order=1449 z=20 cursor=base3 protect=false line=114 source=cue:base3 :: text RU
+190507ms order=1475 z=20 cursor=base4 protect=false line=87 source=cue:base4 :: text T0
+190557ms order=1206 z=20 cursor=fx4 protect=false line=229 source=cue:fx4 :: text RE
+190557ms order=1404 z=20 cursor=base1 protect=false line=173 source=cue:base1 :: text 1O
+190557ms order=1424 z=20 cursor=base2 protect=false line=144 source=cue:base2 :: text NQ
+190557ms order=1450 z=20 cursor=base3 protect=false line=115 source=cue:base3 :: text xP
+190557ms order=1476 z=20 cursor=base4 protect=false line=88 source=cue:base4 :: text 1F
+190607ms order=1207 z=20 cursor=fx4 protect=false line=230 source=cue:fx4 :: text T1
+190607ms order=1405 z=20 cursor=base1 protect=false line=174 source=cue:base1 :: text SU
+190607ms order=1425 z=20 cursor=base2 protect=false line=145 source=cue:base2 :: text Uk
+190607ms order=1451 z=20 cursor=base3 protect=false line=116 source=cue:base3 :: text UE
+190607ms order=1477 z=20 cursor=base4 protect=false line=89 source=cue:base4 :: text QV
+190621ms order=1085 z=90 cursor=lyric2 protect=true line=375 source=cue:lyric2 :: text ば
+190657ms order=1208 z=20 cursor=fx4 protect=false line=231 source=cue:fx4 :: text lP
+190657ms order=1406 z=20 cursor=base1 protect=false line=175 source=cue:base1 :: text FW
+190657ms order=1426 z=20 cursor=base2 protect=false line=146 source=cue:base2 :: text VB
+190657ms order=1452 z=20 cursor=base3 protect=false line=117 source=cue:base3 :: text 1F
+190657ms order=1478 z=20 cursor=base4 protect=false line=90 source=cue:base4 :: text JF
+190707ms order=1209 z=20 cursor=fx4 protect=false line=232 source=cue:fx4 :: text VV
+190707ms order=1407 z=20 cursor=base1 protect=false line=176 source=cue:base1 :: text QU
+190707ms order=1427 z=20 cursor=base2 protect=false line=147 source=cue:base2 :: text Q0
+190707ms order=1453 z=20 cursor=base3 protect=false line=118 source=cue:base3 :: text Tl
+190707ms order=1479 z=20 cursor=base4 protect=false line=91 source=cue:base4 :: text U1
+190757ms order=1210 z=20 cursor=fx4 protect=false line=233 source=cue:fx4 :: text dB
+190757ms order=1408 z=20 cursor=base1 protect=false line=177 source=cue:base1 :: text 5J
+190757ms order=1428 z=20 cursor=base2 protect=false line=148 source=cue:base2 :: text hF
+190757ms order=1454 z=20 cursor=base3 protect=false line=119 source=cue:base3 :: text RW
+190757ms order=1480 z=20 cursor=base4 protect=false line=92 source=cue:base4 :: text RJ
+190807ms order=1211 z=20 cursor=fx4 protect=false line=234 source=cue:fx4 :: text Tl
+190807ms order=1409 z=20 cursor=base1 protect=false line=178 source=cue:base1 :: text VE
+190807ms order=1429 z=20 cursor=base2 protect=false line=149 source=cue:base2 :: text Uk
+190807ms order=1455 z=20 cursor=base3 protect=false line=120 source=cue:base3 :: text T0
+190807ms order=1481 z=20 cursor=base4 protect=false line=93 source=cue:base4 :: text TE
+190857ms order=1212 z=20 cursor=fx4 protect=false line=235 source=cue:fx4 :: text RX
+190857ms order=1410 z=20 cursor=base1 protect=false line=179 source=cue:base1 :: text FT
+190857ms order=1430 z=20 cursor=base2 protect=false line=150 source=cue:base2 :: text lN
+190857ms order=1456 z=20 cursor=base3 protect=false line=121 source=cue:base3 :: text lD
+190857ms order=1482 z=20 cursor=base4 protect=false line=94 source=cue:base4 :: text xD
+190907ms order=1213 z=20 cursor=fx4 protect=false line=236 source=cue:fx4 :: text SE
+190907ms order=1431 z=20 cursor=base2 protect=false line=151 source=cue:base2 :: text Q1
+190907ms order=1457 z=20 cursor=base3 protect=false line=122 source=cue:base3 :: text RU
+190907ms order=1483 z=20 cursor=base4 protect=false line=95 source=cue:base4 :: text Ul
+190949ms order=1086 z=90 cursor=lyric2 protect=true line=376 source=cue:lyric2 :: text り
+190957ms order=1214 z=20 cursor=fx4 protect=false line=237 source=cue:fx4 :: text lD
+190957ms order=1432 z=20 cursor=base2 protect=false line=152 source=cue:base2 :: text JV
+190957ms order=1458 z=20 cursor=base3 protect=false line=123 source=cue:base3 :: text 9O
+190957ms order=1484 z=20 cursor=base4 protect=false line=96 source=cue:base4 :: text lJ
+191007ms order=1215 z=20 cursor=fx4 protect=false line=238 source=cue:fx4 :: text SE
+191007ms order=1433 z=20 cursor=base2 protect=false line=153 source=cue:base2 :: text Q0
+191007ms order=1459 z=20 cursor=base3 protect=false line=124 source=cue:base3 :: text TE
+191007ms order=1485 z=20 cursor=base4 protect=false line=97 source=cue:base4 :: text Tk
+191057ms order=1216 z=20 cursor=fx4 protect=false line=239 source=cue:fx4 :: text lT
+191057ms order=1434 z=20 cursor=base2 protect=false line=154 source=cue:base2 :: text lG
+191057ms order=1460 z=20 cursor=base3 protect=false line=125 source=cue:base3 :: text lO
+191057ms order=1486 z=20 cursor=base4 protect=false line=98 source=cue:base4 :: text c=
+191107ms order=1217 z=20 cursor=fx4 protect=false line=240 source=cue:fx4 :: text VE
+191107ms order=1435 z=20 cursor=base2 protect=false line=155 source=cue:base2 :: text SU
+191107ms order=1461 z=20 cursor=base3 protect=false line=126 source=cue:base3 :: text RQ
+191113ms order=1087 z=90 cursor=lyric2 protect=true line=377 source=cue:lyric2 :: text つ
+191157ms order=1218 z=20 cursor=fx4 protect=false line=241 source=cue:fx4 :: text hF
+191157ms order=1436 z=20 cursor=base2 protect=false line=156 source=cue:base2 :: text VE
+191157ms order=1462 z=20 cursor=base3 protect=false line=127 source=cue:base3 :: text ==
+191207ms order=1219 z=20 cursor=fx4 protect=false line=242 source=cue:fx4 :: text RU
+191257ms order=1220 z=20 cursor=fx4 protect=false line=243 source=cue:fx4 :: text 5E
+191277ms order=1088 z=90 cursor=lyric2 protect=true line=378 source=cue:lyric2 :: text く | mv 5,81 | text つ
+191357ms order=1221 z=20 cursor=fx4 protect=false line=244 source=cue:fx4 :: mv 15,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+191605ms order=1089 z=90 cursor=lyric2 protect=true line=380 source=cue:lyric2 :: text ば
+191857ms order=1222 z=20 cursor=fx4 protect=false line=245 source=cue:fx4 :: text trac
+191933ms order=1090 z=90 cursor=lyric2 protect=true line=381 source=cue:lyric2 :: mv 5,81 | text 燕 | space 1 | mv 5,83
+191957ms order=1223 z=20 cursor=fx4 protect=false line=246 source=cue:fx4 :: text e /d
+192057ms order=1224 z=20 cursor=fx4 protect=false line=247 source=cue:fx4 :: text ev/t
+192157ms order=1225 z=20 cursor=fx4 protect=false line=248 source=cue:fx4 :: text suba
+192257ms order=1226 z=20 cursor=fx4 protect=false line=249 source=cue:fx4 :: text me0
+192261ms order=1091 z=90 cursor=lyric2 protect=true line=382 source=cue:lyric2 :: text が
+192357ms order=1227 z=20 cursor=fx4 protect=false line=250 source=cue:fx4 :: text  --d
+192425ms order=1092 z=90 cursor=lyric2 protect=true line=383 source=cue:lyric2 :: text え
+192457ms order=1228 z=20 cursor=fx4 protect=false line=251 source=cue:fx4 :: text raw -0
+192557ms order=1229 z=20 cursor=fx4 protect=false line=252 source=cue:fx4 :: mv 16,1 | text trace.point[00] = x:12 y:03
+192589ms order=1093 z=90 cursor=lyric2 protect=true line=384 source=cue:lyric2 :: mv 5,85 | text 絵い
+192917ms order=1094 z=90 cursor=lyric2 protect=true line=385 source=cue:lyric2 :: text た
+193057ms order=1230 z=20 cursor=fx4 protect=false line=253 source=cue:fx4 :: mv 17,1 | text trace.point[01] = x:18 y:05
+193081ms order=1095 z=90 cursor=lyric2 protect=true line=386 source=cue:lyric2 :: text き
+193245ms order=1096 z=90 cursor=lyric2 protect=true line=387 source=cue:lyric2 :: text せ
+193409ms order=1097 z=90 cursor=lyric2 protect=true line=388 source=cue:lyric2 :: mv 5,91 | text 軌跡
+193557ms order=1231 z=20 cursor=fx4 protect=false line=254 source=cue:fx4 :: mv 18,1 | text trace.point[02] = x:27 y:04
+193573ms order=1098 z=90 cursor=lyric2 protect=true line=389 source=cue:lyric2 :: text を
+194057ms order=1232 z=20 cursor=fx4 protect=false line=255 source=cue:fx4 :: mv 19,1 | text trace.shape = swallow-curve
+194229ms order=1099 z=90 cursor=lyric2 protect=true line=391 source=cue:lyric2 :: mv 7,81 | text な
+194357ms order=1233 z=20 cursor=fx4 protect=false line=256 source=cue:fx4 :: mv 20,1 | background ff0000 | text FATAL: DRAWING FAILED! | background default
+194393ms order=1100 z=90 cursor=lyric2 protect=true line=392 source=cue:lyric2 :: text ぞ
+194407ms order=1234 z=20 cursor=fx4 protect=false line=257 source=cue:fx4 :: mv 21,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+194557ms order=1101 z=90 cursor=lyric2 protect=true line=393 source=cue:lyric2 :: text る
+194721ms order=1102 z=90 cursor=lyric2 protect=true line=394 source=cue:lyric2 :: text よ
+194885ms order=1103 z=90 cursor=lyric2 protect=true line=395 source=cue:lyric2 :: text う
+194907ms order=1235 z=20 cursor=fx4 protect=false line=258 source=cue:fx4 :: mv 21,1 | color aa8877 | text WARNING: GREY-CLOUD COMING | color default
+194917ms order=1236 z=20 cursor=fx4 protect=false line=259 source=cue:fx4 :: mv 22,1 | color aa6666 | text Warn:  | background ffffff | text ???? | background default | text  Kernel Panic(s) Detected. | color default
+194927ms order=1237 z=20 cursor=fx4 protect=false line=260 source=cue:fx4 :: mv 23,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+195049ms order=1104 z=90 cursor=lyric2 protect=true line=396 source=cue:lyric2 :: text に
+195213ms order=1105 z=90 cursor=lyric2 protect=true line=397 source=cue:lyric2 :: text 灰
+195377ms order=1106 z=90 cursor=lyric2 protect=true line=398 source=cue:lyric2 :: text 色
+195427ms order=1238 z=20 cursor=fx4 protect=false line=261 source=cue:fx4 :: text dam
+195527ms order=1239 z=20 cursor=fx4 protect=false line=262 source=cue:fx4 :: text n i
+195541ms order=1107 z=90 cursor=lyric2 protect=true line=399 source=cue:lyric2 :: text の
+195627ms order=1240 z=20 cursor=fx4 protect=false line=263 source=cue:fx4 :: text t !
+195705ms order=1108 z=90 cursor=lyric2 protect=true line=400 source=cue:lyric2 :: text く
+195727ms order=1241 z=20 cursor=fx4 protect=false line=264 source=cue:fx4 :: text !!!
+195827ms order=1242 z=20 cursor=fx4 protect=false line=265 source=cue:fx4 :: mv 24,1 | text NETSU-IJOU : command not found :  | color ff0000 | text damn | color default | text  it !!!!
+195827ms order=1243 z=20 cursor=fx4 protect=false line=266 source=cue:fx4 :: mv 25,34 | color ff0000 | text ^~~~ | color default
+195827ms order=1244 z=20 cursor=fx4 protect=false line=267 source=cue:fx4 :: mv 26,1 | text NETSU-IJOU : file/path not found : damn | space 1 | color ff0000 | text it | color default | text  !!!!
+195827ms order=1245 z=20 cursor=fx4 protect=false line=268 source=cue:fx4 :: mv 27,40 | color ff0000 | text ^~ | color default
+195869ms order=1109 z=90 cursor=lyric2 protect=true line=401 source=cue:lyric2 :: mv 7,99 | text 雲
+195927ms order=1246 z=20 cursor=fx4 protect=false line=269 source=cue:fx4 :: mv 28,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+196033ms order=1110 z=90 cursor=lyric2 protect=true line=402 source=cue:lyric2 :: text が
+196197ms order=1111 z=90 cursor=lyric2 protect=true line=403 source=cue:lyric2 :: text 来
+196361ms order=1112 z=90 cursor=lyric2 protect=true line=404 source=cue:lyric2 :: text て
+196525ms order=1487 z=40 cursor=abnormal1 protect=true line=67 source=cue:abnormal1 :: mv 36,1 | background cc2222 | space 120
+196525ms order=1113 z=90 cursor=lyric2 protect=true line=405 source=cue:lyric2 :: text い
+196527ms order=1247 z=20 cursor=fx4 protect=false line=270 source=cue:fx4 :: text clear
+196627ms order=1248 z=20 cursor=fx4 protect=false line=271 source=cue:fx4 :: clear | mv 1,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+196689ms order=1114 z=90 cursor=lyric2 protect=true line=406 source=cue:lyric2 :: text る
+196727ms order=1249 z=20 cursor=fx4 protect=false line=273 source=cue:fx4 :: text honor
+196827ms order=1250 z=20 cursor=fx4 protect=false line=274 source=cue:fx4 :: text ctl w
+196853ms order=1115 z=90 cursor=lyric2 protect=true line=408 source=cue:lyric2 :: color ff9440 | mv 1,81 | text 編ん
+196927ms order=1251 z=20 cursor=fx4 protect=false line=275 source=cue:fx4 :: text eave
+197027ms order=1252 z=20 cursor=fx4 protect=false line=276 source=cue:fx4 :: text  ./br
+197127ms order=1253 z=20 cursor=fx4 protect=false line=277 source=cue:fx4 :: text oken-
+197181ms order=1488 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+197181ms order=1116 z=90 cursor=lyric2 protect=true line=409 source=cue:lyric2 :: text だ
+197227ms order=1254 z=20 cursor=fx4 protect=false line=278 source=cue:fx4 :: text logs
+197327ms order=1255 z=20 cursor=fx4 protect=false line=279 source=cue:fx4 :: text  -out
+197427ms order=1256 z=20 cursor=fx4 protect=false line=280 source=cue:fx4 :: text put=/
+197509ms order=1117 z=90 cursor=lyric2 protect=true line=410 source=cue:lyric2 :: text めい
+197527ms order=1257 z=20 cursor=fx4 protect=false line=281 source=cue:fx4 :: text tmp/m
+197627ms order=1258 z=20 cursor=fx4 protect=false line=282 source=cue:fx4 :: text eiyo
+197727ms order=1259 z=20 cursor=fx4 protect=false line=284 source=cue:fx4 :: mv 2,1 | color 33aa33 | text 󰄬 | color default | text  thread[panic] accepted.
+197837ms order=1489 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+197837ms order=1118 z=90 cursor=lyric2 protect=true line=411 source=cue:lyric2 :: mv 1,87 | text 名誉
+198165ms order=1119 z=90 cursor=lyric2 protect=true line=412 source=cue:lyric2 :: text で
+198227ms order=1260 z=20 cursor=fx4 protect=false line=285 source=cue:fx4 :: mv 3,1 | color 33aa33 | text 󰄬 | color default | text  thread[hope] accepted.
+198493ms order=1490 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+198493ms order=1120 z=90 cursor=lyric2 protect=true line=413 source=cue:lyric2 :: text あ
+198657ms order=1121 z=90 cursor=lyric2 protect=true line=414 source=cue:lyric2 :: mv 1,93 | text 明日
+198727ms order=1261 z=20 cursor=fx4 protect=false line=286 source=cue:fx4 :: mv 4,1 | color 33aa33 | text 󰄬 | color default | text  thread[lie] accepted.
+198821ms order=1122 z=90 cursor=lyric2 protect=true line=415 source=cue:lyric2 :: text を
+198985ms order=1123 z=90 cursor=lyric2 protect=true line=416 source=cue:lyric2 :: text 乞
+199149ms order=1491 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+199149ms order=1124 z=90 cursor=lyric2 protect=true line=417 source=cue:lyric2 :: text う
+199227ms order=1262 z=20 cursor=fx4 protect=false line=287 source=cue:fx4 :: mv 5,1 | color 33aa33 | text 󰄬 Successfully signed meiyo.cert.
+199327ms order=1263 z=20 cursor=fx4 protect=false line=288 source=cue:fx4 :: mv 6,1 | color default | text WARN: credential contains fabricated honor.
+199377ms order=1264 z=20 cursor=fx4 protect=false line=290 source=cue:fx4 :: mv 7,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+199477ms order=1265 z=20 cursor=fx4 protect=false line=291 source=cue:fx4 :: text sudo a
+199577ms order=1266 z=20 cursor=fx4 protect=false line=292 source=cue:fx4 :: text shita
+199641ms order=1125 z=90 cursor=lyric2 protect=true line=419 source=cue:lyric2 :: mv 3,81 | text き
+199677ms order=1267 z=20 cursor=fx4 protect=false line=293 source=cue:fx4 :: text  reque
+199777ms order=1268 z=20 cursor=fx4 protect=false line=294 source=cue:fx4 :: text st --
+199805ms order=1492 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+199805ms order=1126 z=90 cursor=lyric2 protect=true line=420 source=cue:lyric2 :: mv 3,81 | text 希望
+199877ms order=1269 z=20 cursor=fx4 protect=false line=295 source=cue:fx4 :: text crede
+199977ms order=1270 z=20 cursor=fx4 protect=false line=296 source=cue:fx4 :: text ntial
+200077ms order=1271 z=20 cursor=fx4 protect=false line=297 source=cue:fx4 :: text =/tmp
+200133ms order=1127 z=90 cursor=lyric2 protect=true line=421 source=cue:lyric2 :: text で
+200177ms order=1272 z=20 cursor=fx4 protect=false line=298 source=cue:fx4 :: text /meiy
+200277ms order=1273 z=20 cursor=fx4 protect=false line=299 source=cue:fx4 :: text o.cer
+200297ms order=1128 z=90 cursor=lyric2 protect=true line=422 source=cue:lyric2 :: text 手
+200377ms order=1274 z=20 cursor=fx4 protect=false line=300 source=cue:fx4 :: text t | mv 8,25 | text  --r
+200461ms order=1493 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+200461ms order=1129 z=90 cursor=lyric2 protect=true line=423 source=cue:lyric2 :: text が
+200477ms order=1275 z=20 cursor=fx4 protect=false line=301 source=cue:fx4 :: text eason
+200577ms order=1276 z=20 cursor=fx4 protect=false line=302 source=cue:fx4 :: text =hope
+200677ms order=1277 z=20 cursor=fx4 protect=false line=303 source=cue:fx4 :: mv 9,1 | text Processing.
+200789ms order=1130 z=90 cursor=lyric2 protect=true line=424 source=cue:lyric2 :: text よ
+200877ms order=1278 z=20 cursor=fx4 protect=false line=304 source=cue:fx4 :: text .
+201077ms order=1279 z=20 cursor=fx4 protect=false line=305 source=cue:fx4 :: text .
+201117ms order=1494 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+201117ms order=1131 z=90 cursor=lyric2 protect=true line=425 source=cue:lyric2 :: mv 3,91 | text 汚
+201277ms order=1280 z=20 cursor=fx4 protect=false line=306 source=cue:fx4 :: text .
+201445ms order=1132 z=90 cursor=lyric2 protect=true line=426 source=cue:lyric2 :: text れ
+201477ms order=1281 z=20 cursor=fx4 protect=false line=307 source=cue:fx4 :: text .
+201609ms order=1133 z=90 cursor=lyric2 protect=true line=427 source=cue:lyric2 :: text て
+201677ms order=1282 z=20 cursor=fx4 protect=false line=308 source=cue:fx4 :: text .
+201773ms order=1495 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+201773ms order=1134 z=90 cursor=lyric2 protect=true line=428 source=cue:lyric2 :: text る
+201877ms order=1283 z=20 cursor=fx4 protect=false line=309 source=cue:fx4 :: text .
+202077ms order=1284 z=20 cursor=fx4 protect=false line=310 source=cue:fx4 :: mv 10,1 | color cc0000 | text ERROR: Permission denied.
+202101ms order=1135 z=90 cursor=lyric2 protect=true line=430 source=cue:lyric2 :: mv 5,81 | text あ
+202277ms order=1285 z=20 cursor=fx4 protect=false line=311 source=cue:fx4 :: mv 11,1 | color default | text checksum challenge failed: dirty frag detected.
+202377ms order=1286 z=20 cursor=fx4 protect=false line=312 source=cue:fx4 :: mv 12,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+202429ms order=1496 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+202429ms order=1136 z=90 cursor=lyric2 protect=true line=431 source=cue:lyric2 :: text な
+202477ms order=1287 z=20 cursor=fx4 protect=false line=313 source=cue:fx4 :: text ask /
+202527ms order=1288 z=20 cursor=fx4 protect=false line=314 source=cue:fx4 :: text dev/h
+202577ms order=1289 z=20 cursor=fx4 protect=false line=315 source=cue:fx4 :: text oshi/
+202593ms order=1137 z=90 cursor=lyric2 protect=true line=432 source=cue:lyric2 :: text た
+202627ms order=1290 z=20 cursor=fx4 protect=false line=316 source=cue:fx4 :: text clear
+202677ms order=1291 z=20 cursor=fx4 protect=false line=317 source=cue:fx4 :: text 0 --c
+202727ms order=1292 z=20 cursor=fx4 protect=false line=318 source=cue:fx4 :: text olor=
+202757ms order=1138 z=90 cursor=lyric2 protect=true line=433 source=cue:lyric2 :: text の
+202777ms order=1293 z=20 cursor=fx4 protect=false line=319 source=cue:fx4 :: text "$(ca
+202827ms order=1294 z=20 cursor=fx4 protect=false line=320 source=cue:fx4 :: text t /tm
+202877ms order=1295 z=20 cursor=fx4 protect=false line=321 source=cue:fx4 :: text p/sta
+202927ms order=1296 z=20 cursor=fx4 protect=false line=322 source=cue:fx4 :: text r.c | mv 13,25 | text ol
+202977ms order=1297 z=20 cursor=fx4 protect=false line=323 source=cue:fx4 :: text or)" | space 1
+203027ms order=1298 z=20 cursor=fx4 protect=false line=324 source=cue:fx4 :: text --que
+203077ms order=1299 z=20 cursor=fx4 protect=false line=325 source=cue:fx4 :: text stion
+203085ms order=1497 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+203085ms order=1139 z=90 cursor=lyric2 protect=true line=434 source=cue:lyric2 :: text 澄ん
+203127ms order=1300 z=20 cursor=fx4 protect=false line=326 source=cue:fx4 :: text ="where_
+203177ms order=1301 z=20 cursor=fx4 protect=false line=327 source=cue:fx4 :: text _is_th
+203227ms order=1302 z=20 cursor=fx4 protect=false line=328 source=cue:fx4 :: text e_end?
+203277ms order=1303 z=20 cursor=fx4 protect=false line=329 source=cue:fx4 :: text " --t
+203327ms order=1304 z=20 cursor=fx4 protect=false line=330 source=cue:fx4 :: text imeou
+203377ms order=1305 z=20 cursor=fx4 protect=false line=331 source=cue:fx4 :: text t | mv 14,25 | text =1000
+203413ms order=1140 z=90 cursor=lyric2 protect=true line=435 source=cue:lyric2 :: text だ
+203427ms order=1306 z=20 cursor=fx4 protect=false line=332 source=cue:fx4 :: mv 15,1
+203477ms order=1307 z=20 cursor=fx4 protect=false line=334 source=cue:fx4/loop :: mv 15,1 | text ⠋
+203527ms order=1308 z=20 cursor=fx4 protect=false line=335 source=cue:fx4/loop :: mv 15,1 | text ⠙
+203577ms order=1309 z=20 cursor=fx4 protect=false line=336 source=cue:fx4/loop :: mv 15,1 | text ⠹
+203577ms order=1141 z=90 cursor=lyric2 protect=true line=436 source=cue:lyric2 :: text ひ
+203627ms order=1310 z=20 cursor=fx4 protect=false line=337 source=cue:fx4/loop :: mv 15,1 | text ⠸
+203677ms order=1311 z=20 cursor=fx4 protect=false line=338 source=cue:fx4/loop :: mv 15,1 | text ⠼
+203727ms order=1312 z=20 cursor=fx4 protect=false line=339 source=cue:fx4/loop :: mv 15,1 | text ⠴
+203741ms order=1498 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+203741ms order=1142 z=90 cursor=lyric2 protect=true line=437 source=cue:lyric2 :: text と
+203777ms order=1313 z=20 cursor=fx4 protect=false line=340 source=cue:fx4/loop :: mv 15,1 | text ⠦
+203827ms order=1314 z=20 cursor=fx4 protect=false line=341 source=cue:fx4/loop :: mv 15,1 | text ⠧
+203877ms order=1315 z=20 cursor=fx4 protect=false line=342 source=cue:fx4/loop :: mv 15,1 | text ⠇
+203905ms order=1143 z=90 cursor=lyric2 protect=true line=438 source=cue:lyric2 :: mv 5,95 | text 瞳 | space 1 | mv 5,97
+203927ms order=1316 z=20 cursor=fx4 protect=false line=343 source=cue:fx4/loop :: mv 15,1 | text ⠏
+203977ms order=1317 z=20 cursor=fx4 protect=false line=334 source=cue:fx4/loop :: mv 15,1 | text ⠋
+204027ms order=1318 z=20 cursor=fx4 protect=false line=335 source=cue:fx4/loop :: mv 15,1 | text ⠙
+204069ms order=1144 z=90 cursor=lyric2 protect=true line=439 source=cue:lyric2 :: text の
+204077ms order=1319 z=20 cursor=fx4 protect=false line=336 source=cue:fx4/loop :: mv 15,1 | text ⠹
+204127ms order=1320 z=20 cursor=fx4 protect=false line=337 source=cue:fx4/loop :: mv 15,1 | text ⠸
+204177ms order=1321 z=20 cursor=fx4 protect=false line=338 source=cue:fx4/loop :: mv 15,1 | text ⠼
+204227ms order=1322 z=20 cursor=fx4 protect=false line=339 source=cue:fx4/loop :: mv 15,1 | text ⠴
+204277ms order=1323 z=20 cursor=fx4 protect=false line=340 source=cue:fx4/loop :: mv 15,1 | text ⠦
+204327ms order=1324 z=20 cursor=fx4 protect=false line=341 source=cue:fx4/loop :: mv 15,1 | text ⠧
+204377ms order=1325 z=20 cursor=fx4 protect=false line=342 source=cue:fx4/loop :: mv 15,1 | text ⠇
+204397ms order=1499 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+204427ms order=1326 z=20 cursor=fx4 protect=false line=343 source=cue:fx4/loop :: mv 15,1 | text ⠏
+204477ms order=1327 z=20 cursor=fx4 protect=false line=334 source=cue:fx4/loop :: mv 15,1 | text ⠋
+204527ms order=1328 z=20 cursor=fx4 protect=false line=335 source=cue:fx4/loop :: mv 15,1 | text ⠙
+204577ms order=1329 z=20 cursor=fx4 protect=false line=336 source=cue:fx4/loop :: mv 15,1 | text ⠹
+204627ms order=1330 z=20 cursor=fx4 protect=false line=337 source=cue:fx4/loop :: mv 15,1 | text ⠸
+204677ms order=1331 z=20 cursor=fx4 protect=false line=338 source=cue:fx4/loop :: mv 15,1 | text ⠼
+204725ms order=1145 z=90 cursor=lyric2 protect=true line=441 source=cue:lyric2 :: mv 7,81 | text い
+204727ms order=1332 z=20 cursor=fx4 protect=false line=339 source=cue:fx4/loop :: mv 15,1 | text ⠴
+204777ms order=1333 z=20 cursor=fx4 protect=false line=340 source=cue:fx4/loop :: mv 15,1 | text ⠦
+204827ms order=1334 z=20 cursor=fx4 protect=false line=341 source=cue:fx4/loop :: mv 15,1 | text ⠧
+204877ms order=1335 z=20 cursor=fx4 protect=false line=342 source=cue:fx4/loop :: mv 15,1 | text ⠇
+204889ms order=1146 z=90 cursor=lyric2 protect=true line=442 source=cue:lyric2 :: mv 7,81 | text 色
+204927ms order=1336 z=20 cursor=fx4 protect=false line=343 source=cue:fx4/loop :: mv 15,1 | text ⠏
+204927ms order=1337 z=20 cursor=fx4 protect=false line=345 source=cue:fx4 :: mv 15,1 | text hoshi0.color =  | color 86d7ff | text #86D7FF | color default
+204927ms order=1338 z=20 cursor=fx4 protect=false line=346 source=cue:fx4 :: mv 16,1 | text query.payload =  | color ddebff | text "where_is_the_end?" | color default
+204927ms order=1339 z=20 cursor=fx4 protect=false line=347 source=cue:fx4 :: mv 17,1 | text query.status =  | color f6d365 | text "sent:0000183" | color default
+204927ms order=1340 z=20 cursor=fx4 protect=false line=348 source=cue:fx4 :: mv 18,1 | text answer.status =  | color 8a8f98 | text "listening..." | color default
+205053ms order=1500 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+205053ms order=1147 z=90 cursor=lyric2 protect=true line=443 source=cue:lyric2 :: text を
+205217ms order=1148 z=90 cursor=lyric2 protect=true line=444 source=cue:lyric2 :: text し
+205381ms order=1149 z=90 cursor=lyric2 protect=true line=445 source=cue:lyric2 :: text た
+205545ms order=1150 z=90 cursor=lyric2 protect=true line=446 source=cue:lyric2 :: text ほ
+205709ms order=1501 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+205709ms order=1151 z=90 cursor=lyric2 protect=true line=447 source=cue:lyric2 :: mv 7,89 | text 星
+205873ms order=1152 z=90 cursor=lyric2 protect=true line=448 source=cue:lyric2 :: text に
+205927ms order=1341 z=20 cursor=fx4 protect=false line=349 source=cue:fx4 :: mv 19,1 | text answer.frame =  | color c7b6ff | text "unexpected silence" | color default
+206037ms order=1153 z=90 cursor=lyric2 protect=true line=449 source=cue:lyric2 :: text 問
+206201ms order=1154 z=90 cursor=lyric2 protect=true line=450 source=cue:lyric2 :: text い
+206227ms order=1342 z=20 cursor=fx4 protect=false line=350 source=cue:fx4 :: mv 20,1 | text ^C | color 000000 | background ffffff | text % | color default | background default
+206327ms order=1343 z=20 cursor=fx4 protect=false line=351 source=cue:fx4 :: mv 21,1 | text ATACHI-REI@NETSU-IJOU # | space 1
+206365ms order=1502 z=40 cursor=abnormal1 protect=true line=69 source=cue:abnormal1/loop :: mv 36,53 | text HEAT ABNORMAL
+206365ms order=1155 z=90 cursor=lyric2 protect=true line=451 source=cue:lyric2 :: text か
+206427ms order=1344 z=20 cursor=fx4 protect=false line=352 source=cue:fx4 :: text reboot
+206529ms order=1156 z=90 cursor=lyric2 protect=true line=452 source=cue:lyric2 :: text け
+206693ms order=1157 z=90 cursor=lyric2 protect=true line=453 source=cue:lyric2 :: text て
+206857ms order=1158 z=90 cursor=lyric2 protect=true line=454 source=cue:lyric2 :: text い
+207021ms order=1503 z=40 cursor=abnormal1 protect=true line=70 source=cue:abnormal1/loop :: mv 36,53 | space 13
+207021ms order=1159 z=90 cursor=lyric2 protect=true line=455 source=cue:lyric2 :: space 6 | mv 7,105 | text る
+207021ms order=1345 z=100 cursor=main protect=false line=1468 source=track:lyrics :: clear | mv 36,1
+207022ms order=1346 z=20 cursor=fxfinal protect=false line=10 source=cue:fxfinal :: hide | mv 1,1 | color cc0000 | text ═══════════════════════════════════════════════ | color default
+207022ms order=1347 z=20 cursor=fxfinal protect=false line=11 source=cue:fxfinal :: mv 2,13 | text  | space 3 | text 熱 | space 3 | text 異 | space 3 | text 常 | space 3 | text 
+207022ms order=1348 z=20 cursor=fxfinal protect=false line=12 source=cue:fxfinal :: mv 3,1 | color cc0000 | text ═══════════════════════════════════════════════ | color default
+207022ms order=1349 z=20 cursor=fxfinal protect=false line=13 source=cue:fxfinal :: mv 4,1 | text 手を取り合い 愛し合えたら
+208333ms order=1350 z=20 cursor=fxfinal protect=false line=14 source=cue:fxfinal :: mv 5,1 | text ついに叶わなかった夢を殺す
+209972ms order=1351 z=20 cursor=fxfinal protect=false line=15 source=cue:fxfinal :: mv 6,1 | text 思考の成れ果て
+210956ms order=1352 z=20 cursor=fxfinal protect=false line=16 source=cue:fxfinal :: mv 7,1 | text その中枢には | color cc0000 | text 熱異常 | color default | text が起こっている
+212267ms order=1353 z=20 cursor=fxfinal protect=false line=17 source=cue:fxfinal :: mv 4,1 | color cc0000 | style strikeline on | text 手を取り合い 愛し合えたら | style strikeline off | color default
+212595ms order=1354 z=20 cursor=fxfinal protect=false line=18 source=cue:fxfinal :: mv 4,35 | text <-現実じゃない
+213251ms order=1355 z=20 cursor=fxfinal protect=false line=19 source=cue:fxfinal :: mv 5,1 | color cc0000 | style strikeline on | text ついに叶わなかった夢を殺す | style strikeline off | color default
+213579ms order=1356 z=20 cursor=fxfinal protect=false line=20 source=cue:fxfinal :: mv 5,35 | text <-現実じゃない
+214235ms order=1357 z=20 cursor=fxfinal protect=false line=21 source=cue:fxfinal :: mv 6,1 | color cc0000 | style strikeline on | text 思考の成れ果て | style strikeline off | color default
+214563ms order=1358 z=20 cursor=fxfinal protect=false line=22 source=cue:fxfinal :: mv 6,35 | text <-現実じゃない
+215219ms order=1359 z=20 cursor=fxfinal protect=false line=23 source=cue:fxfinal :: mv 7,1 | color cc0000 | style strikeline on | text その中枢には | background 000000 | space 6 | background default | text が起こっている | style strikeline off | color default
+215547ms order=1360 z=20 cursor=fxfinal protect=false line=24 source=cue:fxfinal :: mv 7,35 | text <-現実じゃない
+216203ms order=1361 z=20 cursor=fxfinal protect=false line=25 source=cue:fxfinal :: mv 8,1 | text こんなの
+216531ms order=1362 z=20 cursor=fxfinal protect=false line=26 source=cue:fxfinal :: color cc0000 | style strikeline on | mv 8,1 | text こんなの 耐えられないの | style strikeline off | color default
+217515ms order=1363 z=20 cursor=fxfinal protect=false line=27 source=cue:fxfinal :: mv 9,1 | color cc0000 | text ─────────────────────────────────────────────── | color default | mv 10,1
+217843ms order=1364 z=20 cursor=fxfinal protect=false line=28 source=cue:fxfinal :: mv 10,1 | text とうに潰れていた喉
+218827ms order=1365 z=20 cursor=fxfinal protect=false line=29 source=cue:fxfinal :: mv 11,1 | text 叫んだ音は既に列を成さないで
+220466ms order=1366 z=20 cursor=fxfinal protect=false line=30 source=cue:fxfinal :: mv 12,1 | text 安楽椅子の上
+221450ms order=1367 z=20 cursor=fxfinal protect=false line=31 source=cue:fxfinal :: mv 13,1 | text 腐りきった三日月が笑っている
+222761ms order=1368 z=20 cursor=fxfinal protect=false line=32 source=cue:fxfinal :: mv 14,1 | text もう | background 000000
+223089ms order=1369 z=20 cursor=fxfinal protect=false line=33 source=cue:fxfinal :: mv 1,1 | space 50
+223089ms order=1370 z=20 cursor=fxfinal protect=false line=34 source=cue:fxfinal :: mv 2,2 | space 1 | mv 2,12 | space 1 | mv 2,22 | space 1 | mv 2,32 | space 1 | mv 2,42 | space 1
+223581ms order=1371 z=20 cursor=fxfinal protect=false line=36 source=cue:fxfinal :: mv 3,5 | space 1 | mv 3,15 | space 1 | mv 3,25 | space 1 | mv 3,35 | space 1 | mv 3,45 | space 1
+223581ms order=1372 z=20 cursor=fxfinal protect=false line=37 source=cue:fxfinal :: mv 4,3 | space 1 | mv 4,13 | space 1 | mv 4,23 | space 1 | mv 4,33 | space 1 | mv 4,43 | space 1
+224073ms order=1373 z=20 cursor=fxfinal protect=false line=39 source=cue:fxfinal :: mv 5,1 | space 50
+224073ms order=1374 z=20 cursor=fxfinal protect=false line=40 source=cue:fxfinal :: mv 6,1 | space 1 | mv 6,11 | space 1 | mv 6,21 | space 1 | mv 6,31 | space 1 | mv 6,41 | space 1
+224565ms order=1375 z=20 cursor=fxfinal protect=false line=42 source=cue:fxfinal :: mv 7,4 | space 1 | mv 7,14 | space 1 | mv 7,24 | space 1 | mv 7,34 | space 1 | mv 7,44 | space 1
+224565ms order=1376 z=20 cursor=fxfinal protect=false line=43 source=cue:fxfinal :: mv 8,7 | space 1 | mv 8,17 | space 1 | mv 8,27 | space 1 | mv 8,37 | space 1 | mv 8,47 | space 1
+225057ms order=1377 z=20 cursor=fxfinal protect=false line=45 source=cue:fxfinal :: mv 9,1 | space 50
+225057ms order=1378 z=20 cursor=fxfinal protect=false line=46 source=cue:fxfinal :: mv 10,9 | space 1 | mv 10,19 | space 1 | mv 10,29 | space 1 | mv 10,39 | space 1 | mv 10,49 | space 1
+225549ms order=1379 z=20 cursor=fxfinal protect=false line=48 source=cue:fxfinal :: mv 11,3 | space 1 | mv 11,13 | space 1 | mv 11,23 | space 1 | mv 11,33 | space 1 | mv 11,43 | space 1
+225549ms order=1380 z=20 cursor=fxfinal protect=false line=49 source=cue:fxfinal :: mv 12,5 | space 1 | mv 12,15 | space 1 | mv 12,25 | space 1 | mv 12,35 | space 1 | mv 12,45 | space 1
+226041ms order=1381 z=20 cursor=fxfinal protect=false line=51 source=cue:fxfinal :: mv 13,1 | space 50
+226041ms order=1382 z=20 cursor=fxfinal protect=false line=52 source=cue:fxfinal :: mv 14,1 | space 1 | mv 14,11 | space 1 | mv 14,21 | space 1 | mv 14,31 | space 1 | mv 14,41 | space 1
+226533ms order=1383 z=20 cursor=fxfinal protect=false line=54 source=cue:fxfinal :: mv 15,7 | space 1 | mv 15,17 | space 1 | mv 15,27 | space 1 | mv 15,37 | space 1 | mv 15,47 | space 1
+226533ms order=1384 z=20 cursor=fxfinal protect=false line=55 source=cue:fxfinal :: mv 16,6 | space 1 | mv 16,16 | space 1 | mv 16,26 | space 1 | mv 16,36 | space 1 | mv 16,46 | space 1
+227025ms order=1385 z=20 cursor=fxfinal protect=false line=57 source=cue:fxfinal :: mv 17,1 | space 50 | mv 17,18 | text なにかが来ている
+228336ms order=1386 z=20 cursor=fxfinal protect=false line=59 source=cue:fxfinal :: clear
+229975ms order=1387 z=20 cursor=fxfinal protect=false line=60 source=cue:fxfinal :: background default | mv 1,1 | text Music By いよわ
+232598ms order=1388 z=20 cursor=fxfinal protect=false line=61 source=cue:fxfinal :: mv 2,1 | text Vocal By 足立レイ
+235221ms order=1389 z=20 cursor=fxfinal protect=false line=62 source=cue:fxfinal :: mv 3,1 | text Code  By Locked_Fog
+237844ms order=1390 z=20 cursor=fxfinal protect=false line=63 source=cue:fxfinal :: mv 4,1 | text Video By Locked_Fog | show

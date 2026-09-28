@@ -1,0 +1,19 @@
+0ms order=0 z=100 cursor=main protect=true line=13 source=track:lyrics :: mv 1,1
+0ms order=1 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text L
+70ms order=2 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text u
+140ms order=3 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text a
+210ms order=4 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text  
+280ms order=5 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text a
+350ms order=6 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text d
+420ms order=7 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text d
+490ms order=8 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text o
+560ms order=9 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text n
+630ms order=10 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text  
+700ms order=11 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text d
+770ms order=12 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text e
+840ms order=13 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text m
+910ms order=14 z=100 cursor=main protect=true line=14 source=track:lyrics/func:type :: text o
+1200ms order=15 z=20 cursor=fx protect=false line=8 source=cue:pulse :: mv 3,1
+1200ms order=16 z=80 cursor=fx protect=false line=9 source=cue:pulse/func:flash :: color ffcc00 | text *
+1360ms order=17 z=80 cursor=fx protect=false line=9 source=cue:pulse/func:flash :: color default | cleanline
+1600ms order=18 z=100 cursor=main protect=true line=16 source=track:lyrics :: mv 2,1 | text compiled before playback
