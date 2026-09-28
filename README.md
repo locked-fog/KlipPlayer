@@ -2,6 +2,11 @@
 
 KLIPlayer is a Kotlin/JVM rewrite of CLIPlayer. It reads `.klip` scripts, expands track/cue/emit/loop blocks into a compile-time timeline, and renders ANSI terminal performances with Z-axis protection.
 
+An in-progress Rust successor lives in [`rust/`](rust/). It preserves the
+current `.klip` format and is being checked against v1.1.1 compiler and
+terminal-output fixtures. See [`docs/RUST_REWRITE.md`](docs/RUST_REWRITE.md)
+for build commands, migration decisions, and remaining release acceptance.
+
 Lua addons can generate events during compilation via `[meta addon=...]` and `[func ...]`; playback still runs only the flattened event table.
 
 This project is intentionally small for the initial core:
