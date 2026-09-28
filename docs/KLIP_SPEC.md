@@ -1,15 +1,15 @@
 # KLIP 脚本语法规范
 
-版本：v1.1.1
-适用项目：KLIPlayer
+语法基线：v1.1.1（与旧版 KLIPlayer 兼容）
+适用项目：KlipPlayer
 文件后缀：`.klip`
 编码：UTF-8
 
 ## 1. 总览
 
-KLIP 是 KLIPlayer 使用的终端演出脚本格式。
+KLIP 是 KlipPlayer 使用的终端演出脚本格式。
 
-KLIPlayer 会读取 `.klip` 文件，将其中的歌词、文字、颜色、位置、节拍、特效、Z 轴保护等内容编译为一张全局时间轴事件表，然后按音频播放时间同步输出到终端。
+KlipPlayer 会读取 `.klip` 文件，将其中的歌词、文字、颜色、位置、节拍、特效、Z 轴保护等内容编译为一张全局时间轴事件表，然后按音频播放时间同步输出到终端。
 
 KLIP 的核心思想是：
 
@@ -850,7 +850,7 @@ Emit 用于在某个时间点触发 cue。
 ### 10.2 Emit 不是运行时协程
 
 Emit 不创建线程。
-Emit 不创建 Kotlin coroutine。
+Emit 不创建运行时协程。
 Emit 不在运行时调度。
 Emit 只在编译期复制 cue 的事件。
 
@@ -1289,10 +1289,10 @@ writerZ < protectedZ  禁止
 
 ## 16. 宽字符显示宽度
 
-KLIPlayer 必须实现显示宽度计算。
+KlipPlayer 必须实现显示宽度计算。
 
 原因：日文歌词、中文歌词、全角符号在终端中通常占 2 列。
-如果按 Kotlin `Char.length` 或字符串长度计算，会导致 Z 轴保护、光标移动、覆盖判断全部错位。
+如果按字符串长度代替终端列宽计算，会导致 Z 轴保护、光标移动、覆盖判断全部错位。
 
 ### 16.1 基本规则
 
@@ -1530,7 +1530,7 @@ KLP9001 runtime: 终端输出失败
 
 ### 20.2 check 命令
 
-`kliplayer check file.klip` 必须执行解析和编译。
+`klip check file.klip` 必须执行解析和编译。
 
 如果存在错误，返回非 0 退出码。
 
@@ -1538,13 +1538,13 @@ KLP9001 runtime: 终端输出失败
 
 ## 21. CLI 相关语义
 
-KLIP 规范主要定义脚本，但 KLIPlayer 应至少提供：
+KLIP 规范主要定义脚本，但 KlipPlayer 应至少提供：
 
 ```bash
-kliplayer play file.klip
-kliplayer play --start-at 00:30.000 file.klip
-kliplayer check file.klip
-kliplayer compile file.klip
+klip play file.klip
+klip play --start-at 00:30.000 file.klip
+klip check file.klip
+klip compile file.klip
 ```
 
 ### 21.1 play
@@ -1553,7 +1553,7 @@ kliplayer compile file.klip
 
 `play` 可使用 `--start-at MM:SS.mmm` 指定起始播放位置。使用该选项时，指定时间之前的事件会无视时间间隔快速执行；随后音频时钟和剩余事件从指定时间开始同步播放。
 
-如果 `music` 未配置、文件不存在、或 Java Sound 无法启动播放，当前实现会向 stderr 输出 warning，并使用 monotonic no-audio clock 继续执行事件表。当前实现随应用打包 MP3 和 FLAC 的 Java Sound 服务提供器。
+如果 `music` 未配置、文件不存在、或音频设备无法启动播放，当前实现会向 stderr 输出 warning，并使用 monotonic no-audio clock 继续执行事件表。Rust 实现使用 rodio 解码和播放音频；Java Sound 实现保留在 `legacy/kotlin/`。
 
 ### 21.2 check
 

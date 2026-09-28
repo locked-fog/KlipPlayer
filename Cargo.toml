@@ -1,0 +1,19 @@
+[package]
+name = "klip-player"
+version = "2.0.0-alpha.1"
+edition = "2024"
+license = "Apache-2.0"
+description = "Compile and play KLIP terminal performances"
+
+[[bin]]
+name = "klip"
+path = "src/main.rs"
+
+[dependencies]
+mlua = { version = "0.12.1", features = ["lua52", "vendored"] }
+rodio = { version = "0.22.2", default-features = true }
+crossterm = "0.29.0"
+ctrlc = "3.4"
+
+[dev-dependencies]
+tempfile = "3"

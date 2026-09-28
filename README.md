@@ -1,71 +1,48 @@
-# KLIPlayer
+# KlipPlayer
 
-KLIPlayer is a Kotlin/JVM rewrite of CLIPlayer. It reads `.klip` scripts, expands track/cue/emit/loop blocks into a compile-time timeline, and renders ANSI terminal performances with Z-axis protection.
+KlipPlayer compiles and plays `.klip` terminal performances. Scripts expand
+tracks, cues, loops, and compile-time Lua addons into one ordered event table;
+playback renders ANSI text and effects alongside audio. The default
+implementation is Rust. The original Kotlin/JVM KLIPlayer v1.1.1 remains in
+[`legacy/kotlin/`](legacy/kotlin/) for reference and regression checks.
 
-Lua addons can generate events during compilation via `[meta addon=...]` and `[func ...]`; playback still runs only the flattened event table.
+The KLIP format and existing scripts are unchanged. The completed
+[`netsu-ijou.klip`](examples/netsu-ijou.klip) compiles to 1,504 events, and its
+compiler and terminal output match saved v1.1.1 compatibility fixtures.
 
-This project is intentionally small for the initial core:
-
-- Kotlin/JVM, target JVM 21.
-- Single Gradle module.
-- Runnable JAR output.
-- ANSI terminal renderer.
-- Compile-time timeline expansion.
-- `ProtectionMask` without a full virtual screen.
-- CJK-aware display width.
-- Structured parser/compiler errors with file and line information.
-- Audio playback behind `AudioClock`, with explicit no-audio fallback warnings.
-
-## Build
+## Build and run
 
 ```sh
-./gradlew cleanTest test
-./gradlew build
+cargo build --release --locked
+./target/release/klip check examples/netsu-ijou.klip
+./target/release/klip compile examples/netsu-ijou.klip
+./target/release/klip play examples/netsu-ijou.klip
+./target/release/klip play --start-at 01:27.564 examples/netsu-ijou.klip
 ```
 
-The runnable JAR is produced under `build/libs/`.
+`play` looks up `[meta music="..."]` relative to the script file. For this
+example, supply your own authorized audio as `examples/netsu-ijou.mp3` or use a
+local symbolic link at that path. Local audio files are ignored by Git. If
+music is missing or cannot start, `play` prints a warning and uses a monotonic
+no-audio clock. A terminal at least 160 columns by 40 rows is recommended for
+this example.
+
+## Checks
 
 ```sh
-java -jar build/libs/KLIPlayer-1.1.1.jar check examples/demo.klip
+cargo fmt --check
+cargo clippy --all-targets --locked -- -D warnings
+cargo test --locked
+cargo test --test audio_device --locked -- --ignored  # needs audio output
 ```
 
-## CLI
+The ordinary test suite compares compiler and ANSI playback output against the
+Kotlin v1.1.1 corpus in [`compat/`](compat/). The explicit audio test needs an
+output device. Linux builds of the current audio backend need ALSA development
+libraries; see the [CI workflow](.github/workflows/ci.yml).
 
-```sh
-./gradlew run --args="check examples/demo.klip"
-./gradlew run --args="compile examples/demo.klip"
-./gradlew run --args="play examples/demo.klip"
-./gradlew run --args="play --start-at 00:30.000 examples/demo.klip"
-```
+The [KLIP specification](docs/KLIP_SPEC.md), [Lua addon guide](docs/LUA_ADDONS.md),
+and [migration record](docs/MIGRATION.md) describe the format and transition.
+The command is now `klip`; `kliplayer` belongs to the archived Kotlin version.
 
-Commands:
-
-- `check <file.klip>` parses and compiles a script, then prints summary information.
-- `compile <file.klip>` prints the expanded event table.
-- `play <file.klip>` plays the expanded timeline through the ANSI renderer.
-- `play --start-at MM:SS.mmm <file.klip>` fast-renders commands before the requested time, then starts audio and timed command playback from that position.
-
-`examples/demo.klip` references `demo.mp3`, but this repository does not ship an audio file. `play examples/demo.klip` therefore prints a warning and uses a monotonic no-audio clock.
-
-## Current Scope
-
-Implemented in v1.1.1:
-
-- `meta`, `anchor`, `track`, `cue`, `emit`, and cue-local `loop`.
-- Absolute time, anchor time, relative time, decimal beats, and fraction beats.
-- ANSI operations: move, foreground/background color, style, space, newline, cleanline, clear, hide/show cursor.
-- Compile-time expansion of `track/cue/emit/loop` into a sorted event table.
-- Compile-time Lua addons for event generation; no Lua or plugin runtime runs during playback.
-- Z/protect behavior through `ProtectionMask`.
-- CJK-aware display width for lyrics and mask placement.
-- CLI commands: `check`, `compile`, `play`.
-
-Not implemented in v1.1.1:
-
-- KTS, variables, macro parameters, random values, conditions, runtime functions, runtime plugins, dependency injection, TUI, runtime coroutine semantics, full virtual screen, image output, sixel, kitty image protocol, networking.
-
-Audio playback is encapsulated behind `AudioClock`. The implementation uses Java Sound with bundled MP3 and FLAC service providers, and falls back to a monotonic clock when music is missing, unsupported, or not configured.
-
-## License
-
-KLIPlayer is licensed under the Apache License 2.0. See `LICENSE`.
+KlipPlayer is licensed under the Apache License 2.0. See [LICENSE](LICENSE).

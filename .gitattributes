@@ -1,0 +1,4 @@
+# Exact v1.1.1 output snapshots retain LF bytes and rendered text whitespace
+# across Windows, macOS, and Linux checkouts.
+compat/v1.1.1/*.compile.txt -text -whitespace
+compat/v1.1.1/*.fast-play.ansi -text

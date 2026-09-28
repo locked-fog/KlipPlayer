@@ -1,0 +1,31 @@
+333ms order=0 z=20 cursor=rain protect=false line=10 source=cue:rain/loop :: mv 1,10 | text |
+333ms order=28 z=100 cursor=main protect=true line=31 source=track:lyrics :: mv 10,20 | color default | text 熱異常
+413ms order=1 z=20 cursor=rain protect=false line=11 source=cue:rain/loop :: mv 1,10 | space 1 | mv 2,10 | text |
+493ms order=2 z=20 cursor=rain protect=false line=12 source=cue:rain/loop :: mv 2,10 | space 1 | mv 3,10 | text |
+500ms order=29 z=100 cursor=main protect=true line=32 source=track:lyrics :: mv 11,20 | text なにかが来ている
+573ms order=3 z=20 cursor=rain protect=false line=13 source=cue:rain/loop :: mv 3,10 | space 1
+573ms order=4 z=20 cursor=rain protect=false line=10 source=cue:rain/loop :: mv 1,10 | text |
+653ms order=5 z=20 cursor=rain protect=false line=11 source=cue:rain/loop :: mv 1,10 | space 1 | mv 2,10 | text |
+667ms order=12 z=20 cursor=rain protect=false line=10 source=cue:rain/loop :: mv 1,10 | text |
+733ms order=6 z=20 cursor=rain protect=false line=12 source=cue:rain/loop :: mv 2,10 | space 1 | mv 3,10 | text |
+747ms order=13 z=20 cursor=rain protect=false line=11 source=cue:rain/loop :: mv 1,10 | space 1 | mv 2,10 | text |
+813ms order=7 z=20 cursor=rain protect=false line=13 source=cue:rain/loop :: mv 3,10 | space 1
+813ms order=8 z=20 cursor=rain protect=false line=10 source=cue:rain/loop :: mv 1,10 | text |
+827ms order=14 z=20 cursor=rain protect=false line=12 source=cue:rain/loop :: mv 2,10 | space 1 | mv 3,10 | text |
+893ms order=9 z=20 cursor=rain protect=false line=11 source=cue:rain/loop :: mv 1,10 | space 1 | mv 2,10 | text |
+907ms order=15 z=20 cursor=rain protect=false line=13 source=cue:rain/loop :: mv 3,10 | space 1
+907ms order=16 z=20 cursor=rain protect=false line=10 source=cue:rain/loop :: mv 1,10 | text |
+973ms order=10 z=20 cursor=rain protect=false line=12 source=cue:rain/loop :: mv 2,10 | space 1 | mv 3,10 | text |
+987ms order=17 z=20 cursor=rain protect=false line=11 source=cue:rain/loop :: mv 1,10 | space 1 | mv 2,10 | text |
+1053ms order=11 z=20 cursor=rain protect=false line=13 source=cue:rain/loop :: mv 3,10 | space 1
+1067ms order=18 z=20 cursor=rain protect=false line=12 source=cue:rain/loop :: mv 2,10 | space 1 | mv 3,10 | text |
+1147ms order=19 z=20 cursor=rain protect=false line=13 source=cue:rain/loop :: mv 3,10 | space 1
+1147ms order=20 z=20 cursor=rain protect=false line=10 source=cue:rain/loop :: mv 1,10 | text |
+1227ms order=21 z=20 cursor=rain protect=false line=11 source=cue:rain/loop :: mv 1,10 | space 1 | mv 2,10 | text |
+1307ms order=22 z=20 cursor=rain protect=false line=12 source=cue:rain/loop :: mv 2,10 | space 1 | mv 3,10 | text |
+1387ms order=23 z=20 cursor=rain protect=false line=13 source=cue:rain/loop :: mv 3,10 | space 1
+9667ms order=24 z=80 cursor=warn protect=false line=18 source=cue:flash :: mv 5,20 | color ff0055 | text WARNING
+9787ms order=25 z=80 cursor=warn protect=false line=19 source=cue:flash :: cleanline
+9907ms order=26 z=80 cursor=warn protect=false line=20 source=cue:flash :: mv 5,20 | color ff0055 | text WARNING
+10000ms order=30 z=100 cursor=main protect=true line=33 source=track:lyrics :: mv 12,20 | color ff0000 | text すぐそこまで
+10027ms order=27 z=80 cursor=warn protect=false line=21 source=cue:flash :: cleanline
