@@ -437,10 +437,10 @@ fn parse_event(file: &str, line: usize, input: &str, allow_emit: bool) -> Result
         }
         let (tag, end) = read_tag(file, line, rest, start)?;
         let (op, name) = parse_command(file, line, tag.trim())?;
-        if let Some(name) = name {
-            if emit.replace(name).is_some() {
-                return Err(error(file, line, "同一事件不能包含多个 emit"));
-            }
+        if let Some(name) = name
+            && emit.replace(name).is_some()
+        {
+            return Err(error(file, line, "同一事件不能包含多个 emit"));
         }
         if let Some(op) = op {
             ops.push(op);

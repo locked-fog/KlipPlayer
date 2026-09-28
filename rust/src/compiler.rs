@@ -182,6 +182,7 @@ fn resolve_cue(doc: &Document, raw: &RawEvent, previous: ResolvedTime) -> Result
     })
 }
 
+#[allow(clippy::too_many_arguments)]
 fn append_event(
     out: &mut Vec<Event>,
     order: &mut i64,

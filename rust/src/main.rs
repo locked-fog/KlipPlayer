@@ -1,15 +1,24 @@
+mod audio;
 mod compiler;
 mod lua;
 mod model;
 mod parser;
+mod renderer;
 
 use std::env;
 use std::fs;
+use std::io::IsTerminal;
 use std::process::ExitCode;
+use std::sync::Arc;
+use std::sync::atomic::{AtomicBool, Ordering};
+use std::thread;
+use std::time::Duration;
 
+use audio::AudioClock;
 use compiler::compile;
-use model::Timeline;
+use model::{Event, Op, Timeline};
 use parser::{parse_absolute, parse_document};
+use renderer::TerminalRenderer;
 
 struct Options {
     command: String,
@@ -106,17 +115,85 @@ fn run(args: &[String]) -> i32 {
     match outcome {
         Ok(()) => 0,
         Err(error) => {
-            eprintln!("{error}");
+            if error.downcast_ref::<model::KlipError>().is_some() {
+                eprintln!("{error}");
+            } else {
+                eprintln!("KLP9001 runtime: {error}");
+            }
             1
         }
     }
 }
 
-fn play(
-    _timeline: &Timeline,
-    _start_ms: i64,
-) -> std::result::Result<(), Box<dyn std::error::Error>> {
-    Err("playback is not implemented yet".into())
+fn play(timeline: &Timeline, start_ms: i64) -> std::result::Result<(), Box<dyn std::error::Error>> {
+    let (width, height) = (
+        timeline.document.meta.width(),
+        timeline.document.meta.height(),
+    );
+    if std::io::stdout().is_terminal()
+        && let Ok((columns, rows)) = crossterm::terminal::size()
+        && (usize::from(columns) < width || usize::from(rows) < height)
+    {
+        eprintln!(
+            "warning: terminal is {}x{}, script canvas is {}x{}",
+            columns, rows, width, height
+        );
+    }
+    let stop = Arc::new(AtomicBool::new(false));
+    let stop_signal = Arc::clone(&stop);
+    ctrlc::set_handler(move || stop_signal.store(true, Ordering::SeqCst))?;
+    let stdout = std::io::stdout();
+    let mut renderer = TerminalRenderer::new(width, height, stdout.lock())?;
+    let playback = (|| -> std::result::Result<(), Box<dyn std::error::Error>> {
+        renderer.render(&Event {
+            time_ms: 0,
+            order: i64::MIN,
+            cursor: "__startup__".into(),
+            z: i32::MAX,
+            protect: false,
+            ops: vec![Op::Clear],
+            line: 0,
+            source: "runtime:startup".into(),
+        })?;
+        renderer.flush()?;
+        let mut index = 0;
+        let mut rendered = false;
+        while index < timeline.events.len() && timeline.events[index].time_ms < start_ms {
+            renderer.render(&timeline.events[index])?;
+            rendered = true;
+            index += 1;
+        }
+        if rendered {
+            renderer.flush()?;
+        }
+        let mut audio = AudioClock::start(&timeline.document, timeline.end_ms(), start_ms);
+        if let Some(warning) = audio.warning() {
+            eprintln!("{warning}");
+        }
+        while (index < timeline.events.len() || !audio.is_finished())
+            && !stop.load(Ordering::SeqCst)
+        {
+            let now = audio.current_ms();
+            rendered = false;
+            while index < timeline.events.len() && timeline.events[index].time_ms <= now {
+                renderer.render(&timeline.events[index])?;
+                rendered = true;
+                index += 1;
+            }
+            if rendered {
+                renderer.flush()?;
+            }
+            if index >= timeline.events.len() && audio.is_finished() {
+                break;
+            }
+            thread::sleep(Duration::from_millis(5));
+        }
+        Ok(())
+    })();
+    let restore = renderer.restore();
+    playback?;
+    restore?;
+    Ok(())
 }
 
 fn main() -> ExitCode {

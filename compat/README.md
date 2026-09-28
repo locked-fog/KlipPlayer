@@ -14,7 +14,13 @@ protection, and operation descriptions. A replacement compiler must match
 them unless a documented compatibility correction is approved. In particular,
 `netsu-ijou.klip` expands to 1,504 events from 0 through 237,844 ms.
 
-These fixtures prove compilation behavior only. The repository does not ship
-`netsu-ijou.mp3`; playback synchronization requires an authorized copy of the
-audio and actual device tests. Terminal appearance also needs snapshots and
-real terminal checks.
+`*.fast-play.ansi` contains the exact stdout of `play --start-at` beyond the
+last event (00:20.000 for `demo`, 00:03.000 for `lua-addon`, and 04:00.000 for
+`netsu-ijou`). This exercises terminal output and state restoration without
+waiting for the song. It is a byte-level compatibility check, not a visual or
+timing acceptance test.
+
+The compiler and ANSI fixtures do not prove playback synchronization. The
+repository does not ship `netsu-ijou.mp3`; synchronization requires an
+authorized copy of the audio and actual device tests. Terminal appearance also
+needs intermediate-frame inspection in a real terminal.
