@@ -3,6 +3,7 @@
 build/
 out/
 .kotlin/
+rust/target/
 
 # IDE and editor state
 .idea/
